@@ -1,0 +1,30 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2854",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Trek Through The Stars",
+  "version": "0.0.0",
+  "author": "SonicSpeedster16",
+  "projectID": 386204,
+  "files": [
+    {
+      "projectID": XXXXXX,
+      "fileID": XXXXXXX,
+      "required": true
+    },
+    {
+      "projectID": XXXXXX,
+      "fileID": XXXXXXX,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
