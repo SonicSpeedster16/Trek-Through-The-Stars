@@ -1,0 +1,86 @@
+﻿Mods likely to add:
+XNet
+Custom Main Menu
+Resource Loader
+JER
+Ice and Fire
+Roguelike Dungeons
+AE2 Stuff
+Comforts
+Deep Mob Learning
+Broken Wings
+Snad
+XL Food Mod
+Charm
+Scannable
+Blur
+
+
+
+Mods/items needed:
+Long range transfer
+Gravestone
+backup mod
+block advancements
+block nether?
+dungeon/structure generation (reccomplex, ruins, roguelike)
+chunk loader
+Flight (jetpack, magic feather, creative)
+Leaf Decay
+Right click harvesting
+XP Tome/EXP storage
+
+
+
+Possible mods to add?
+Crafting Craft
+Cooking for Blockheads
+Chisel
+BetterFps
+Biome O' Plenty
+Extra Utilities
+Botania
+Thermal
+Ender IO
+Modtweaker
+Industrial Foregoing (Integration Foregoing)
+Immersive Engineering (Immersive Cables)
+FTB Utilities
+Mekanism
+Ender Storage
+Waystones
+Inventory Pets
+Building Gadgets
+Dark Utilities
+Default Options
+RFTools
+OpenBlocks Elevator
+Actually Additions
+Torchmaster
+Large Ore Deposits
+Farming for Blockheads
+Unidict (if needed)
+Special Mobs
+Lost Cities
+Rustic
+Chance Cubes
+Natura
+InControl!
+TipTheScales
+AttributeFix
+Ranged Pumps
+YNot
+Steve's Carts Reborn
+Spice of Life
+Solar Flux Reborn
+/dank/null
+Bloodmoon
+The Beneath
+Simple Generators
+Click Machine
+Trash Slot
+Bountiful Baubles
+LootTweaker
+Rats
+
+(page 22)
