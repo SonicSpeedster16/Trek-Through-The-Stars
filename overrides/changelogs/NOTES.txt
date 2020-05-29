@@ -3,17 +3,22 @@ XNet
 Custom Main Menu
 Resource Loader
 JER
-Ice and Fire
 Roguelike Dungeons
-AE2 Stuff
-Comforts
-Deep Mob Learning
-Broken Wings
 Snad
 XL Food Mod
 Charm
 Scannable
 Blur
+ExtraPlanets (check out GalaxySpace and Zollern Galaxy also)
+realistic torches
+enchanting plus
+galacticraft tweaker
+better burning
+ender mail
+equal dragons
+xXx_MoreToolMats_xXx
+scarper
+slide em all
 
 
 
@@ -22,34 +27,38 @@ Long range transfer
 Gravestone
 backup mod
 block advancements
-block nether?
-dungeon/structure generation (reccomplex, ruins, roguelike)
+block nether (no nether portals)
+dungeon/structure generation (reccomplex, ruins, additional structures, roguelike)
 chunk loader
-Flight (jetpack, magic feather, creative)
+Flight (jetpack, magic feather, creative) (wings mod) -- DML?
 Leaf Decay
 Right click harvesting
-XP Tome/EXP storage
+XP Tome/EXP storage (global xp)
+cave overhaul for planets (yung, worley)
+minicoal
+watering can
+magnet (better magnets?)
 
 
 
 Possible mods to add?
 Crafting Craft
 Cooking for Blockheads
-Chisel
+Chisel (environmental materials)
 BetterFps
 Biome O' Plenty
 Extra Utilities
 Botania
 Thermal
-Ender IO
+Ender IO (gas conduits)
 Modtweaker
 Industrial Foregoing (Integration Foregoing)
 Immersive Engineering (Immersive Cables)
 FTB Utilities
-Mekanism
+Mekanism (gas conduits, mekanismores)
 Ender Storage
 Waystones
-Inventory Pets
+Inventory Pets (planet dungeon rewards?)
 Building Gadgets
 Dark Utilities
 Default Options
@@ -82,5 +91,38 @@ Trash Slot
 Bountiful Baubles
 LootTweaker
 Rats
+Lost Cities (Lost souls)
+chickens
+portality
+treasure2!
+packing tape
+ender crop
+champions
+dragon murder
+orespawn
+gauges and switches
+large fluid tank
+inventory generators
+enderbags
+zombie awareness
+soulbottle
+tinkers extras
+super sound muffler
+iron furnaces
+traveller's boots
+zombie players
+rough mobs revamped
+planet progression
+garbage bins
+animalnet
+exp ore
+stone crafting table
+toxic rain
+tinker's survival
+ezWastelands (wasteland meteors)
+hardcore spelunking
+ender ore
+glassential
 
-(page 22)
+
+(page 113)
