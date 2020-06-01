@@ -16,7 +16,7 @@ ender mail
 xXx_MoreToolMats_xXx
 scarper
 slide em all
-More Planets (might need to downgrade VanillaFix and Surge)
+More Planets (mixin issue)
 
 
 Mods/items needed:
@@ -111,7 +111,6 @@ exp ore
 stone crafting table
 toxic rain
 tinker's survival
-ezWastelands (wasteland meteors)
 hardcore spelunking
 ender ore
 glassential
