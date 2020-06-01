@@ -7,19 +7,16 @@ Roguelike Dungeons
 Snad
 XL Food Mod
 Charm
-Scannable
 Blur
 ExtraPlanets (check out GalaxySpace and Zollern Galaxy also)
 realistic torches
-enchanting plus
 galacticraft tweaker
 better burning
 ender mail
-equal dragons
 xXx_MoreToolMats_xXx
 scarper
 slide em all
-
+More Planets (might need to downgrade VanillaFix and Surge)
 
 
 Mods/items needed:
@@ -27,7 +24,7 @@ Long range transfer
 Gravestone
 backup mod
 block advancements
-block nether (no nether portals)
+block nether/end (no nether portals), overworld quartz?
 dungeon/structure generation (reccomplex, ruins, additional structures, roguelike)
 chunk loader
 Flight (jetpack, magic feather, creative) (wings mod) -- DML?
@@ -53,7 +50,6 @@ Thermal
 Ender IO (gas conduits)
 Modtweaker
 Industrial Foregoing (Integration Foregoing)
-Immersive Engineering (Immersive Cables)
 FTB Utilities
 Mekanism (gas conduits, mekanismores)
 Ender Storage
@@ -73,9 +69,7 @@ Special Mobs
 Lost Cities
 Rustic
 Chance Cubes
-Natura
 InControl!
-TipTheScales
 AttributeFix
 Ranged Pumps
 YNot
@@ -84,7 +78,6 @@ Spice of Life
 Solar Flux Reborn
 /dank/null
 Bloodmoon
-The Beneath
 Simple Generators
 Click Machine
 Trash Slot
@@ -98,7 +91,6 @@ treasure2!
 packing tape
 ender crop
 champions
-dragon murder
 orespawn
 gauges and switches
 large fluid tank
