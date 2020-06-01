@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Trek Through The Stars",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "SonicSpeedster16",
   "projectID": 386204,
   "files": [
@@ -272,7 +272,7 @@
     },
     {
       "projectID": 284229,
-      "fileID": 2966966,
+      "fileID": 2968355,
       "required": true
     },
     {
@@ -302,7 +302,7 @@
     },
     {
       "projectID": 321117,
-      "fileID": 2914992,
+      "fileID": 2968425,
       "required": true
     },
     {
@@ -343,11 +343,6 @@
     {
       "projectID": 243298,
       "fileID": 2704186,
-      "required": true
-    },
-    {
-      "projectID": XXXXXX,
-      "fileID": XXXXXXX,
       "required": true
     }
   ],
