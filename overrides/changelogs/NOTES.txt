@@ -3,19 +3,18 @@ XNet
 Custom Main Menu
 Resource Loader
 JER
-Roguelike Dungeons
 Snad
-XL Food Mod
-Charm
+XL Food Mod + Spice of Life
 Blur
 ExtraPlanets (check out GalaxySpace and Zollern Galaxy also)
-realistic torches
 galacticraft tweaker
 better burning
 ender mail
 xXx_MoreToolMats_xXx
 scarper
 slide em all
+Wither Skeleton Tweaks
+Unidict
 More Planets (mixin issue)
 
 
@@ -25,7 +24,6 @@ Gravestone
 backup mod
 block advancements
 block nether/end (no nether portals), overworld quartz?
-dungeon/structure generation (reccomplex, ruins, additional structures, roguelike)
 chunk loader
 Flight (jetpack, magic feather, creative) (wings mod) -- DML?
 Leaf Decay
@@ -59,38 +57,28 @@ Building Gadgets
 Dark Utilities
 Default Options
 RFTools
-OpenBlocks Elevator
 Actually Additions
 Torchmaster
 Large Ore Deposits
-Farming for Blockheads
-Unidict (if needed)
 Special Mobs
-Lost Cities
-Rustic
 Chance Cubes
-InControl!
 AttributeFix
 Ranged Pumps
 YNot
 Steve's Carts Reborn
-Spice of Life
 Solar Flux Reborn
 /dank/null
-Bloodmoon
 Simple Generators
 Click Machine
 Trash Slot
 Bountiful Baubles
 LootTweaker
 Rats
-Lost Cities (Lost souls)
 chickens
 portality
 treasure2!
 packing tape
 ender crop
-champions
 orespawn
 gauges and switches
 large fluid tank
@@ -103,15 +91,12 @@ super sound muffler
 iron furnaces
 traveller's boots
 zombie players
-rough mobs revamped
 planet progression
 garbage bins
 animalnet
 exp ore
 stone crafting table
 toxic rain
-tinker's survival
-hardcore spelunking
 ender ore
 glassential
 
