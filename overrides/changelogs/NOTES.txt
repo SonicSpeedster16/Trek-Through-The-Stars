@@ -5,31 +5,33 @@ Resource Loader
 JER
 Snad
 XL Food Mod + Spice of Life
-Blur
 ExtraPlanets (check out GalaxySpace and Zollern Galaxy also)
 galacticraft tweaker
+Stone Chest
+Stone Crafting Table
 better burning
 ender mail
 xXx_MoreToolMats_xXx
 scarper
-slide em all
 Wither Skeleton Tweaks
 Unidict
 More Planets (mixin issue)
+No Advancements
+Rain Delay + Toxic Rain (or twisted Tweaks?)
+LootTweaker (for adding loot to meteor chests) - resources were sent into space during the wars.
 
 
 Mods/items needed:
 Long range transfer
 Gravestone
 backup mod
-block advancements
-block nether/end (no nether portals), overworld quartz?
+block nether/end (No Nether Portals + Overworld Quartz)
 chunk loader
 Flight (jetpack, magic feather, creative) (wings mod) -- DML?
 Leaf Decay
 Right click harvesting
 XP Tome/EXP storage (global xp)
-cave overhaul for planets (yung, worley)
+cave overhaul for planets (yung)
 minicoal
 watering can
 magnet (better magnets?)
@@ -41,9 +43,7 @@ Crafting Craft
 Cooking for Blockheads
 Chisel (environmental materials)
 BetterFps
-Biome O' Plenty
 Extra Utilities
-Botania
 Thermal
 Ender IO (gas conduits)
 Modtweaker
@@ -54,27 +54,23 @@ Ender Storage
 Waystones
 Inventory Pets (planet dungeon rewards?)
 Building Gadgets
-Dark Utilities
-Default Options
+Default Options (No Default Auto-Jump)
 RFTools
 Actually Additions
 Torchmaster
 Large Ore Deposits
-Special Mobs
+Primitive Mobs
 Chance Cubes
 AttributeFix
 Ranged Pumps
 YNot
 Steve's Carts Reborn
-Solar Flux Reborn
 /dank/null
 Simple Generators
 Click Machine
 Trash Slot
 Bountiful Baubles
 LootTweaker
-Rats
-chickens
 portality
 treasure2!
 packing tape
@@ -85,7 +81,6 @@ large fluid tank
 inventory generators
 enderbags
 zombie awareness
-soulbottle
 tinkers extras
 super sound muffler
 iron furnaces
@@ -93,12 +88,12 @@ traveller's boots
 zombie players
 planet progression
 garbage bins
-animalnet
+animalnet / soulbottle
 exp ore
-stone crafting table
-toxic rain
 ender ore
 glassential
+rats
+utility base ores
 
 
 (page 113)
