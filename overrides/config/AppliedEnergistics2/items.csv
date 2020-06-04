@@ -649,6 +649,7 @@ ae2stuff:inscriber, Advanced Inscriber
 ae2stuff:wireless, Wireless Connector
 ae2stuff:wireless_kit, Wireless Setup Kit
 ae2stuff:visualiser, Network Visualisation Tool
+ezwastelands:ezwastelandblock, Wasteland Block
 nuclearcraft:ore:0, Copper Ore
 nuclearcraft:ore:1, Tin Ore
 nuclearcraft:ore:2, Lead Ore
@@ -1310,6 +1311,10 @@ nuclearcraft:fluid_alugentum, Molten Alugentum
 nuclearcraft:fluid_alumina, Molten Alumina
 nuclearcraft:fluid_aluminum, Molten Aluminum
 nuclearcraft:fluid_silver, Molten Silver
+wasteland_meteors:meteor_block, Meteor Block
+wasteland_meteors:meteor_slab:0, Meteor Block Slab
+wasteland_meteors:meteor_stairs, Meteor Block Stairs
+wasteland_meteors:meteor_chest, Meteor Chest
 forge:bucketfilled, %s Bucket
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
@@ -1620,6 +1625,7 @@ appliedenergistics2:facade:0, Cable Facade - Brown Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Green Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Red Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Black Concrete Powder
+appliedenergistics2:facade:0, Cable Facade - Wasteland Block
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Lead Ore
@@ -1672,6 +1678,7 @@ appliedenergistics2:facade:0, Cable Facade - Supercold Ice
 appliedenergistics2:facade:0, Cable Facade - Fusion Connector
 appliedenergistics2:facade:0, Cable Facade - Wasteland Earth
 appliedenergistics2:facade:0, Cable Facade - Tritium Lamp
+appliedenergistics2:facade:0, Cable Facade - Meteor Block
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -1746,60 +1753,6 @@ appliedenergistics2:facade:0, Cable Facade - Brownstone Creeperface
 appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
-appliedenergistics2:facade:0, Cable Facade - Silver Ore
-appliedenergistics2:facade:0, Cable Facade - Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Silver Block
-appliedenergistics2:facade:0, Cable Facade - Sapphire Block
-appliedenergistics2:facade:0, Cable Facade - Charred Dirt
-appliedenergistics2:facade:0, Cable Facade - Charred Grass
-appliedenergistics2:facade:0, Cable Facade - Charred Stone
-appliedenergistics2:facade:0, Cable Facade - Charred Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Charred Gravel
-appliedenergistics2:facade:0, Cable Facade - Ash
-appliedenergistics2:facade:0, Cable Facade - Frozen Dirt
-appliedenergistics2:facade:0, Cable Facade - Frozen Grass
-appliedenergistics2:facade:0, Cable Facade - Frozen Stone
-appliedenergistics2:facade:0, Cable Facade - Frozen Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Frozen Gravel
-appliedenergistics2:facade:0, Cable Facade - Frozen Splinters
-appliedenergistics2:facade:0, Cable Facade - Dragon Nest
-appliedenergistics2:facade:0, Cable Facade - Block of Dragon Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Dragon Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Dragon Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Dragon Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Dragon Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Dragon Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Dragon Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Dragon Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Dragon Bones
-appliedenergistics2:facade:0, Cable Facade - Desert Myrmex Resin
-appliedenergistics2:facade:0, Cable Facade - Jungle Myrmex Resin
-appliedenergistics2:facade:0, Cable Facade - Sticky Desert Myrmex Resin
-appliedenergistics2:facade:0, Cable Facade - Sticky Jungle Myrmex Resin
-appliedenergistics2:facade:0, Cable Facade - Hardened Desert Myrmex Resin
-appliedenergistics2:facade:0, Cable Facade - Hardened Jungle Myrmex Resin
-appliedenergistics2:facade:0, Cable Facade - Desert Myrmex Resin Glass
-appliedenergistics2:facade:0, Cable Facade - Jungle Myrmex Resin Glass
-appliedenergistics2:facade:0, Cable Facade - Block of Fire Dragonsteel
-appliedenergistics2:facade:0, Cable Facade - Block of Ice Dragonsteel
-appliedenergistics2:facade:0, Cable Facade - Dreadstone
-appliedenergistics2:facade:0, Cable Facade - Dreadstone Bricks
-appliedenergistics2:facade:0, Cable Facade - Chiseled Dreadstone Bricks
-appliedenergistics2:facade:0, Cable Facade - Cracked Dreadstone Bricks
-appliedenergistics2:facade:0, Cable Facade - Mossy Dreadstone Bricks
-appliedenergistics2:facade:0, Cable Facade - Dreadstone Tile
-appliedenergistics2:facade:0, Cable Facade - Dreadstone Chiseled Skull
-appliedenergistics2:facade:0, Cable Facade - Dreadstone Bricks Slab
-appliedenergistics2:facade:0, Cable Facade - Dreadwood Log
-appliedenergistics2:facade:0, Cable Facade - Dreadwood Planks
-appliedenergistics2:facade:0, Cable Facade - Dreadwood Keyhole
-appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
-appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
 appliedenergistics2:facade:0, Cable Facade - Dilithium Ore
 appliedenergistics2:facade:0, Cable Facade - Tritanium Ore
 appliedenergistics2:facade:0, Cable Facade - Tritanium Block
@@ -1847,6 +1800,69 @@ appliedenergistics2:facade:0, Cable Facade - Engine Exhaust Plasma
 appliedenergistics2:facade:0, Cable Facade - Soot-covered Machine Casing
 appliedenergistics2:facade:0, Cable Facade - Glitch Infused Block
 appliedenergistics2:facade:0, Cable Facade - Flux Block
+appliedenergistics2:facade:0, Cable Facade - Tin Decoration Block
+appliedenergistics2:facade:0, Cable Facade - Tin Wall Block
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Block
+appliedenergistics2:facade:0, Cable Facade - Block of Tin
+appliedenergistics2:facade:0, Cable Facade - Aluminum Block
+appliedenergistics2:facade:0, Cable Facade - Solid Meteoric Iron
+appliedenergistics2:facade:0, Cable Facade - Silicon Block
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Cheese Ore
+appliedenergistics2:facade:0, Cable Facade - Moon Dirt
+appliedenergistics2:facade:0, Cable Facade - Moon Rock
+appliedenergistics2:facade:0, Cable Facade - Moon Turf
+appliedenergistics2:facade:0, Cable Facade - Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Moon Dungeon Brick
+appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.tin_slab_1.name
+appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.tin_slab_2.name
+appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.moon_slab.name
+appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.moon_bricks_slab.name
+appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.mars_slab.name
+appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.mars_bricks_slab.name
+appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.asteroids_slab.name
+appliedenergistics2:facade:0, Cable Facade - Hidden Redstone Wire
+appliedenergistics2:facade:0, Cable Facade - tile.concealed_repeater_pow.name
+appliedenergistics2:facade:0, Cable Facade - Hidden Redstone Repeater
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Desh Ore
+appliedenergistics2:facade:0, Cable Facade - Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Mars Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Mars Fine Regolith
+appliedenergistics2:facade:0, Cable Facade - Mars Regolith
+appliedenergistics2:facade:0, Cable Facade - Mars Dungeon Brick
+appliedenergistics2:facade:0, Cable Facade - Block of Desh
+appliedenergistics2:facade:0, Cable Facade - Mars Stone
+appliedenergistics2:facade:0, Cable Facade - Asteroid Rock
+appliedenergistics2:facade:0, Cable Facade - Asteroid Rock
+appliedenergistics2:facade:0, Cable Facade - Asteroid Rock
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Ilmenite Ore
+appliedenergistics2:facade:0, Cable Facade - Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Dark Decoration Block
+appliedenergistics2:facade:0, Cable Facade - Titanium Block
+appliedenergistics2:facade:0, Cable Facade - Dense Ice
+appliedenergistics2:facade:0, Cable Facade - Venus Soft Rock
+appliedenergistics2:facade:0, Cable Facade - Venus Hard Rock
+appliedenergistics2:facade:0, Cable Facade - Venus Volcanic Rock
+appliedenergistics2:facade:0, Cable Facade - Pumice
+appliedenergistics2:facade:0, Cable Facade - Venus Dungeon Brick I
+appliedenergistics2:facade:0, Cable Facade - Venus Dungeon Brick II
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Galena Ore
+appliedenergistics2:facade:0, Cable Facade - Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Lead Block
+appliedenergistics2:facade:0, Cable Facade - Solar Ore
+appliedenergistics2:facade:0, Cable Facade - Scorched Venus Rock
 appliedenergistics2:facade:0, Cable Facade - Oak Trim
 appliedenergistics2:facade:0, Cable Facade - Spruce Trim
 appliedenergistics2:facade:0, Cable Facade - Birch Trim
@@ -2208,41 +2224,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -2270,12 +2286,6 @@ tconstruct:shard:0, Lead Shard
 tconstruct:shard:0, Silver Shard
 tconstruct:shard:0, Electrum Shard
 tconstruct:shard:0, Steel Shard
-tconstruct:shard:0, Dragon Bone Shard
-tconstruct:shard:0, Desert Myrmex Chitin Shard
-tconstruct:shard:0, Jungle Myrmex Chitin Shard
-tconstruct:shard:0, Fire Dragonsteel Shard
-tconstruct:shard:0, Ice Dragonsteel Shard
-tconstruct:shard:0, Weezer Shard
 tconstruct:shard:0, Boron Shard
 tconstruct:shard:0, Tough Alloy Shard
 tconstruct:shard:0, Hard Carbon Shard
@@ -2311,12 +2321,6 @@ tconstruct:sharpening_kit:0, Lead Sharpening Kit
 tconstruct:sharpening_kit:0, Silver Sharpening Kit
 tconstruct:sharpening_kit:0, Electrum Sharpening Kit
 tconstruct:sharpening_kit:0, Steel Sharpening Kit
-tconstruct:sharpening_kit:0, Dragon Bone Sharpening Kit
-tconstruct:sharpening_kit:0, Desert Myrmex Chitin Sharpening Kit
-tconstruct:sharpening_kit:0, Jungle Myrmex Chitin Sharpening Kit
-tconstruct:sharpening_kit:0, Fire Dragonsteel Sharpening Kit
-tconstruct:sharpening_kit:0, Ice Dragonsteel Sharpening Kit
-tconstruct:sharpening_kit:0, Weezer Sharpening Kit
 tconstruct:sharpening_kit:0, Dilithium Sharpening Kit
 tconstruct:sharpening_kit:0, Tritanium Sharpening Kit
 tconstruct:sharpening_kit:0, Boron Sharpening Kit
@@ -2354,12 +2358,6 @@ tconstruct:pick_head:0, Lead Pickaxe Head
 tconstruct:pick_head:0, Silver Pickaxe Head
 tconstruct:pick_head:0, Electrum Pickaxe Head
 tconstruct:pick_head:0, Steel Pickaxe Head
-tconstruct:pick_head:0, Dragon Bone Pickaxe Head
-tconstruct:pick_head:0, Desert Myrmex Chitin Pickaxe Head
-tconstruct:pick_head:0, Jungle Myrmex Chitin Pickaxe Head
-tconstruct:pick_head:0, Fire Dragonsteel Pickaxe Head
-tconstruct:pick_head:0, Ice Dragonsteel Pickaxe Head
-tconstruct:pick_head:0, Weezer Pickaxe Head
 tconstruct:pick_head:0, Dilithium Pickaxe Head
 tconstruct:pick_head:0, Tritanium Pickaxe Head
 tconstruct:pick_head:0, Boron Pickaxe Head
@@ -2397,12 +2395,6 @@ tconstruct:shovel_head:0, Lead Shovel Head
 tconstruct:shovel_head:0, Silver Shovel Head
 tconstruct:shovel_head:0, Electrum Shovel Head
 tconstruct:shovel_head:0, Steel Shovel Head
-tconstruct:shovel_head:0, Dragon Bone Shovel Head
-tconstruct:shovel_head:0, Desert Myrmex Chitin Shovel Head
-tconstruct:shovel_head:0, Jungle Myrmex Chitin Shovel Head
-tconstruct:shovel_head:0, Fire Dragonsteel Shovel Head
-tconstruct:shovel_head:0, Ice Dragonsteel Shovel Head
-tconstruct:shovel_head:0, Weezer Shovel Head
 tconstruct:shovel_head:0, Dilithium Shovel Head
 tconstruct:shovel_head:0, Tritanium Shovel Head
 tconstruct:shovel_head:0, Boron Shovel Head
@@ -2440,12 +2432,6 @@ tconstruct:axe_head:0, Lead Axe Head
 tconstruct:axe_head:0, Silver Axe Head
 tconstruct:axe_head:0, Electrum Axe Head
 tconstruct:axe_head:0, Steel Axe Head
-tconstruct:axe_head:0, Dragon Bone Axe Head
-tconstruct:axe_head:0, Desert Myrmex Chitin Axe Head
-tconstruct:axe_head:0, Jungle Myrmex Chitin Axe Head
-tconstruct:axe_head:0, Fire Dragonsteel Axe Head
-tconstruct:axe_head:0, Ice Dragonsteel Axe Head
-tconstruct:axe_head:0, Weezer Axe Head
 tconstruct:axe_head:0, Dilithium Axe Head
 tconstruct:axe_head:0, Tritanium Axe Head
 tconstruct:axe_head:0, Boron Axe Head
@@ -2483,12 +2469,6 @@ tconstruct:broad_axe_head:0, Lead Broad Axe Head
 tconstruct:broad_axe_head:0, Silver Broad Axe Head
 tconstruct:broad_axe_head:0, Electrum Broad Axe Head
 tconstruct:broad_axe_head:0, Steel Broad Axe Head
-tconstruct:broad_axe_head:0, Dragon Bone Broad Axe Head
-tconstruct:broad_axe_head:0, Desert Myrmex Chitin Broad Axe Head
-tconstruct:broad_axe_head:0, Jungle Myrmex Chitin Broad Axe Head
-tconstruct:broad_axe_head:0, Fire Dragonsteel Broad Axe Head
-tconstruct:broad_axe_head:0, Ice Dragonsteel Broad Axe Head
-tconstruct:broad_axe_head:0, Weezer Broad Axe Head
 tconstruct:broad_axe_head:0, Dilithium Broad Axe Head
 tconstruct:broad_axe_head:0, Tritanium Broad Axe Head
 tconstruct:broad_axe_head:0, Boron Broad Axe Head
@@ -2526,12 +2506,6 @@ tconstruct:sword_blade:0, Lead Sword Blade
 tconstruct:sword_blade:0, Silver Sword Blade
 tconstruct:sword_blade:0, Electrum Sword Blade
 tconstruct:sword_blade:0, Steel Sword Blade
-tconstruct:sword_blade:0, Dragon Bone Sword Blade
-tconstruct:sword_blade:0, Desert Myrmex Chitin Sword Blade
-tconstruct:sword_blade:0, Jungle Myrmex Chitin Sword Blade
-tconstruct:sword_blade:0, Fire Dragonsteel Sword Blade
-tconstruct:sword_blade:0, Ice Dragonsteel Sword Blade
-tconstruct:sword_blade:0, Weezer Sword Blade
 tconstruct:sword_blade:0, Dilithium Sword Blade
 tconstruct:sword_blade:0, Tritanium Sword Blade
 tconstruct:sword_blade:0, Boron Sword Blade
@@ -2569,12 +2543,6 @@ tconstruct:large_sword_blade:0, Lead Large Sword Blade
 tconstruct:large_sword_blade:0, Silver Large Sword Blade
 tconstruct:large_sword_blade:0, Electrum Large Sword Blade
 tconstruct:large_sword_blade:0, Steel Large Sword Blade
-tconstruct:large_sword_blade:0, Dragon Bone Large Sword Blade
-tconstruct:large_sword_blade:0, Desert Myrmex Chitin Large Sword Blade
-tconstruct:large_sword_blade:0, Jungle Myrmex Chitin Large Sword Blade
-tconstruct:large_sword_blade:0, Fire Dragonsteel Large Sword Blade
-tconstruct:large_sword_blade:0, Ice Dragonsteel Large Sword Blade
-tconstruct:large_sword_blade:0, Weezer Large Sword Blade
 tconstruct:large_sword_blade:0, Dilithium Large Sword Blade
 tconstruct:large_sword_blade:0, Tritanium Large Sword Blade
 tconstruct:large_sword_blade:0, Boron Large Sword Blade
@@ -2612,12 +2580,6 @@ tconstruct:hammer_head:0, Lead Hammer Head
 tconstruct:hammer_head:0, Silver Hammer Head
 tconstruct:hammer_head:0, Electrum Hammer Head
 tconstruct:hammer_head:0, Steel Hammer Head
-tconstruct:hammer_head:0, Dragon Bone Hammer Head
-tconstruct:hammer_head:0, Desert Myrmex Chitin Hammer Head
-tconstruct:hammer_head:0, Jungle Myrmex Chitin Hammer Head
-tconstruct:hammer_head:0, Fire Dragonsteel Hammer Head
-tconstruct:hammer_head:0, Ice Dragonsteel Hammer Head
-tconstruct:hammer_head:0, Weezer Hammer Head
 tconstruct:hammer_head:0, Dilithium Hammer Head
 tconstruct:hammer_head:0, Tritanium Hammer Head
 tconstruct:hammer_head:0, Boron Hammer Head
@@ -2655,12 +2617,6 @@ tconstruct:excavator_head:0, Lead Excavator Head
 tconstruct:excavator_head:0, Silver Excavator Head
 tconstruct:excavator_head:0, Electrum Excavator Head
 tconstruct:excavator_head:0, Steel Excavator Head
-tconstruct:excavator_head:0, Dragon Bone Excavator Head
-tconstruct:excavator_head:0, Desert Myrmex Chitin Excavator Head
-tconstruct:excavator_head:0, Jungle Myrmex Chitin Excavator Head
-tconstruct:excavator_head:0, Fire Dragonsteel Excavator Head
-tconstruct:excavator_head:0, Ice Dragonsteel Excavator Head
-tconstruct:excavator_head:0, Weezer Excavator Head
 tconstruct:excavator_head:0, Dilithium Excavator Head
 tconstruct:excavator_head:0, Tritanium Excavator Head
 tconstruct:excavator_head:0, Boron Excavator Head
@@ -2698,12 +2654,6 @@ tconstruct:kama_head:0, Lead Kama Head
 tconstruct:kama_head:0, Silver Kama Head
 tconstruct:kama_head:0, Electrum Kama Head
 tconstruct:kama_head:0, Steel Kama Head
-tconstruct:kama_head:0, Dragon Bone Kama Head
-tconstruct:kama_head:0, Desert Myrmex Chitin Kama Head
-tconstruct:kama_head:0, Jungle Myrmex Chitin Kama Head
-tconstruct:kama_head:0, Fire Dragonsteel Kama Head
-tconstruct:kama_head:0, Ice Dragonsteel Kama Head
-tconstruct:kama_head:0, Weezer Kama Head
 tconstruct:kama_head:0, Dilithium Kama Head
 tconstruct:kama_head:0, Tritanium Kama Head
 tconstruct:kama_head:0, Boron Kama Head
@@ -2741,12 +2691,6 @@ tconstruct:scythe_head:0, Lead Scythe Head
 tconstruct:scythe_head:0, Silver Scythe Head
 tconstruct:scythe_head:0, Electrum Scythe Head
 tconstruct:scythe_head:0, Steel Scythe Head
-tconstruct:scythe_head:0, Dragon Bone Scythe Head
-tconstruct:scythe_head:0, Desert Myrmex Chitin Scythe Head
-tconstruct:scythe_head:0, Jungle Myrmex Chitin Scythe Head
-tconstruct:scythe_head:0, Fire Dragonsteel Scythe Head
-tconstruct:scythe_head:0, Ice Dragonsteel Scythe Head
-tconstruct:scythe_head:0, Weezer Scythe Head
 tconstruct:scythe_head:0, Dilithium Scythe Head
 tconstruct:scythe_head:0, Tritanium Scythe Head
 tconstruct:scythe_head:0, Boron Scythe Head
@@ -2784,12 +2728,6 @@ tconstruct:pan_head:0, Lead Pan
 tconstruct:pan_head:0, Silver Pan
 tconstruct:pan_head:0, Electrum Pan
 tconstruct:pan_head:0, Steel Pan
-tconstruct:pan_head:0, Dragon Bone Pan
-tconstruct:pan_head:0, Desert Myrmex Chitin Pan
-tconstruct:pan_head:0, Jungle Myrmex Chitin Pan
-tconstruct:pan_head:0, Fire Dragonsteel Pan
-tconstruct:pan_head:0, Ice Dragonsteel Pan
-tconstruct:pan_head:0, Weezer Pan
 tconstruct:pan_head:0, Dilithium Pan
 tconstruct:pan_head:0, Tritanium Pan
 tconstruct:pan_head:0, Boron Pan
@@ -2827,12 +2765,6 @@ tconstruct:sign_head:0, Lead Sign Plate
 tconstruct:sign_head:0, Silver Sign Plate
 tconstruct:sign_head:0, Electrum Sign Plate
 tconstruct:sign_head:0, Steel Sign Plate
-tconstruct:sign_head:0, Dragon Bone Sign Plate
-tconstruct:sign_head:0, Desert Myrmex Chitin Sign Plate
-tconstruct:sign_head:0, Jungle Myrmex Chitin Sign Plate
-tconstruct:sign_head:0, Fire Dragonsteel Sign Plate
-tconstruct:sign_head:0, Ice Dragonsteel Sign Plate
-tconstruct:sign_head:0, Weezer Sign Plate
 tconstruct:sign_head:0, Dilithium Sign Plate
 tconstruct:sign_head:0, Tritanium Sign Plate
 tconstruct:sign_head:0, Boron Sign Plate
@@ -2870,12 +2802,6 @@ tconstruct:tool_rod:0, Lead Tool Rod
 tconstruct:tool_rod:0, Silver Tool Rod
 tconstruct:tool_rod:0, Electrum Tool Rod
 tconstruct:tool_rod:0, Steel Tool Rod
-tconstruct:tool_rod:0, Dragon Bone Tool Rod
-tconstruct:tool_rod:0, Desert Myrmex Chitin Tool Rod
-tconstruct:tool_rod:0, Jungle Myrmex Chitin Tool Rod
-tconstruct:tool_rod:0, Fire Dragonsteel Tool Rod
-tconstruct:tool_rod:0, Ice Dragonsteel Tool Rod
-tconstruct:tool_rod:0, Weezer Tool Rod
 tconstruct:tool_rod:0, Dilithium Tool Rod
 tconstruct:tool_rod:0, Tritanium Tool Rod
 tconstruct:tool_rod:0, Boron Tool Rod
@@ -2913,12 +2839,6 @@ tconstruct:tough_tool_rod:0, Lead Tough Tool Rod
 tconstruct:tough_tool_rod:0, Silver Tough Tool Rod
 tconstruct:tough_tool_rod:0, Electrum Tough Tool Rod
 tconstruct:tough_tool_rod:0, Steel Tough Tool Rod
-tconstruct:tough_tool_rod:0, Dragon Bone Tough Tool Rod
-tconstruct:tough_tool_rod:0, Desert Myrmex Chitin Tough Tool Rod
-tconstruct:tough_tool_rod:0, Jungle Myrmex Chitin Tough Tool Rod
-tconstruct:tough_tool_rod:0, Fire Dragonsteel Tough Tool Rod
-tconstruct:tough_tool_rod:0, Ice Dragonsteel Tough Tool Rod
-tconstruct:tough_tool_rod:0, Weezer Tough Tool Rod
 tconstruct:tough_tool_rod:0, Dilithium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Tritanium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Boron Tough Tool Rod
@@ -2956,12 +2876,6 @@ tconstruct:binding:0, Lead Binding
 tconstruct:binding:0, Silver Binding
 tconstruct:binding:0, Electrum Binding
 tconstruct:binding:0, Steel Binding
-tconstruct:binding:0, Dragon Bone Binding
-tconstruct:binding:0, Desert Myrmex Chitin Binding
-tconstruct:binding:0, Jungle Myrmex Chitin Binding
-tconstruct:binding:0, Fire Dragonsteel Binding
-tconstruct:binding:0, Ice Dragonsteel Binding
-tconstruct:binding:0, Weezer Binding
 tconstruct:binding:0, Dilithium Binding
 tconstruct:binding:0, Tritanium Binding
 tconstruct:binding:0, Boron Binding
@@ -2999,12 +2913,6 @@ tconstruct:tough_binding:0, Lead Tough Binding
 tconstruct:tough_binding:0, Silver Tough Binding
 tconstruct:tough_binding:0, Electrum Tough Binding
 tconstruct:tough_binding:0, Steel Tough Binding
-tconstruct:tough_binding:0, Dragon Bone Tough Binding
-tconstruct:tough_binding:0, Desert Myrmex Chitin Tough Binding
-tconstruct:tough_binding:0, Jungle Myrmex Chitin Tough Binding
-tconstruct:tough_binding:0, Fire Dragonsteel Tough Binding
-tconstruct:tough_binding:0, Ice Dragonsteel Tough Binding
-tconstruct:tough_binding:0, Weezer Tough Binding
 tconstruct:tough_binding:0, Dilithium Tough Binding
 tconstruct:tough_binding:0, Tritanium Tough Binding
 tconstruct:tough_binding:0, Boron Tough Binding
@@ -3042,12 +2950,6 @@ tconstruct:wide_guard:0, Lead Wide Guard
 tconstruct:wide_guard:0, Silver Wide Guard
 tconstruct:wide_guard:0, Electrum Wide Guard
 tconstruct:wide_guard:0, Steel Wide Guard
-tconstruct:wide_guard:0, Dragon Bone Wide Guard
-tconstruct:wide_guard:0, Desert Myrmex Chitin Wide Guard
-tconstruct:wide_guard:0, Jungle Myrmex Chitin Wide Guard
-tconstruct:wide_guard:0, Fire Dragonsteel Wide Guard
-tconstruct:wide_guard:0, Ice Dragonsteel Wide Guard
-tconstruct:wide_guard:0, Weezer Wide Guard
 tconstruct:wide_guard:0, Dilithium Wide Guard
 tconstruct:wide_guard:0, Tritanium Wide Guard
 tconstruct:wide_guard:0, Boron Wide Guard
@@ -3085,12 +2987,6 @@ tconstruct:hand_guard:0, Lead Hand Guard
 tconstruct:hand_guard:0, Silver Hand Guard
 tconstruct:hand_guard:0, Electrum Hand Guard
 tconstruct:hand_guard:0, Steel Hand Guard
-tconstruct:hand_guard:0, Dragon Bone Hand Guard
-tconstruct:hand_guard:0, Desert Myrmex Chitin Hand Guard
-tconstruct:hand_guard:0, Jungle Myrmex Chitin Hand Guard
-tconstruct:hand_guard:0, Fire Dragonsteel Hand Guard
-tconstruct:hand_guard:0, Ice Dragonsteel Hand Guard
-tconstruct:hand_guard:0, Weezer Hand Guard
 tconstruct:hand_guard:0, Dilithium Hand Guard
 tconstruct:hand_guard:0, Tritanium Hand Guard
 tconstruct:hand_guard:0, Boron Hand Guard
@@ -3128,12 +3024,6 @@ tconstruct:cross_guard:0, Lead Cross Guard
 tconstruct:cross_guard:0, Silver Cross Guard
 tconstruct:cross_guard:0, Electrum Cross Guard
 tconstruct:cross_guard:0, Steel Cross Guard
-tconstruct:cross_guard:0, Dragon Bone Cross Guard
-tconstruct:cross_guard:0, Desert Myrmex Chitin Cross Guard
-tconstruct:cross_guard:0, Jungle Myrmex Chitin Cross Guard
-tconstruct:cross_guard:0, Fire Dragonsteel Cross Guard
-tconstruct:cross_guard:0, Ice Dragonsteel Cross Guard
-tconstruct:cross_guard:0, Weezer Cross Guard
 tconstruct:cross_guard:0, Dilithium Cross Guard
 tconstruct:cross_guard:0, Tritanium Cross Guard
 tconstruct:cross_guard:0, Boron Cross Guard
@@ -3171,12 +3061,6 @@ tconstruct:large_plate:0, Lead Large Plate
 tconstruct:large_plate:0, Silver Large Plate
 tconstruct:large_plate:0, Electrum Large Plate
 tconstruct:large_plate:0, Steel Large Plate
-tconstruct:large_plate:0, Dragon Bone Large Plate
-tconstruct:large_plate:0, Desert Myrmex Chitin Large Plate
-tconstruct:large_plate:0, Jungle Myrmex Chitin Large Plate
-tconstruct:large_plate:0, Fire Dragonsteel Large Plate
-tconstruct:large_plate:0, Ice Dragonsteel Large Plate
-tconstruct:large_plate:0, Weezer Large Plate
 tconstruct:large_plate:0, Dilithium Large Plate
 tconstruct:large_plate:0, Tritanium Large Plate
 tconstruct:large_plate:0, Boron Large Plate
@@ -3214,12 +3098,6 @@ tconstruct:knife_blade:0, Lead Knife Blade
 tconstruct:knife_blade:0, Silver Knife Blade
 tconstruct:knife_blade:0, Electrum Knife Blade
 tconstruct:knife_blade:0, Steel Knife Blade
-tconstruct:knife_blade:0, Dragon Bone Knife Blade
-tconstruct:knife_blade:0, Desert Myrmex Chitin Knife Blade
-tconstruct:knife_blade:0, Jungle Myrmex Chitin Knife Blade
-tconstruct:knife_blade:0, Fire Dragonsteel Knife Blade
-tconstruct:knife_blade:0, Ice Dragonsteel Knife Blade
-tconstruct:knife_blade:0, Weezer Knife Blade
 tconstruct:knife_blade:0, Dilithium Knife Blade
 tconstruct:knife_blade:0, Tritanium Knife Blade
 tconstruct:knife_blade:0, Boron Knife Blade
@@ -3257,12 +3135,6 @@ tconstruct:bow_limb:0, Lead Bowlimb
 tconstruct:bow_limb:0, Silver Bowlimb
 tconstruct:bow_limb:0, Electrum Bowlimb
 tconstruct:bow_limb:0, Steel Bowlimb
-tconstruct:bow_limb:0, Dragon Bone Bowlimb
-tconstruct:bow_limb:0, Desert Myrmex Chitin Bowlimb
-tconstruct:bow_limb:0, Jungle Myrmex Chitin Bowlimb
-tconstruct:bow_limb:0, Fire Dragonsteel Bowlimb
-tconstruct:bow_limb:0, Ice Dragonsteel Bowlimb
-tconstruct:bow_limb:0, Weezer Bowlimb
 tconstruct:bow_limb:0, Dilithium Bowlimb
 tconstruct:bow_limb:0, Tritanium Bowlimb
 tconstruct:bow_limb:0, Boron Bowlimb
@@ -3304,12 +3176,6 @@ tconstruct:arrow_head:0, Lead Arrow Head
 tconstruct:arrow_head:0, Silver Arrow Head
 tconstruct:arrow_head:0, Electrum Arrow Head
 tconstruct:arrow_head:0, Steel Arrow Head
-tconstruct:arrow_head:0, Dragon Bone Arrow Head
-tconstruct:arrow_head:0, Desert Myrmex Chitin Arrow Head
-tconstruct:arrow_head:0, Jungle Myrmex Chitin Arrow Head
-tconstruct:arrow_head:0, Fire Dragonsteel Arrow Head
-tconstruct:arrow_head:0, Ice Dragonsteel Arrow Head
-tconstruct:arrow_head:0, Weezer Arrow Head
 tconstruct:arrow_head:0, Dilithium Arrow Head
 tconstruct:arrow_head:0, Tritanium Arrow Head
 tconstruct:arrow_head:0, Boron Arrow Head
@@ -3326,21 +3192,17 @@ tconstruct:arrow_shaft:0, Blazerod Arrow Shaft
 tconstruct:arrow_shaft:0, Reeds Arrow Shaft
 tconstruct:arrow_shaft:0, Ice Arrow Shaft
 tconstruct:arrow_shaft:0, Endrod Arrow Shaft
-tconstruct:arrow_shaft:0, Dragon Bone Arrow Shaft
 tconstruct:fletching:0, Feather Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Leaf Fletching
-tconstruct:fletching:0, Stymphalian Bird Feather Fletching
-tconstruct:fletching:0, Amphithere Feather Fletching
 tconstruct:bolt_core:0, Wood-Iron Bolt Core
 tconstruct:bolt_core:0, Bone-Iron Bolt Core
 tconstruct:bolt_core:0, Blazerod-Iron Bolt Core
 tconstruct:bolt_core:0, Reeds-Iron Bolt Core
 tconstruct:bolt_core:0, Ice-Iron Bolt Core
 tconstruct:bolt_core:0, Endrod-Iron Bolt Core
-tconstruct:bolt_core:0, Dragon Bone-Iron Bolt Core
 tconstruct:tooltables:0, Crafting Station
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
@@ -3357,8 +3219,6 @@ tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:5, Part Chest
 tconstruct:tooltables:3, Tool Station
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
@@ -3449,76 +3309,76 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -3626,33 +3486,6 @@ conarm:helmet_core:0, Lead Helmet Core
 conarm:helmet_core:0, Silver Helmet Core
 conarm:helmet_core:0, Electrum Helmet Core
 conarm:helmet_core:0, Steel Helmet Core
-conarm:helmet_core:0, Dragon Bone Helmet Core
-conarm:helmet_core:0, Desert Myrmex Chitin Helmet Core
-conarm:helmet_core:0, Jungle Myrmex Chitin Helmet Core
-conarm:helmet_core:0, Fire Dragonsteel Helmet Core
-conarm:helmet_core:0, Ice Dragonsteel Helmet Core
-conarm:helmet_core:0, Weezer Helmet Core
-conarm:helmet_core:0, Frost Troll Leather Helmet Core
-conarm:helmet_core:0, Tan Deathworm Chitin Helmet Core
-conarm:helmet_core:0, Bronze Dragon Scales Helmet Core
-conarm:helmet_core:0, Blue Sea Serpent Scales Helmet Core
-conarm:helmet_core:0, Purple Sea Serpent Scales Helmet Core
-conarm:helmet_core:0, White Dragon Scales Helmet Core
-conarm:helmet_core:0, White Deathworm Chitin Helmet Core
-conarm:helmet_core:0, Brown Deathworm Chitin Helmet Core
-conarm:helmet_core:0, Gray Dragon Scales Helmet Core
-conarm:helmet_core:0, Sapphire Dragon Scales Helmet Core
-conarm:helmet_core:0, Teal Sea Serpent Scales Helmet Core
-conarm:helmet_core:0, Blue Dragon Scales Helmet Core
-conarm:helmet_core:0, Forest Troll Leather Helmet Core
-conarm:helmet_core:0, Green Dragon Scales Helmet Core
-conarm:helmet_core:0, Mountain Troll Leather Helmet Core
-conarm:helmet_core:0, Bronze Sea Serpent Scales Helmet Core
-conarm:helmet_core:0, Red Dragon Scales Helmet Core
-conarm:helmet_core:0, Deep Blue Sea Serpent Scales Helmet Core
-conarm:helmet_core:0, Red Sea Serpent Scales Helmet Core
-conarm:helmet_core:0, Green Sea Serpent Scales Helmet Core
-conarm:helmet_core:0, Silver Dragon Scales Helmet Core
 conarm:helmet_core:0, Dilithium Helmet Core
 conarm:helmet_core:0, Tritanium Helmet Core
 conarm:helmet_core:0, Boron Helmet Core
@@ -3690,33 +3523,6 @@ conarm:armor_trim:0, Lead Armor Trim
 conarm:armor_trim:0, Silver Armor Trim
 conarm:armor_trim:0, Electrum Armor Trim
 conarm:armor_trim:0, Steel Armor Trim
-conarm:armor_trim:0, Dragon Bone Armor Trim
-conarm:armor_trim:0, Desert Myrmex Chitin Armor Trim
-conarm:armor_trim:0, Jungle Myrmex Chitin Armor Trim
-conarm:armor_trim:0, Fire Dragonsteel Armor Trim
-conarm:armor_trim:0, Ice Dragonsteel Armor Trim
-conarm:armor_trim:0, Weezer Armor Trim
-conarm:armor_trim:0, Frost Troll Leather Armor Trim
-conarm:armor_trim:0, Tan Deathworm Chitin Armor Trim
-conarm:armor_trim:0, Bronze Dragon Scales Armor Trim
-conarm:armor_trim:0, Blue Sea Serpent Scales Armor Trim
-conarm:armor_trim:0, Purple Sea Serpent Scales Armor Trim
-conarm:armor_trim:0, White Dragon Scales Armor Trim
-conarm:armor_trim:0, White Deathworm Chitin Armor Trim
-conarm:armor_trim:0, Brown Deathworm Chitin Armor Trim
-conarm:armor_trim:0, Gray Dragon Scales Armor Trim
-conarm:armor_trim:0, Sapphire Dragon Scales Armor Trim
-conarm:armor_trim:0, Teal Sea Serpent Scales Armor Trim
-conarm:armor_trim:0, Blue Dragon Scales Armor Trim
-conarm:armor_trim:0, Forest Troll Leather Armor Trim
-conarm:armor_trim:0, Green Dragon Scales Armor Trim
-conarm:armor_trim:0, Mountain Troll Leather Armor Trim
-conarm:armor_trim:0, Bronze Sea Serpent Scales Armor Trim
-conarm:armor_trim:0, Red Dragon Scales Armor Trim
-conarm:armor_trim:0, Deep Blue Sea Serpent Scales Armor Trim
-conarm:armor_trim:0, Red Sea Serpent Scales Armor Trim
-conarm:armor_trim:0, Green Sea Serpent Scales Armor Trim
-conarm:armor_trim:0, Silver Dragon Scales Armor Trim
 conarm:armor_trim:0, Dilithium Armor Trim
 conarm:armor_trim:0, Tritanium Armor Trim
 conarm:armor_trim:0, Boron Armor Trim
@@ -3754,33 +3560,6 @@ conarm:armor_plate:0, Lead Armor Plates
 conarm:armor_plate:0, Silver Armor Plates
 conarm:armor_plate:0, Electrum Armor Plates
 conarm:armor_plate:0, Steel Armor Plates
-conarm:armor_plate:0, Dragon Bone Armor Plates
-conarm:armor_plate:0, Desert Myrmex Chitin Armor Plates
-conarm:armor_plate:0, Jungle Myrmex Chitin Armor Plates
-conarm:armor_plate:0, Fire Dragonsteel Armor Plates
-conarm:armor_plate:0, Ice Dragonsteel Armor Plates
-conarm:armor_plate:0, Weezer Armor Plates
-conarm:armor_plate:0, Frost Troll Leather Armor Plates
-conarm:armor_plate:0, Tan Deathworm Chitin Armor Plates
-conarm:armor_plate:0, Bronze Dragon Scales Armor Plates
-conarm:armor_plate:0, Blue Sea Serpent Scales Armor Plates
-conarm:armor_plate:0, Purple Sea Serpent Scales Armor Plates
-conarm:armor_plate:0, White Dragon Scales Armor Plates
-conarm:armor_plate:0, White Deathworm Chitin Armor Plates
-conarm:armor_plate:0, Brown Deathworm Chitin Armor Plates
-conarm:armor_plate:0, Gray Dragon Scales Armor Plates
-conarm:armor_plate:0, Sapphire Dragon Scales Armor Plates
-conarm:armor_plate:0, Teal Sea Serpent Scales Armor Plates
-conarm:armor_plate:0, Blue Dragon Scales Armor Plates
-conarm:armor_plate:0, Forest Troll Leather Armor Plates
-conarm:armor_plate:0, Green Dragon Scales Armor Plates
-conarm:armor_plate:0, Mountain Troll Leather Armor Plates
-conarm:armor_plate:0, Bronze Sea Serpent Scales Armor Plates
-conarm:armor_plate:0, Red Dragon Scales Armor Plates
-conarm:armor_plate:0, Deep Blue Sea Serpent Scales Armor Plates
-conarm:armor_plate:0, Red Sea Serpent Scales Armor Plates
-conarm:armor_plate:0, Green Sea Serpent Scales Armor Plates
-conarm:armor_plate:0, Silver Dragon Scales Armor Plates
 conarm:armor_plate:0, Dilithium Armor Plates
 conarm:armor_plate:0, Tritanium Armor Plates
 conarm:armor_plate:0, Boron Armor Plates
@@ -3818,33 +3597,6 @@ conarm:chest_core:0, Lead Chestplate Core
 conarm:chest_core:0, Silver Chestplate Core
 conarm:chest_core:0, Electrum Chestplate Core
 conarm:chest_core:0, Steel Chestplate Core
-conarm:chest_core:0, Dragon Bone Chestplate Core
-conarm:chest_core:0, Desert Myrmex Chitin Chestplate Core
-conarm:chest_core:0, Jungle Myrmex Chitin Chestplate Core
-conarm:chest_core:0, Fire Dragonsteel Chestplate Core
-conarm:chest_core:0, Ice Dragonsteel Chestplate Core
-conarm:chest_core:0, Weezer Chestplate Core
-conarm:chest_core:0, Frost Troll Leather Chestplate Core
-conarm:chest_core:0, Tan Deathworm Chitin Chestplate Core
-conarm:chest_core:0, Bronze Dragon Scales Chestplate Core
-conarm:chest_core:0, Blue Sea Serpent Scales Chestplate Core
-conarm:chest_core:0, Purple Sea Serpent Scales Chestplate Core
-conarm:chest_core:0, White Dragon Scales Chestplate Core
-conarm:chest_core:0, White Deathworm Chitin Chestplate Core
-conarm:chest_core:0, Brown Deathworm Chitin Chestplate Core
-conarm:chest_core:0, Gray Dragon Scales Chestplate Core
-conarm:chest_core:0, Sapphire Dragon Scales Chestplate Core
-conarm:chest_core:0, Teal Sea Serpent Scales Chestplate Core
-conarm:chest_core:0, Blue Dragon Scales Chestplate Core
-conarm:chest_core:0, Forest Troll Leather Chestplate Core
-conarm:chest_core:0, Green Dragon Scales Chestplate Core
-conarm:chest_core:0, Mountain Troll Leather Chestplate Core
-conarm:chest_core:0, Bronze Sea Serpent Scales Chestplate Core
-conarm:chest_core:0, Red Dragon Scales Chestplate Core
-conarm:chest_core:0, Deep Blue Sea Serpent Scales Chestplate Core
-conarm:chest_core:0, Red Sea Serpent Scales Chestplate Core
-conarm:chest_core:0, Green Sea Serpent Scales Chestplate Core
-conarm:chest_core:0, Silver Dragon Scales Chestplate Core
 conarm:chest_core:0, Dilithium Chestplate Core
 conarm:chest_core:0, Tritanium Chestplate Core
 conarm:chest_core:0, Boron Chestplate Core
@@ -3882,33 +3634,6 @@ conarm:leggings_core:0, Lead Leggings Core
 conarm:leggings_core:0, Silver Leggings Core
 conarm:leggings_core:0, Electrum Leggings Core
 conarm:leggings_core:0, Steel Leggings Core
-conarm:leggings_core:0, Dragon Bone Leggings Core
-conarm:leggings_core:0, Desert Myrmex Chitin Leggings Core
-conarm:leggings_core:0, Jungle Myrmex Chitin Leggings Core
-conarm:leggings_core:0, Fire Dragonsteel Leggings Core
-conarm:leggings_core:0, Ice Dragonsteel Leggings Core
-conarm:leggings_core:0, Weezer Leggings Core
-conarm:leggings_core:0, Frost Troll Leather Leggings Core
-conarm:leggings_core:0, Tan Deathworm Chitin Leggings Core
-conarm:leggings_core:0, Bronze Dragon Scales Leggings Core
-conarm:leggings_core:0, Blue Sea Serpent Scales Leggings Core
-conarm:leggings_core:0, Purple Sea Serpent Scales Leggings Core
-conarm:leggings_core:0, White Dragon Scales Leggings Core
-conarm:leggings_core:0, White Deathworm Chitin Leggings Core
-conarm:leggings_core:0, Brown Deathworm Chitin Leggings Core
-conarm:leggings_core:0, Gray Dragon Scales Leggings Core
-conarm:leggings_core:0, Sapphire Dragon Scales Leggings Core
-conarm:leggings_core:0, Teal Sea Serpent Scales Leggings Core
-conarm:leggings_core:0, Blue Dragon Scales Leggings Core
-conarm:leggings_core:0, Forest Troll Leather Leggings Core
-conarm:leggings_core:0, Green Dragon Scales Leggings Core
-conarm:leggings_core:0, Mountain Troll Leather Leggings Core
-conarm:leggings_core:0, Bronze Sea Serpent Scales Leggings Core
-conarm:leggings_core:0, Red Dragon Scales Leggings Core
-conarm:leggings_core:0, Deep Blue Sea Serpent Scales Leggings Core
-conarm:leggings_core:0, Red Sea Serpent Scales Leggings Core
-conarm:leggings_core:0, Green Sea Serpent Scales Leggings Core
-conarm:leggings_core:0, Silver Dragon Scales Leggings Core
 conarm:leggings_core:0, Dilithium Leggings Core
 conarm:leggings_core:0, Tritanium Leggings Core
 conarm:leggings_core:0, Boron Leggings Core
@@ -3946,33 +3671,6 @@ conarm:boots_core:0, Lead Boots Core
 conarm:boots_core:0, Silver Boots Core
 conarm:boots_core:0, Electrum Boots Core
 conarm:boots_core:0, Steel Boots Core
-conarm:boots_core:0, Dragon Bone Boots Core
-conarm:boots_core:0, Desert Myrmex Chitin Boots Core
-conarm:boots_core:0, Jungle Myrmex Chitin Boots Core
-conarm:boots_core:0, Fire Dragonsteel Boots Core
-conarm:boots_core:0, Ice Dragonsteel Boots Core
-conarm:boots_core:0, Weezer Boots Core
-conarm:boots_core:0, Frost Troll Leather Boots Core
-conarm:boots_core:0, Tan Deathworm Chitin Boots Core
-conarm:boots_core:0, Bronze Dragon Scales Boots Core
-conarm:boots_core:0, Blue Sea Serpent Scales Boots Core
-conarm:boots_core:0, Purple Sea Serpent Scales Boots Core
-conarm:boots_core:0, White Dragon Scales Boots Core
-conarm:boots_core:0, White Deathworm Chitin Boots Core
-conarm:boots_core:0, Brown Deathworm Chitin Boots Core
-conarm:boots_core:0, Gray Dragon Scales Boots Core
-conarm:boots_core:0, Sapphire Dragon Scales Boots Core
-conarm:boots_core:0, Teal Sea Serpent Scales Boots Core
-conarm:boots_core:0, Blue Dragon Scales Boots Core
-conarm:boots_core:0, Forest Troll Leather Boots Core
-conarm:boots_core:0, Green Dragon Scales Boots Core
-conarm:boots_core:0, Mountain Troll Leather Boots Core
-conarm:boots_core:0, Bronze Sea Serpent Scales Boots Core
-conarm:boots_core:0, Red Dragon Scales Boots Core
-conarm:boots_core:0, Deep Blue Sea Serpent Scales Boots Core
-conarm:boots_core:0, Red Sea Serpent Scales Boots Core
-conarm:boots_core:0, Green Sea Serpent Scales Boots Core
-conarm:boots_core:0, Silver Dragon Scales Boots Core
 conarm:boots_core:0, Dilithium Boots Core
 conarm:boots_core:0, Tritanium Boots Core
 conarm:boots_core:0, Boron Boots Core
@@ -4036,33 +3734,6 @@ conarm:polishing_kit:0, Lead Polishing Kit
 conarm:polishing_kit:0, Silver Polishing Kit
 conarm:polishing_kit:0, Electrum Polishing Kit
 conarm:polishing_kit:0, Steel Polishing Kit
-conarm:polishing_kit:0, Dragon Bone Polishing Kit
-conarm:polishing_kit:0, Desert Myrmex Chitin Polishing Kit
-conarm:polishing_kit:0, Jungle Myrmex Chitin Polishing Kit
-conarm:polishing_kit:0, Fire Dragonsteel Polishing Kit
-conarm:polishing_kit:0, Ice Dragonsteel Polishing Kit
-conarm:polishing_kit:0, Weezer Polishing Kit
-conarm:polishing_kit:0, Frost Troll Leather Polishing Kit
-conarm:polishing_kit:0, Tan Deathworm Chitin Polishing Kit
-conarm:polishing_kit:0, Bronze Dragon Scales Polishing Kit
-conarm:polishing_kit:0, Blue Sea Serpent Scales Polishing Kit
-conarm:polishing_kit:0, Purple Sea Serpent Scales Polishing Kit
-conarm:polishing_kit:0, White Dragon Scales Polishing Kit
-conarm:polishing_kit:0, White Deathworm Chitin Polishing Kit
-conarm:polishing_kit:0, Brown Deathworm Chitin Polishing Kit
-conarm:polishing_kit:0, Gray Dragon Scales Polishing Kit
-conarm:polishing_kit:0, Sapphire Dragon Scales Polishing Kit
-conarm:polishing_kit:0, Teal Sea Serpent Scales Polishing Kit
-conarm:polishing_kit:0, Blue Dragon Scales Polishing Kit
-conarm:polishing_kit:0, Forest Troll Leather Polishing Kit
-conarm:polishing_kit:0, Green Dragon Scales Polishing Kit
-conarm:polishing_kit:0, Mountain Troll Leather Polishing Kit
-conarm:polishing_kit:0, Bronze Sea Serpent Scales Polishing Kit
-conarm:polishing_kit:0, Red Dragon Scales Polishing Kit
-conarm:polishing_kit:0, Deep Blue Sea Serpent Scales Polishing Kit
-conarm:polishing_kit:0, Red Sea Serpent Scales Polishing Kit
-conarm:polishing_kit:0, Green Sea Serpent Scales Polishing Kit
-conarm:polishing_kit:0, Silver Dragon Scales Polishing Kit
 conarm:polishing_kit:0, Dilithium Polishing Kit
 conarm:polishing_kit:0, Tritanium Polishing Kit
 conarm:polishing_kit:0, Boron Polishing Kit
@@ -4093,433 +3764,7 @@ conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
-conarm:armorforge:0, Armor Forge
-conarm:armorforge:0, Armor Forge
 conarm:armorstation:0, Armor Station
-iceandfire:lectern, Lectern
-iceandfire:podium:0, Oak Podium
-iceandfire:podium:1, Spruce Podium
-iceandfire:podium:2, Birch Podium
-iceandfire:podium:3, Jungle Podium
-iceandfire:podium:4, Acacia Podium
-iceandfire:podium:5, Dark Oak Podium
-iceandfire:fire_lily, Fire Lily
-iceandfire:frost_lily, Frost Lily
-iceandfire:goldpile, Pile of Gold
-iceandfire:silverpile, Pile of Silver
-iceandfire:silver_ore, Silver Ore
-iceandfire:sapphire_ore, Sapphire Ore
-iceandfire:silver_block, Silver Block
-iceandfire:sapphire_block, Sapphire Block
-iceandfire:chared_dirt, Charred Dirt
-iceandfire:chared_grass, Charred Grass
-iceandfire:chared_stone, Charred Stone
-iceandfire:chared_cobblestone, Charred Cobblestone
-iceandfire:chared_gravel, Charred Gravel
-iceandfire:chared_grass_path, Charred Grass Path
-iceandfire:ash, Ash
-iceandfire:frozen_dirt, Frozen Dirt
-iceandfire:frozen_grass, Frozen Grass
-iceandfire:frozen_stone, Frozen Stone
-iceandfire:frozen_cobblestone, Frozen Cobblestone
-iceandfire:frozen_gravel, Frozen Gravel
-iceandfire:frozen_grass_path, Frozen Grass Path
-iceandfire:frozen_splinters, Frozen Splinters
-iceandfire:dragon_ice, Dragon Ice
-iceandfire:dragon_ice_spikes, Dragon Ice Spikes
-iceandfire:nest, Dragon Nest
-iceandfire:dragonscale_red, Block of Dragon Scales
-iceandfire:dragonscale_green, Block of Dragon Scales
-iceandfire:dragonscale_bronze, Block of Dragon Scales
-iceandfire:dragonscale_gray, Block of Dragon Scales
-iceandfire:dragonscale_blue, Block of Dragon Scales
-iceandfire:dragonscale_white, Block of Dragon Scales
-iceandfire:dragonscale_sapphire, Block of Dragon Scales
-iceandfire:dragonscale_silver, Block of Dragon Scales
-iceandfire:dragon_bone_block, Block of Dragon Bones
-iceandfire:dragon_bone_wall, Dragon Bone Wall
-iceandfire:dragonforge_fire_brick, Dragonforge Fire Brick
-iceandfire:dragonforge_ice_brick, Dragonforge Ice Brick
-iceandfire:dragonforge_fire_input, Dragonforge Fire Aperture
-iceandfire:dragonforge_ice_input, Dragonforge Ice Aperture
-iceandfire:dragonforge_fire_core_disabled, Dragonforge Fire Core
-iceandfire:dragonforge_ice_core_disabled, Dragonforge Ice Core
-iceandfire:dragonforge_fire_core, Dragonforge Fire Core
-iceandfire:dragonforge_ice_core, Dragonforge Ice Core
-iceandfire:egginice, Frozen Dragon Egg
-iceandfire:pixie_house:0, Brown Mushroom Pixie Hovel
-iceandfire:pixie_house:1, Red Mushroom Pixie Hovel
-iceandfire:pixie_house:2, Birch Pixie Hovel
-iceandfire:pixie_house:3, Oak Pixie Hovel
-iceandfire:pixie_house:4, Dark Oak Pixie Hovel
-iceandfire:pixie_house:5, Spruce Pixie Hovel
-iceandfire:jar_empty, Jar
-iceandfire:jar_pixie:0, Pixie Jar
-iceandfire:jar_pixie:1, Pixie Jar
-iceandfire:jar_pixie:2, Pixie Jar
-iceandfire:jar_pixie:3, Pixie Jar
-iceandfire:jar_pixie:4, Pixie Jar
-iceandfire:myrmex_resin:0, Desert Myrmex Resin
-iceandfire:myrmex_resin:1, Jungle Myrmex Resin
-iceandfire:myrmex_resin_sticky:0, Sticky Desert Myrmex Resin
-iceandfire:myrmex_resin_sticky:1, Sticky Jungle Myrmex Resin
-iceandfire:desert_myrmex_cocoon, Desert Myrmex Cocoon
-iceandfire:jungle_myrmex_cocoon, Jungle Myrmex Cocoon
-iceandfire:myrmex_desert_biolight, Desert Myrmex Bioluminescence
-iceandfire:myrmex_jungle_biolight, Jungle Myrmex Bioluminescence
-iceandfire:myrmex_desert_resin_block, Hardened Desert Myrmex Resin
-iceandfire:myrmex_jungle_resin_block, Hardened Jungle Myrmex Resin
-iceandfire:myrmex_desert_resin_glass, Desert Myrmex Resin Glass
-iceandfire:myrmex_jungle_resin_glass, Jungle Myrmex Resin Glass
-iceandfire:dragonsteel_fire_block, Block of Fire Dragonsteel
-iceandfire:dragonsteel_ice_block, Block of Ice Dragonsteel
-iceandfire:dread_stone, Dreadstone
-iceandfire:dread_stone_bricks, Dreadstone Bricks
-iceandfire:dread_stone_bricks_chiseled, Chiseled Dreadstone Bricks
-iceandfire:dread_stone_bricks_cracked, Cracked Dreadstone Bricks
-iceandfire:dread_stone_bricks_mossy, Mossy Dreadstone Bricks
-iceandfire:dread_stone_tile, Dreadstone Tile
-iceandfire:dread_stone_face, Dreadstone Chiseled Skull
-iceandfire:dread_torch, Dreadstone Torch
-iceandfire:dread_stone_stairs, Dreadstone Bricks Stairs
-iceandfire:dread_stone_slab_double:0, Dreadstone Bricks Slab
-iceandfire:dread_stone_slab:0, Dreadstone Bricks Slab
-iceandfire:dreadwood_log, Dreadwood Log
-iceandfire:dreadwood_planks, Dreadwood Planks
-iceandfire:dreadwood_planks_lock, Dreadwood Keyhole
-iceandfire:dread_portal, Dread Lands Portal
-iceandfire:dread_spawner, Dreadstone Mob Spawner
-iceandfire:burnt_torch, Burnt Out Torch
-iceandfire:sea_serpent_scale_block_blue, Block of Sea Serpent Scales
-iceandfire:sea_serpent_scale_block_bronze, Block of Sea Serpent Scales
-iceandfire:sea_serpent_scale_block_deepblue, Block of Sea Serpent Scales
-iceandfire:sea_serpent_scale_block_green, Block of Sea Serpent Scales
-iceandfire:sea_serpent_scale_block_purple, Block of Sea Serpent Scales
-iceandfire:sea_serpent_scale_block_red, Block of Sea Serpent Scales
-iceandfire:sea_serpent_scale_block_teal, Block of Sea Serpent Scales
-iceandfire:bestiary, Bestiary
-iceandfire:manuscript, Manuscript
-iceandfire:sapphire_gem, Sapphire
-iceandfire:silver_ingot, Silver Ingot
-iceandfire:silver_nugget, Silver Nugget
-iceandfire:armor_silver_metal_helmet, Silver Helmet
-iceandfire:armor_silver_metal_chestplate, Silver Chestplate
-iceandfire:armor_silver_metal_leggings, Silver Leggings
-iceandfire:armor_silver_metal_boots, Silver Boots
-iceandfire:silver_sword, Silver Sword
-iceandfire:silver_shovel, Silver Shovel
-iceandfire:silver_pickaxe, Silver Pickaxe
-iceandfire:silver_axe, Silver Axe
-iceandfire:silver_hoe, Silver Hoe
-iceandfire:fire_stew, Fire Lily Mixture
-iceandfire:frost_stew, Frost Lily Mixture
-iceandfire:dragonegg_red:0, Dragon Egg
-iceandfire:dragonegg_green:0, Dragon Egg
-iceandfire:dragonegg_bronze:0, Dragon Egg
-iceandfire:dragonegg_gray:0, Dragon Egg
-iceandfire:dragonegg_blue:0, Dragon Egg
-iceandfire:dragonegg_white:0, Dragon Egg
-iceandfire:dragonegg_sapphire:0, Dragon Egg
-iceandfire:dragonegg_silver:0, Dragon Egg
-iceandfire:dragonscales_red:0, Dragon Scales
-iceandfire:dragonscales_green:0, Dragon Scales
-iceandfire:dragonscales_bronze:0, Dragon Scales
-iceandfire:dragonscales_gray:0, Dragon Scales
-iceandfire:dragonscales_blue:0, Dragon Scales
-iceandfire:dragonscales_white:0, Dragon Scales
-iceandfire:dragonscales_sapphire:0, Dragon Scales
-iceandfire:dragonscales_silver:0, Dragon Scales
-iceandfire:dragonbone, Dragon Bone
-iceandfire:witherbone, Witherbone
-iceandfire:fishing_spear, Fishing Spear
-iceandfire:wither_shard, Witherbone Shard
-iceandfire:dragonbone_sword, Dragon Bone Sword
-iceandfire:dragonbone_shovel, Dragon Bone Shovel
-iceandfire:dragonbone_pickaxe, Dragon Bone Pickaxe
-iceandfire:dragonbone_axe, Dragon Bone Axe
-iceandfire:dragonbone_hoe, Dragon Bone Hoe
-iceandfire:dragonbone_sword_fire, Flamed Dragon Bone Sword
-iceandfire:dragonbone_sword_ice, Iced Dragon Bone Sword
-iceandfire:dragonbone_arrow, Dragon Bone Arrow
-iceandfire:dragonbone_bow, Dragon Bone Bow
-iceandfire:dragon_skull:0, Dragon Skull
-iceandfire:dragon_skull:1, Dragon Skull
-iceandfire:dragonarmor_iron:0, Iron Dragon Armor
-iceandfire:dragonarmor_iron:1, Iron Dragon Armor
-iceandfire:dragonarmor_iron:2, Iron Dragon Armor
-iceandfire:dragonarmor_iron:3, Iron Dragon Armor
-iceandfire:dragonarmor_gold:0, Gold Dragon Armor
-iceandfire:dragonarmor_gold:1, Gold Dragon Armor
-iceandfire:dragonarmor_gold:2, Gold Dragon Armor
-iceandfire:dragonarmor_gold:3, Gold Dragon Armor
-iceandfire:dragonarmor_diamond:0, Diamond Dragon Armor
-iceandfire:dragonarmor_diamond:1, Diamond Dragon Armor
-iceandfire:dragonarmor_diamond:2, Diamond Dragon Armor
-iceandfire:dragonarmor_diamond:3, Diamond Dragon Armor
-iceandfire:dragonarmor_silver:0, Silver Dragon Armor
-iceandfire:dragonarmor_silver:1, Silver Dragon Armor
-iceandfire:dragonarmor_silver:2, Silver Dragon Armor
-iceandfire:dragonarmor_silver:3, Silver Dragon Armor
-iceandfire:dragonarmor_dragonsteel_fire:0, Fire Dragonsteel Dragon Armor
-iceandfire:dragonarmor_dragonsteel_fire:1, Fire Dragonsteel Dragon Armor
-iceandfire:dragonarmor_dragonsteel_fire:2, Fire Dragonsteel Dragon Armor
-iceandfire:dragonarmor_dragonsteel_fire:3, Fire Dragonsteel Dragon Armor
-iceandfire:dragonarmor_dragonsteel_ice:0, Ice Dragonsteel Dragon Armor
-iceandfire:dragonarmor_dragonsteel_ice:1, Ice Dragonsteel Dragon Armor
-iceandfire:dragonarmor_dragonsteel_ice:2, Ice Dragonsteel Dragon Armor
-iceandfire:dragonarmor_dragonsteel_ice:3, Ice Dragonsteel Dragon Armor
-iceandfire:dragon_meal, Dragon Meal
-iceandfire:sickly_dragon_meal, Sickly Dragon Meal
-iceandfire:creative_dragon_meal, Creative Dragon Meal
-iceandfire:fire_dragon_flesh, Fire Dragon Flesh
-iceandfire:ice_dragon_flesh, Ice Dragon Flesh
-iceandfire:fire_dragon_heart, Fire Dragon Heart
-iceandfire:ice_dragon_heart, Ice Dragon Heart
-iceandfire:fire_dragon_blood, Fire Dragon Blood
-iceandfire:ice_dragon_blood, Ice Dragon Blood
-iceandfire:dragon_stick, Dragon Command Staff
-iceandfire:dragon_horn, Dragon Horn
-iceandfire:dragon_horn_fire, Dragon Horn
-iceandfire:dragon_horn_ice, Dragon Horn
-iceandfire:dragon_flute, Dragon Bone Flute
-iceandfire:summoning_crystal_fire, Fire Dragon Summoning Crystal
-iceandfire:summoning_crystal_ice, Ice Dragon Summoning Crystal
-iceandfire:hippogryph_egg:0, Hippogryph Egg
-iceandfire:hippogryph_egg:1, Hippogryph Egg
-iceandfire:hippogryph_egg:2, Hippogryph Egg
-iceandfire:hippogryph_egg:3, Hippogryph Egg
-iceandfire:hippogryph_egg:4, Hippogryph Egg
-iceandfire:hippogryph_egg:5, Hippogryph Egg
-iceandfire:hippogryph_egg:6, Hippogryph Egg
-iceandfire:iron_hippogryph_armor, Iron Hippogryph Armor
-iceandfire:gold_hippogryph_armor, Gold Hippogryph Armor
-iceandfire:diamond_hippogryph_armor, Diamond Hippogryph Armor
-iceandfire:hippogryph_talon, Hippogryph Talon
-iceandfire:hippogryph_sword, Hippogryph Talon Sword
-iceandfire:gorgon_head, Gorgon Head
-iceandfire:stone_statue, Stone Statue
-iceandfire:blindfold, Blindfold
-iceandfire:pixie_dust, Pixie Dust
-iceandfire:pixie_wings, Pixie Wings
-iceandfire:pixie_wand, Pixie Wand
-iceandfire:ambrosia, Ambrosia
-iceandfire:cyclops_eye, Eye of Cyclops
-iceandfire:sheep_helmet, Sheep Disguise Helmet
-iceandfire:sheep_chestplate, Sheep Disguise Chestplate
-iceandfire:sheep_leggings, Sheep Disguise Leggings
-iceandfire:sheep_boots, Sheep Disguise Boots
-iceandfire:shiny_scales, Shiny Scales
-iceandfire:siren_tear, Siren Tear
-iceandfire:siren_flute, Siren Flute
-iceandfire:hippocampus_fin, Hippocampus Fin
-iceandfire:hippocampus_slapper, Hippocampus Slapper
-iceandfire:earplugs, Earplugs
-iceandfire:deathworm_chitin:0, Tan Death Worm Chitin
-iceandfire:deathworm_chitin:1, White Death Worm Chitin
-iceandfire:deathworm_chitin:2, Red Death Worm Chitin
-iceandfire:deathworm_yellow_helmet, Tan Death Worm Chitin Helmet
-iceandfire:deathworm_yellow_chestplate, Tan Death Worm Chitin Chestplate
-iceandfire:deathworm_yellow_leggings, Tan Death Worm Chitin Leggings
-iceandfire:deathworm_yellow_boots, Tan Death Worm Chitin Boots
-iceandfire:deathworm_white_helmet, White Death Worm Chitin Helmet
-iceandfire:deathworm_white_chestplate, White Death Worm Chitin Chestplate
-iceandfire:deathworm_white_leggings, White Death Worm Chitin Leggings
-iceandfire:deathworm_white_boots, White Death Worm Chitin Boots
-iceandfire:deathworm_red_helmet, Red Death Worm Chitin Helmet
-iceandfire:deathworm_red_chestplate, Red Death Worm Chitin Chestplate
-iceandfire:deathworm_red_leggings, Red Death Worm Chitin Leggings
-iceandfire:deathworm_red_boots, Red Death Worm Chitin Boots
-iceandfire:iceandfire.deathworm_egg:0, Death Worm Egg
-iceandfire:iceandfire.deathworm_egg:1, Giant Death Worm Egg
-iceandfire:deathworm_tounge, Death Worm Tongue
-iceandfire:deathworm_gauntlet_yellow, Death Worm Gauntlet
-iceandfire:deathworm_gauntlet_white, Death Worm Gauntlet
-iceandfire:deathworm_gauntlet_red, Death Worm Gauntlet
-iceandfire:rotten_egg, Rotten Egg
-iceandfire:cockatrice_eye, Cockatrice Eye
-iceandfire:cockatrice_scepter, Cockatrice Scepter
-iceandfire:stymphalian_bird_feather, Stymphalian Bird Feather
-iceandfire:stymphalian_arrow, Stymphalian Arrow
-iceandfire:stymphalian_feather_bundle, Stymphalian Bird Feather Bundle
-iceandfire:stymphalian_bird_dagger, Stymphalian Bird Dagger
-iceandfire:troll_tusk, Troll Tusk
-iceandfire:myrmex_desert_egg:0, Desert Myrmex Egg
-iceandfire:myrmex_desert_egg:1, Desert Myrmex Egg
-iceandfire:myrmex_desert_egg:2, Desert Myrmex Egg
-iceandfire:myrmex_desert_egg:3, Desert Myrmex Egg
-iceandfire:myrmex_desert_egg:4, Desert Myrmex Egg
-iceandfire:myrmex_jungle_egg:0, Jungle Myrmex Egg
-iceandfire:myrmex_jungle_egg:1, Jungle Myrmex Egg
-iceandfire:myrmex_jungle_egg:2, Jungle Myrmex Egg
-iceandfire:myrmex_jungle_egg:3, Jungle Myrmex Egg
-iceandfire:myrmex_jungle_egg:4, Jungle Myrmex Egg
-iceandfire:myrmex_desert_resin, Desert Myrmex Resin Chunk
-iceandfire:myrmex_jungle_resin, Jungle Myrmex Resin Chunk
-iceandfire:myrmex_desert_chitin, Desert Myrmex Chitin
-iceandfire:myrmex_jungle_chitin, Jungle Myrmex Chitin
-iceandfire:myrmex_stinger, Myrmex Stinger
-iceandfire:myrmex_desert_sword, Desert Myrmex Chitin Sword
-iceandfire:myrmex_desert_sword_venom, Desert Myrmex Stinger Sword
-iceandfire:myrmex_desert_shovel, Desert Myrmex Chitin Shovel
-iceandfire:myrmex_desert_pickaxe, Desert Myrmex Chitin Pickaxe
-iceandfire:myrmex_desert_axe, Desert Myrmex Chitin Axe
-iceandfire:myrmex_desert_hoe, Desert Myrmex Chitin Hoe
-iceandfire:myrmex_jungle_sword, Jungle Myrmex Chitin Sword
-iceandfire:myrmex_jungle_sword_venom, Jungle Myrmex Stinger Sword
-iceandfire:myrmex_jungle_shovel, Jungle Myrmex Chitin Shovel
-iceandfire:myrmex_jungle_pickaxe, Jungle Myrmex Chitin Pickaxe
-iceandfire:myrmex_jungle_axe, Jungle Myrmex Chitin Axe
-iceandfire:myrmex_jungle_hoe, Jungle Myrmex Chitin Hoe
-iceandfire:myrmex_desert_staff, Desert Myrmex Staff
-iceandfire:myrmex_jungle_staff, Jungle Myrmex Staff
-iceandfire:myrmex_desert_helmet, Desert Myrmex Chitin Helmet
-iceandfire:myrmex_desert_chestplate, Desert Myrmex Chitin Chestplate
-iceandfire:myrmex_desert_leggings, Desert Myrmex Chitin Leggings
-iceandfire:myrmex_desert_boots, Desert Myrmex Chitin Boots
-iceandfire:myrmex_jungle_helmet, Jungle Myrmex Chitin Helmet
-iceandfire:myrmex_jungle_chestplate, Jungle Myrmex Chitin Chestplate
-iceandfire:myrmex_jungle_leggings, Jungle Myrmex Chitin Leggings
-iceandfire:myrmex_jungle_boots, Jungle Myrmex Chitin Boots
-iceandfire:myrmex_desert_swarm, Myrmex Swarm
-iceandfire:myrmex_jungle_swarm, Myrmex Swarm
-iceandfire:amphithere_feather, Amphithere Feather
-iceandfire:amphithere_arrow, Amphithere Arrow
-iceandfire:amphithere_macuahuitl, Amphithere Macuahuitl
-iceandfire:sea_serpent_fang, Sea Serpent Fang
-iceandfire:sea_serpent_arrow, Tide Arrow
-iceandfire:tide_trident, Tide Trident
-iceandfire:chain_link, Iron Chain Link
-iceandfire:chain_sticky, Sticky Iron Chain
-iceandfire:chain, Iron Chain
-iceandfire:dragonsteel_fire_ingot, Fire Dragonsteel Ingot
-iceandfire:dragonsteel_fire_sword, Fire Dragonsteel Sword
-iceandfire:dragonsteel_fire_pickaxe, Fire Dragonsteel Pickaxe
-iceandfire:dragonsteel_fire_axe, Fire Dragonsteel Axe
-iceandfire:dragonsteel_fire_shovel, Fire Dragonsteel Shovel
-iceandfire:dragonsteel_fire_hoe, Fire Dragonsteel Hoe
-iceandfire:dragonsteel_fire_helmet, Fire Dragonsteel Helmet
-iceandfire:dragonsteel_fire_chestplate, Fire Dragonsteel Chestplate
-iceandfire:dragonsteel_fire_leggings, Fire Dragonsteel Leggings
-iceandfire:dragonsteel_fire_boots, Fire Dragonsteel Boots
-iceandfire:dragonsteel_ice_ingot, Ice Dragonsteel Ingot
-iceandfire:dragonsteel_ice_sword, Ice Dragonsteel Sword
-iceandfire:dragonsteel_ice_pickaxe, Ice Dragonsteel Pickaxe
-iceandfire:dragonsteel_ice_axe, Ice Dragonsteel Axe
-iceandfire:dragonsteel_ice_shovel, Ice Dragonsteel Shovel
-iceandfire:dragonsteel_ice_hoe, Ice Dragonsteel Hoe
-iceandfire:dragonsteel_ice_helmet, Ice Dragonsteel Helmet
-iceandfire:dragonsteel_ice_chestplate, Ice Dragonsteel Chestplate
-iceandfire:dragonsteel_ice_leggings, Ice Dragonsteel Leggings
-iceandfire:dragonsteel_ice_boots, Ice Dragonsteel Boots
-iceandfire:weezer_blue_album, Weezer
-iceandfire:dragon_debug_stick, Dragon Debug Stick
-iceandfire:dread_sword, Dread Thrall's Sword
-iceandfire:dread_knight_sword, Dread Knight's Sword
-iceandfire:lich_staff, Dread Lich Staff
-iceandfire:dread_queen_sword, Blade of the Dreaded Queen
-iceandfire:dread_queen_staff, Staff of the Dreaded Queen
-iceandfire:dread_shard, Dread Shard
-iceandfire:dread_key, §bGravemaster's Key§r
-iceandfire:hydra_fang, Hydra Fang
-iceandfire:hydra_heart, Hydra Heart
-iceandfire:hydra_arrow, Hydra Arrow
-iceandfire:armor_red_helmet, Dragon Scale Helmet
-iceandfire:armor_red_chestplate, Dragon Scale Chestplate
-iceandfire:armor_red_leggings, Dragon Scale Leggings
-iceandfire:armor_red_boots, Dragon Scale Boots
-iceandfire:armor_bronze_helmet, Dragon Scale Helmet
-iceandfire:armor_bronze_chestplate, Dragon Scale Chestplate
-iceandfire:armor_bronze_leggings, Dragon Scale Leggings
-iceandfire:armor_bronze_boots, Dragon Scale Boots
-iceandfire:armor_green_helmet, Dragon Scale Helmet
-iceandfire:armor_green_chestplate, Dragon Scale Chestplate
-iceandfire:armor_green_leggings, Dragon Scale Leggings
-iceandfire:armor_green_boots, Dragon Scale Boots
-iceandfire:armor_gray_helmet, Dragon Scale Helmet
-iceandfire:armor_gray_chestplate, Dragon Scale Chestplate
-iceandfire:armor_gray_leggings, Dragon Scale Leggings
-iceandfire:armor_gray_boots, Dragon Scale Boots
-iceandfire:armor_blue_helmet, Dragon Scale Helmet
-iceandfire:armor_blue_chestplate, Dragon Scale Chestplate
-iceandfire:armor_blue_leggings, Dragon Scale Leggings
-iceandfire:armor_blue_boots, Dragon Scale Boots
-iceandfire:armor_white_helmet, Dragon Scale Helmet
-iceandfire:armor_white_chestplate, Dragon Scale Chestplate
-iceandfire:armor_white_leggings, Dragon Scale Leggings
-iceandfire:armor_white_boots, Dragon Scale Boots
-iceandfire:armor_sapphire_helmet, Dragon Scale Helmet
-iceandfire:armor_sapphire_chestplate, Dragon Scale Chestplate
-iceandfire:armor_sapphire_leggings, Dragon Scale Leggings
-iceandfire:armor_sapphire_boots, Dragon Scale Boots
-iceandfire:armor_silver_helmet, Dragon Scale Helmet
-iceandfire:armor_silver_chestplate, Dragon Scale Chestplate
-iceandfire:armor_silver_leggings, Dragon Scale Leggings
-iceandfire:armor_silver_boots, Dragon Scale Boots
-iceandfire:sea_serpent_scales_blue, Sea Serpent Scales
-iceandfire:tide_blue_helmet, Tide Guardian Helmet
-iceandfire:tide_blue_chestplate, Tide Guardian Chestplate
-iceandfire:tide_blue_leggings, Tide Guardian Leggings
-iceandfire:tide_blue_boots, Tide Guardian Boots
-iceandfire:sea_serpent_scales_bronze, Sea Serpent Scales
-iceandfire:tide_bronze_helmet, Tide Guardian Helmet
-iceandfire:tide_bronze_chestplate, Tide Guardian Chestplate
-iceandfire:tide_bronze_leggings, Tide Guardian Leggings
-iceandfire:tide_bronze_boots, Tide Guardian Boots
-iceandfire:sea_serpent_scales_deepblue, Sea Serpent Scales
-iceandfire:tide_deepblue_helmet, Tide Guardian Helmet
-iceandfire:tide_deepblue_chestplate, Tide Guardian Chestplate
-iceandfire:tide_deepblue_leggings, Tide Guardian Leggings
-iceandfire:tide_deepblue_boots, Tide Guardian Boots
-iceandfire:sea_serpent_scales_green, Sea Serpent Scales
-iceandfire:tide_green_helmet, Tide Guardian Helmet
-iceandfire:tide_green_chestplate, Tide Guardian Chestplate
-iceandfire:tide_green_leggings, Tide Guardian Leggings
-iceandfire:tide_green_boots, Tide Guardian Boots
-iceandfire:sea_serpent_scales_purple, Sea Serpent Scales
-iceandfire:tide_purple_helmet, Tide Guardian Helmet
-iceandfire:tide_purple_chestplate, Tide Guardian Chestplate
-iceandfire:tide_purple_leggings, Tide Guardian Leggings
-iceandfire:tide_purple_boots, Tide Guardian Boots
-iceandfire:sea_serpent_scales_red, Sea Serpent Scales
-iceandfire:tide_red_helmet, Tide Guardian Helmet
-iceandfire:tide_red_chestplate, Tide Guardian Chestplate
-iceandfire:tide_red_leggings, Tide Guardian Leggings
-iceandfire:tide_red_boots, Tide Guardian Boots
-iceandfire:sea_serpent_scales_teal, Sea Serpent Scales
-iceandfire:tide_teal_helmet, Tide Guardian Helmet
-iceandfire:tide_teal_chestplate, Tide Guardian Chestplate
-iceandfire:tide_teal_leggings, Tide Guardian Leggings
-iceandfire:tide_teal_boots, Tide Guardian Boots
-iceandfire:troll_weapon.axe, Troll's Axe
-iceandfire:troll_weapon.column, Troll's Stone Column
-iceandfire:troll_weapon.column_forest, Troll's Mossy Column
-iceandfire:troll_weapon.column_frost, Troll's Frosted Col
-iceandfire:troll_weapon.hammer, Troll's Hammer
-iceandfire:troll_weapon.trunk, Troll's Tree Trunk
-iceandfire:troll_weapon.trunk_frost, Troll's Frosted Tree Trunk
-iceandfire:troll_leather_forest, Forest Troll Leather
-iceandfire:forest_troll_leather_helmet, Forest Troll Leather Helmet
-iceandfire:forest_troll_leather_chestplate, Forest Troll Leather Chestplate
-iceandfire:forest_troll_leather_leggings, Forest Troll Leather Leggings
-iceandfire:forest_troll_leather_boots, Forest Troll Leather Boots
-iceandfire:troll_leather_frost, Frost Troll Leather
-iceandfire:frost_troll_leather_helmet, Frost Troll Leather Helmet
-iceandfire:frost_troll_leather_chestplate, Frost Troll Leather Chestplate
-iceandfire:frost_troll_leather_leggings, Frost Troll Leather Leggings
-iceandfire:frost_troll_leather_boots, Frost Troll Leather Boots
-iceandfire:troll_leather_mountain, Mountain Troll Leather
-iceandfire:mountain_troll_leather_helmet, Mountain Troll Leather Helmet
-iceandfire:mountain_troll_leather_chestplate, Mountain Troll Leather Chestplate
-iceandfire:mountain_troll_leather_leggings, Mountain Troll Leather Leggings
-iceandfire:mountain_troll_leather_boots, Mountain Troll Leather Boots
-iceandfire:hippogryph_skull, Hippogryph Skull
-iceandfire:cyclops_skull, Cyclops Skull
-iceandfire:cockatrice_skull, Cockatrice Skull
-iceandfire:stymphalian_skull, Stymphalian Bird Skull
-iceandfire:troll_skull, Troll Skull
-iceandfire:amphithere_skull, Amphithere Skull
-iceandfire:seaserpent_skull, Sea Serpent Skull
-iceandfire:hydra_skull, Hydra Skull
 matteroverdrive:dilithium_crystal, Dilithium Crystal
 matteroverdrive:tritanium_ingot, Tritanium Ingot
 matteroverdrive:tritanium_nugget, Tritanium Nugget
@@ -4692,6 +3937,7 @@ matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
 matteroverdrive:microwave, Microwave
 matteroverdrive:industrial_glass, Industrial Glass
 matteroverdrive:bounding_box, Bounding Block
+champions:champion_egg, Spawn Champion
 chesttransporter:chesttransporter, Wooden Chest Transporter
 chesttransporter:chesttransporter_iron, Iron Chest Transporter
 chesttransporter:chesttransporter_gold, Golden Chest Transporter
@@ -4776,6 +4022,7 @@ fluxnetworks:fluxcontroller, Flux Controller
 fluxnetworks:fluxstorage, Basic Flux Storage
 fluxnetworks:herculeanfluxstorage, Herculean Flux Storage
 fluxnetworks:gargantuanfluxstorage, Gargantuan Flux Storage
+foodinator:foodinator, Foodinator
 itemfilters:filter, Item Filter
 itemfilters:missing, Missing Item
 ftbquests:screen, Task Screen
@@ -4790,6 +4037,384 @@ ftbquests:barrier, Quest Barrier
 ftbquests:book, Quest Book
 ftbquests:lootcrate, Loot Crate
 ftbquests:custom_icon, Custom Icon
+galacticraftcore:crude_oil_still, Crude Oil
+galacticraftcore:bucket_oil, Oil Bucket
+galacticraftcore:fuel, Fuel
+galacticraftcore:bucket_fuel, Fuel Bucket
+galacticraftcore:landing_pad:0, Rocket Launch Pad
+galacticraftcore:landing_pad:1, Buggy Fueling Pad
+galacticraftcore:landing_pad_full, Rocket Launch Pad
+galacticraftcore:unlit_torch, Torch
+galacticraftcore:unlit_torch_lit, Torch
+galacticraftcore:distributor, Oxygen Bubble Distributor
+galacticraftcore:collector, Oxygen Collector
+galacticraftcore:oxygen_compressor:0, Oxygen Compressor
+galacticraftcore:oxygen_compressor:4, Oxygen Decompressor
+galacticraftcore:sealer, Oxygen Sealer
+galacticraftcore:oxygen_detector, Oxygen Detector
+galacticraftcore:aluminum_wire:0, Aluminum Wire
+galacticraftcore:aluminum_wire:1, Heavy Aluminum Wire
+galacticraftcore:aluminum_wire:2, Switchable Aluminum Wire
+galacticraftcore:aluminum_wire:3, Switchable Heavy Aluminum Wire
+galacticraftcore:fluid_pipe, Fluid Pipe
+galacticraftcore:fluid_pipe_pull, Fluid Pipe
+galacticraftcore:refinery, Refinery
+galacticraftcore:fuel_loader, Fuel Loader
+galacticraftcore:cargo:0, Cargo Loader
+galacticraftcore:cargo:4, Cargo Unloader
+galacticraftcore:rocket_workbench, NASA Workbench
+galacticraftcore:basic_block_core:3, Tin Decoration Block
+galacticraftcore:basic_block_core:4, Tin Wall Block
+galacticraftcore:basic_block_core:5, Copper Ore
+galacticraftcore:basic_block_core:6, Tin Ore
+galacticraftcore:basic_block_core:7, Aluminum Ore
+galacticraftcore:basic_block_core:8, Silicon Ore
+galacticraftcore:basic_block_core:9, Copper Block
+galacticraftcore:basic_block_core:10, Block of Tin
+galacticraftcore:basic_block_core:11, Aluminum Block
+galacticraftcore:basic_block_core:12, Solid Meteoric Iron
+galacticraftcore:basic_block_core:13, Silicon Block
+galacticraftcore:air_lock_frame:0, Air Lock Frame
+galacticraftcore:air_lock_frame:1, Air Lock Controller
+galacticraftcore:air_lock_seal, Air Lock Seal
+galacticraftcore:space_glass_clear:0, Vacuum Glass (Clear)
+galacticraftcore:space_glass_clear:1, Vacuum Glass (Clear)
+galacticraftcore:space_glass_vanilla:0, Vacuum Glass
+galacticraftcore:space_glass_vanilla:1, Vacuum Glass
+galacticraftcore:space_glass_strong:0, Vacuum Glass (Strong)
+galacticraftcore:space_glass_strong:1, Vacuum Glass (Strong)
+galacticraftcore:magnetic_table, Magnetic Crafting Table
+galacticraftcore:enclosed:14, Sealable Aluminum Wire
+galacticraftcore:enclosed:15, Sealable Heavy Aluminum Wire
+galacticraftcore:enclosed:1, Sealable Fluid Pipe
+galacticraftcore:space_station_base, Space Station Arrival Block
+galacticraftcore:parachest, Parachest
+galacticraftcore:solar:0, Basic Solar Panel
+galacticraftcore:solar:4, Advanced Solar Panel
+galacticraftcore:dishbase, Communications Dish
+galacticraftcore:machine:0, Coal Generator
+galacticraftcore:machine:12, Compressor
+galacticraftcore:machine2:0, Electric Compressor
+galacticraftcore:machine2:4, Circuit Fabricator
+galacticraftcore:machine2:8, Oxygen Storage Module
+galacticraftcore:machine2:12, Deconstructor
+galacticraftcore:machine3:0, Chromatic Applicator
+galacticraftcore:machine_tiered:0, Energy Storage Module
+galacticraftcore:machine_tiered:4, Electric Furnace
+galacticraftcore:machine_tiered:8, Energy Storage Cluster
+galacticraftcore:machine_tiered:12, Electric Arc Furnace
+galacticraftcore:machine4:0, Advanced Compressor
+galacticraftcore:panel_lighting:0, Lighting Panel (Square)
+galacticraftcore:panel_lighting:1, Lighting Panel (Spotlight)
+galacticraftcore:panel_lighting:2, Lighting Panel (Linear)
+galacticraftcore:panel_lighting:3, Lighting Panel (Dark)
+galacticraftcore:panel_lighting:4, Lighting Panel (Dark)
+galacticraftcore:glowstone_torch, Glowstone Torch
+galacticraftcore:fallen_meteor, Fallen Meteor
+galacticraftcore:basic_block_moon:0, Copper Ore
+galacticraftcore:basic_block_moon:1, Tin Ore
+galacticraftcore:basic_block_moon:2, Cheese Ore
+galacticraftcore:basic_block_moon:3, Moon Dirt
+galacticraftcore:basic_block_moon:4, Moon Rock
+galacticraftcore:basic_block_moon:5, Moon Turf
+galacticraftcore:basic_block_moon:6, Sapphire Ore
+galacticraftcore:basic_block_moon:14, Moon Dungeon Brick
+galacticraftcore:cheese, Block of Cheese
+galacticraftcore:spin_thruster, Spin Thruster
+galacticraftcore:view_screen, Display Screen
+galacticraftcore:telemetry, Telemetry Unit
+galacticraftcore:arclamp, Arc Lamp
+galacticraftcore:treasure_chest, Treasure Chest
+galacticraftcore:fluid_tank, Fluid Tank
+galacticraftcore:boss_spawner, tile.boss_spawner.name
+galacticraftcore:tin_stairs_1, Tin Decoration Stairs
+galacticraftcore:tin_stairs_2, Tin Decoration Stairs
+galacticraftcore:moon_stairs_stone, Moon Rock Stairs
+galacticraftcore:moon_stairs_brick, Moon Dungeon Brick Stairs
+galacticraftcore:wall_gc:0, Tin Decoration Wall
+galacticraftcore:wall_gc:1, Tin Decoration Wall
+galacticraftcore:wall_gc:2, Moon Rock Wall
+galacticraftcore:wall_gc:3, Moon Dungeon Brick Wall
+galacticraftcore:wall_gc:4, Mars Cobblestone Wall
+galacticraftcore:wall_gc:5, Mars Dungeon Brick Wall
+galacticraftcore:slab_gc_half:0, Tin Decoration Slab
+galacticraftcore:slab_gc_half:1, Tin Decoration Slab
+galacticraftcore:slab_gc_half:2, Moon Rock Slab
+galacticraftcore:slab_gc_half:3, Moon Dungeon Brick Slab
+galacticraftcore:slab_gc_half:4, Mars Cobblestone Slab
+galacticraftcore:slab_gc_half:5, Mars Dungeon Brick Slab
+galacticraftcore:slab_gc_half:6, Dark Decoration Slab
+galacticraftcore:slab_gc_double:0, tile.slab_gc_double.tin_slab_1.name
+galacticraftcore:slab_gc_double:1, tile.slab_gc_double.tin_slab_2.name
+galacticraftcore:slab_gc_double:2, tile.slab_gc_double.moon_slab.name
+galacticraftcore:slab_gc_double:3, tile.slab_gc_double.moon_bricks_slab.name
+galacticraftcore:slab_gc_double:4, tile.slab_gc_double.mars_slab.name
+galacticraftcore:slab_gc_double:5, tile.slab_gc_double.mars_bricks_slab.name
+galacticraftcore:slab_gc_double:6, tile.slab_gc_double.asteroids_slab.name
+galacticraftcore:concealed_redstone, Hidden Redstone Wire
+galacticraftcore:concealed_repeater_pow, tile.concealed_repeater_pow.name
+galacticraftcore:concealed_repeater, Hidden Redstone Repeater
+galacticraftcore:concealed_detector, Player Detector
+galacticraftcore:platform, Hydraulic Platform
+galacticraftcore:emergency_box:0, Emergency Post
+galacticraftcore:emergency_box:1, Emergency Post (with Kit)
+galacticraftcore:grating, Grating
+galacticraftcore:rocket_t1:0, Tier 1 Rocket
+galacticraftcore:rocket_t1:1, Tier 1 Rocket
+galacticraftcore:rocket_t1:2, Tier 1 Rocket
+galacticraftcore:rocket_t1:3, Tier 1 Rocket
+galacticraftcore:rocket_t1:4, Tier 1 Rocket
+galacticraftcore:oxygen_mask, Oxygen Mask
+galacticraftcore:oxygen_gear, Oxygen Gear
+galacticraftcore:oxygen_tank_light_full, Light Oxygen Tank
+galacticraftcore:oxygen_tank_med_full, Medium Oxygen Tank
+galacticraftcore:oxygen_tank_heavy_full, Heavy Oxygen Tank
+galacticraftcore:infinite_oxygen, Infinite Oxygen Supply
+galacticraftcore:sensor_lens, Sensor Lens
+galacticraftcore:sensor_glasses, Sensor Glasses
+galacticraftcore:standard_wrench, Standard Wrench
+galacticraftcore:steel_pickaxe, Heavy Duty Pickaxe
+galacticraftcore:steel_axe, Heavy Duty Axe
+galacticraftcore:steel_hoe, Heavy Duty Hoe
+galacticraftcore:steel_shovel, Heavy Duty Shovel
+galacticraftcore:steel_sword, Heavy Duty Sword
+galacticraftcore:steel_helmet, Heavy Duty Helmet
+galacticraftcore:steel_chestplate, Heavy Duty Chestplate
+galacticraftcore:steel_leggings, Heavy Duty Leggings
+galacticraftcore:steel_boots, Heavy Duty Boots
+galacticraftcore:canister:0, Tin Canister
+galacticraftcore:canister:1, Copper Canister
+galacticraftcore:air_vent, Oxygen Vent
+galacticraftcore:air_fan, Oxygen Fan
+galacticraftcore:oxygen_concentrator, Oxygen Concentrator
+galacticraftcore:engine:0, Tier 1 Rocket Engine
+galacticraftcore:engine:1, Tier 1 Booster
+galacticraftcore:heavy_plating, Heavy-Duty Plate
+galacticraftcore:nose_cone, Nose Cone
+galacticraftcore:rocket_fins, Rocket Fins
+galacticraftcore:steel_pole, Steel Pole
+galacticraftcore:canvas, Canvas
+galacticraftcore:oil_canister_partial:1001, Empty Canister
+galacticraftcore:oil_canister_partial:1, Filled Oil Canister
+galacticraftcore:fuel_canister_partial:1, Filled Fuel Canister
+galacticraftcore:schematic:0, NASA Workbench Schematic
+galacticraftcore:schematic:1, NASA Workbench Schematic
+galacticraftcore:key:0, Tier 1 Dungeon Key
+galacticraftcore:buggymat:0, Buggy Wheel
+galacticraftcore:buggymat:1, Buggy Seat
+galacticraftcore:buggymat:2, Buggy Storage Box
+galacticraftcore:buggy, Buggy
+galacticraftcore:basic_item:0, Single Solar Module
+galacticraftcore:basic_item:1, Full Solar Panel
+galacticraftcore:basic_item:2, Raw Silicon
+galacticraftcore:basic_item:3, Copper Ingot
+galacticraftcore:basic_item:4, Tin Ingot
+galacticraftcore:basic_item:5, Aluminum Ingot
+galacticraftcore:basic_item:6, Compressed Copper
+galacticraftcore:basic_item:7, Compressed Tin
+galacticraftcore:basic_item:8, Compressed Aluminum
+galacticraftcore:basic_item:9, Compressed Steel
+galacticraftcore:basic_item:10, Compressed Bronze
+galacticraftcore:basic_item:11, Compressed Iron
+galacticraftcore:basic_item:12, Blue Solar Wafer
+galacticraftcore:basic_item:13, Basic Wafer
+galacticraftcore:basic_item:14, Advanced Wafer
+galacticraftcore:basic_item:19, Frequency Module
+galacticraftcore:basic_item:20, Ambient Thermal Controller
+galacticraftcore:food:0, Can of Food
+galacticraftcore:food:1, Can of Food
+galacticraftcore:food:2, Can of Food
+galacticraftcore:food:3, Can of Food
+galacticraftcore:food:9, Canned Beef
+galacticraftcore:food:4, Cheese Slice
+galacticraftcore:food:5, Burger Bun
+galacticraftcore:food:6, Ground Beef (Raw)
+galacticraftcore:food:7, Beef Patty (Cooked)
+galacticraftcore:food:8, Cheeseburger
+galacticraftcore:battery, Battery
+galacticraftcore:infinite_battery, Infinite Battery
+galacticraftcore:meteor_chunk:0, Throwable Meteor Chunk
+galacticraftcore:meteor_chunk:1, Throwable Meteor Chunk
+galacticraftcore:cheese_curd, Cheese Curd
+galacticraftcore:meteoric_iron_raw, Raw Meteoric Iron
+galacticraftcore:item_basic_moon:0, Meteoric Iron Ingot
+galacticraftcore:item_basic_moon:1, Compressed Meteoric Iron
+galacticraftcore:item_basic_moon:2, Lunar Sapphire
+galacticraftcore:flag, Flag
+galacticraftcore:parachute:0, Parachute
+galacticraftcore:parachute:1, Black Parachute
+galacticraftcore:parachute:2, Light Blue Parachute
+galacticraftcore:parachute:3, Lime Parachute
+galacticraftcore:parachute:4, Brown Parachute
+galacticraftcore:parachute:5, Blue Parachute
+galacticraftcore:parachute:6, Gray Parachute
+galacticraftcore:parachute:7, Green Parachute
+galacticraftcore:parachute:8, Light Gray Parachute
+galacticraftcore:parachute:9, Magenta Parachute
+galacticraftcore:parachute:10, Orange Parachute
+galacticraftcore:parachute:11, Pink Parachute
+galacticraftcore:parachute:12, Purple Parachute
+galacticraftcore:parachute:13, Red Parachute
+galacticraftcore:parachute:14, Cyan Parachute
+galacticraftcore:parachute:15, Yellow Parachute
+galacticraftcore:prelaunch_checklist, Pre-Launch Checklist
+galacticraftcore:dungeonfinder, Dungeon Locator
+galacticraftcore:emergency_kit, Space Emergency Kit
+galacticraftplanets:sludge, Bacterial Sludge
+galacticraftplanets:bucket_sludge, Bacterial Sludge Bucket
+galacticraftplanets:treasure_t2, Tier 2 Treasure Chest
+galacticraftplanets:mars:0, Copper Ore
+galacticraftplanets:mars:1, Tin Ore
+galacticraftplanets:mars:2, Desh Ore
+galacticraftplanets:mars:3, Iron Ore
+galacticraftplanets:mars:4, Mars Cobblestone
+galacticraftplanets:mars:5, Mars Fine Regolith
+galacticraftplanets:mars:6, Mars Regolith
+galacticraftplanets:mars:7, Mars Dungeon Brick
+galacticraftplanets:mars:8, Block of Desh
+galacticraftplanets:mars:9, Mars Stone
+galacticraftplanets:cavern_vines, Cavernous Vines
+galacticraftplanets:slimeling_egg:0, Red Slimeling Egg
+galacticraftplanets:slimeling_egg:1, Blue Slimeling Egg
+galacticraftplanets:slimeling_egg:2, Yellow Slimeling Egg
+galacticraftplanets:creeper_egg, Creeper Egg
+galacticraftplanets:mars_machine:0, Terraformer
+galacticraftplanets:mars_machine:4, Cryogenic Chamber
+galacticraftplanets:mars_machine:8, Launch Controller
+galacticraftplanets:mars_machine_t2:0, Gas Liquefier
+galacticraftplanets:mars_machine_t2:4, Methane Synthesizer
+galacticraftplanets:mars_machine_t2:8, Water Electrolyzer
+galacticraftplanets:boss_spawner_mars, tile.boss_spawner_mars.name
+galacticraftplanets:mars_stairs_cobblestone, Mars Cobblestone Stairs
+galacticraftplanets:mars_stairs_brick, Mars Dungeon Brick Stairs
+galacticraftplanets:carbon_fragments, Fragmented Carbon
+galacticraftplanets:item_basic_mars:0, Unrefined Desh
+galacticraftplanets:item_basic_mars:1, Desh Stick
+galacticraftplanets:item_basic_mars:2, Desh Ingot
+galacticraftplanets:item_basic_mars:3, Heavy-Duty Plate
+galacticraftplanets:item_basic_mars:4, Slimeling Inventory Bag
+galacticraftplanets:item_basic_mars:5, Compressed Desh
+galacticraftplanets:item_basic_mars:6, Fluid Manipulator
+galacticraftplanets:desh_pick, Desh Pickaxe
+galacticraftplanets:desh_pick_slime, Sticky Desh Pickaxe
+galacticraftplanets:desh_axe, Desh Axe
+galacticraftplanets:desh_hoe, Desh Hoe
+galacticraftplanets:desh_spade, Desh Shovel
+galacticraftplanets:desh_sword, Desh Sword
+galacticraftplanets:desh_helmet, Desh Helmet
+galacticraftplanets:desh_chestplate, Desh Chestplate
+galacticraftplanets:desh_leggings, Desh Leggings
+galacticraftplanets:desh_boots, Desh Boots
+galacticraftplanets:rocket_t2:0, Tier 2 Rocket
+galacticraftplanets:rocket_t2:1, Tier 2 Rocket
+galacticraftplanets:rocket_t2:2, Tier 2 Rocket
+galacticraftplanets:rocket_t2:3, Tier 2 Rocket
+galacticraftplanets:rocket_t2:4, Tier 2 Rocket
+galacticraftplanets:rocket_t2:11, Cargo Rocket
+galacticraftplanets:rocket_t2:12, Cargo Rocket
+galacticraftplanets:rocket_t2:13, Cargo Rocket
+galacticraftplanets:rocket_t2:14, Cargo Rocket
+galacticraftplanets:key:0, Tier 2 Dungeon Key
+galacticraftplanets:schematic:0, NASA Workbench Schematic
+galacticraftplanets:schematic:1, NASA Workbench Schematic
+galacticraftplanets:schematic:2, NASA Workbench Schematic
+galacticraftplanets:asteroids_block:0, Asteroid Rock
+galacticraftplanets:asteroids_block:1, Asteroid Rock
+galacticraftplanets:asteroids_block:2, Asteroid Rock
+galacticraftplanets:asteroids_block:3, Aluminum Ore
+galacticraftplanets:asteroids_block:4, Ilmenite Ore
+galacticraftplanets:asteroids_block:5, Iron Ore
+galacticraftplanets:asteroids_block:6, Dark Decoration Block
+galacticraftplanets:asteroids_block:7, Titanium Block
+galacticraftplanets:walkway:0, Walkway
+galacticraftplanets:walkway:1, Walkway
+galacticraftplanets:walkway:2, Walkway
+galacticraftplanets:beam_reflector, Energy Beam Reflector
+galacticraftplanets:beam_receiver, Energy Beam Receiver
+galacticraftplanets:telepad_short, Short Range Telepad
+galacticraftplanets:dense_ice, Dense Ice
+galacticraftplanets:miner_base, Astro Miner Base
+galacticraftplanets:grapple, Grapple
+galacticraftplanets:rocket_t3:0, Tier 3 Rocket
+galacticraftplanets:rocket_t3:1, Tier 3 Rocket
+galacticraftplanets:rocket_t3:2, Tier 3 Rocket
+galacticraftplanets:rocket_t3:3, Tier 3 Rocket
+galacticraftplanets:rocket_t3:4, Tier 3 Rocket
+galacticraftplanets:astro_miner, Astro Miner
+galacticraftplanets:thermal_padding:0, Thermal Padding Helm
+galacticraftplanets:thermal_padding:1, Thermal Padding Chestpiece
+galacticraftplanets:thermal_padding:2, Thermal Padding Leggings
+galacticraftplanets:thermal_padding:3, Thermal Padding Boots
+galacticraftplanets:item_basic_asteroids:0, Titanium Ingot
+galacticraftplanets:item_basic_asteroids:1, Heavy Rocket Engine
+galacticraftplanets:item_basic_asteroids:2, Heavy Rocket Fins
+galacticraftplanets:item_basic_asteroids:3, Iron Shard
+galacticraftplanets:item_basic_asteroids:4, Titanium Shard
+galacticraftplanets:item_basic_asteroids:5, Heavy-Duty Plate
+galacticraftplanets:item_basic_asteroids:6, Compressed Titanium
+galacticraftplanets:item_basic_asteroids:7, Thermal Cloth
+galacticraftplanets:item_basic_asteroids:8, Beam Core
+galacticraftplanets:item_basic_asteroids:9, Titanium Dust
+galacticraftplanets:methane_canister_partial:1, Filled Methane Gas Canister
+galacticraftplanets:canister_partial_lox:1, Filled Canister of Liquid Oxygen
+galacticraftplanets:canister_partial_ln2:1, Filled Canister of Liquid Nitrogen
+galacticraftplanets:atmospheric_valve, Atmospheric Valve
+galacticraftplanets:heavy_nose_cone:0, Heavy Nose Cone
+galacticraftplanets:orion_drive, Orion Drive
+galacticraftplanets:titanium_helmet, Titanium Helmet
+galacticraftplanets:titanium_chestplate, Titanium Chestplate
+galacticraftplanets:titanium_leggings, Titanium Leggings
+galacticraftplanets:titanium_boots, Titanium Boots
+galacticraftplanets:titanium_axe, Titanium Axe
+galacticraftplanets:titanium_pickaxe, Titanium Pickaxe
+galacticraftplanets:titanium_shovel, Titanium Shovel
+galacticraftplanets:titanium_hoe, Titanium Hoe
+galacticraftplanets:titanium_sword, Titanium Sword
+galacticraftplanets:strange_seed:0, Strange Seed
+galacticraftplanets:strange_seed:1, Strange Seed
+galacticraftplanets:sulphuric_acid, Sulfuric Acid
+galacticraftplanets:bucket_sulphuric_acid, Sulfuric Acid Bucket
+galacticraftplanets:venus:0, Venus Soft Rock
+galacticraftplanets:venus:1, Venus Hard Rock
+galacticraftplanets:venus:2, Venus Volcanic Rock
+galacticraftplanets:venus:3, Pumice
+galacticraftplanets:venus:4, Venus Dungeon Brick I
+galacticraftplanets:venus:5, Venus Dungeon Brick II
+galacticraftplanets:venus:6, Aluminum Ore
+galacticraftplanets:venus:7, Copper Ore
+galacticraftplanets:venus:8, Galena Ore
+galacticraftplanets:venus:9, Quartz Ore
+galacticraftplanets:venus:10, Silicon Ore
+galacticraftplanets:venus:11, Tin Ore
+galacticraftplanets:venus:12, Lead Block
+galacticraftplanets:venus:13, Solar Ore
+galacticraftplanets:spout, Vapor Spout
+galacticraftplanets:boss_spawner_venus, tile.boss_spawner_venus.name
+galacticraftplanets:treasure_t3, Tier 3 Treasure Chest
+galacticraftplanets:web_torch:0, Web String
+galacticraftplanets:web_torch:1, Web String
+galacticraftplanets:geothermal_generator, Geothermal Generator
+galacticraftplanets:crashed_probe, Crashed Probe
+galacticraftplanets:venus_rock_scorched, Scorched Venus Rock
+galacticraftplanets:solar_array_module, Solar Array Module
+galacticraftplanets:solar_array_controller, Solar Array Controller
+galacticraftplanets:laser_turret, Laser Turret
+galacticraftplanets:thermal_padding_t2:0, Isothermal Helm
+galacticraftplanets:thermal_padding_t2:1, Isothermal Chestpiece
+galacticraftplanets:thermal_padding_t2:2, Isothermal Leggings
+galacticraftplanets:thermal_padding_t2:3, Isothermal Boots
+galacticraftplanets:basic_item_venus:0, Shield Controller
+galacticraftplanets:basic_item_venus:1, Lead Ingot
+galacticraftplanets:basic_item_venus:2, Radioisotope Core
+galacticraftplanets:basic_item_venus:3, Isothermal Fabric
+galacticraftplanets:basic_item_venus:4, Solar Dust
+galacticraftplanets:basic_item_venus:5, Solar Array Panel
+galacticraftplanets:basic_item_venus:6, Solar Array Wafer
+galacticraftplanets:volcanic_pickaxe, Volcanic Pickaxe
+galacticraftplanets:key_t3:0, Tier 3 Dungeon Key
+galacticraftplanets:atomic_battery, Atomic Battery
+galacticraftcore:unlit_torch_stone, Stone Torch
+galacticraftcore:unlit_torch_stone_lit, Stone Torch
 oeintegration:excavatemodifier, Excavate Modifier
 randomportals:vertical_end_portal_frame, Vertical End Portal Frame
 randomportals:upside_down_end_portal_frame, Upside Down End Portal Frame
@@ -4840,6 +4465,8 @@ scannable:module_block, Scanner Module: Block
 scannable:module_structure, Scanner Module: Structures
 scannable:module_fluid, Scanner Module: Fluids
 scannable:module_entity, Scanner Module: Entity
+slideemall:blockslider, The Slider
+slideemall:itemliquidmodule, Liquid Tolerance Module
 storagedrawers:upgrade_template, Upgrade Template
 storagedrawers:upgrade_storage:0, Storage Upgrade (I)
 storagedrawers:upgrade_storage:1, Storage Upgrade (II)

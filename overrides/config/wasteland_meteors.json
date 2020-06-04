@@ -1,0 +1,229 @@
+{
+  "surface": [
+    {
+      "block": "minecraft:cobblestone",
+      "meta": "",
+      "weight": 80
+    },
+    {
+      "block": "wasteland_meteors:meteor_block",
+      "meta": "",
+      "weight": 80
+    },
+    {
+      "block": "minecraft:stone",
+      "meta": "variant=andesite",
+      "weight": 60
+    },
+    {
+      "block": "minecraft:stone",
+      "meta": "variant=granite",
+      "weight": 60
+    },
+    {
+      "block": "minecraft:stone",
+      "meta": "variant=diorite",
+      "weight": 60
+    },
+    {
+      "block": "minecraft:coal_ore",
+      "meta": "",
+      "weight": 40
+    },
+    {
+      "block": "minecraft:iron_ore",
+      "meta": "",
+      "weight": 36
+    },
+    {
+      "block": "minecraft:gravel",
+      "meta": "",
+      "weight": 20
+    },
+    {
+      "block": "minecraft:sand",
+      "meta": "",
+      "weight": 20
+    },
+    {
+      "block": "minecraft:ice",
+      "meta": "",
+      "weight": 20
+    },
+    {
+      "block": "minecraft:clay",
+      "meta": "",
+      "weight": 18
+    },
+    {
+      "block": "minecraft:gold_ore",
+      "meta": "",
+      "weight": 12
+    },
+    {
+      "block": "minecraft:lapis_ore",
+      "meta": "",
+      "weight": 10
+    },
+    {
+      "block": "minecraft:packed_ice",
+      "meta": "",
+      "weight": 6
+    },
+    {
+      "block": "minecraft:diamond_ore",
+      "meta": "",
+      "weight": 4
+    },
+    {
+      "block": "minecraft:emerald_ore",
+      "meta": "",
+      "weight": 2
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=east",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=west",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=north",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=south",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    }
+  ],
+  "underground": [
+    {
+      "block": "minecraft:coal_ore",
+      "meta": "",
+      "weight": 1440
+    },
+    {
+      "block": "minecraft:iron_ore",
+      "meta": "",
+      "weight": 1440
+    },
+    {
+      "block": "minecraft:dirt",
+      "meta": "",
+      "weight": 800
+    },
+    {
+      "block": "minecraft:cobblestone",
+      "meta": "",
+      "weight": 1000
+    },
+    {
+      "block": "wasteland_meteors:meteor_block",
+      "meta": "",
+      "weight": 1000
+    },
+    {
+      "block": "minecraft:gravel",
+      "meta": "",
+      "weight": 800
+    },
+    {
+      "block": "minecraft:sand",
+      "meta": "",
+      "weight": 800
+    },
+    {
+      "block": "minecraft:clay",
+      "meta": "",
+      "weight": 510
+    },
+    {
+      "block": "minecraft:gold_ore",
+      "meta": "",
+      "weight": 480
+    },
+    {
+      "block": "minecraft:lapis_ore",
+      "meta": "",
+      "weight": 400
+    },
+    {
+      "block": "minecraft:obsidian",
+      "meta": "",
+      "weight": 360
+    },
+    {
+      "block": "minecraft:diamond_ore",
+      "meta": "",
+      "weight": 320
+    },
+    {
+      "block": "minecraft:emerald_ore",
+      "meta": "",
+      "weight": 160
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=east",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 8
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=west",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 8
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=north",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 8
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=south",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 8
+    },
+    {
+      "block": "minecraft:mob_spawner",
+      "meta": "",
+      "nbt": "{SpawnData:{id:\"minecraft:guardian\"}}",
+      "weight": 2
+    },
+    {
+      "block": "minecraft:mob_spawner",
+      "meta": "",
+      "nbt": "{SpawnData:{id:\"minecraft:skeleton\"}}",
+      "weight": 2
+    },
+    {
+      "block": "minecraft:mob_spawner",
+      "meta": "",
+      "nbt": "{SpawnData:{id:\"minecraft:zombie\"}}",
+      "weight": 4
+    },
+    {
+      "block": "minecraft:mob_spawner",
+      "meta": "",
+      "nbt": "{SpawnData:{id:\"minecraft:cave_spider\"}}",
+      "weight": 4
+    },
+    {
+      "block": "minecraft:mob_spawner",
+      "meta": "",
+      "nbt": "{SpawnData:{id:\"minecraft:witch\"}}",
+      "weight": 2
+    }
+  ]
+}
