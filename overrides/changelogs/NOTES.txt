@@ -7,8 +7,6 @@ Snad
 XL Food Mod + Spice of Life
 ExtraPlanets (check out GalaxySpace and Zollern Galaxy also)
 galacticraft tweaker
-Stone Chest
-Stone Crafting Table
 better burning
 ender mail
 xXx_MoreToolMats_xXx
@@ -97,3 +95,7 @@ utility base ores
 
 
 (page 113)
+
+
+TODO:
+Do something about duplicate stone sticks

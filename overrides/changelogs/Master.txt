@@ -66,6 +66,8 @@
 - Added Scannable (1.6.3.24)
 - Added Slide'em ALL (1.03)
 - Added Smooth Font (2.1.2)
+- Added Stone Chest (1.0.4)
+- Added Stone Crafting Table (1.0.3)
 - Added Storage Drawers (5.4.2)
 - Added Super Sound Muffler: Revived (1.0.2.10)
 - Added Surge (2.0.79)
@@ -74,6 +76,7 @@
 - Added Tinker's JEI (1.2)
 - Added The One Probe (1.4.28)
 - Added Toast Control (1.8.1)
+- Added Tool Progression (1.6.9)
 - Added TOP Addons (1.13.0)
 - Added Traveller's Backpack (1.0.24.24)
 - Added VanillaFix (1.0.10-150)
@@ -82,8 +85,8 @@
 - Added Wireless Fluid Terminal (1.0.4)
 - Added Wireless Interface Terminal (1.0.3)
 - Added Wireless Pattern Terminal (1.0.2)
-- Added Xaero's Minimap (20.12.1)
-- Addec Xaero's World Map (1.6.1)
+- Added Xaero's Minimap (20.12.2)
+- Addec Xaero's World Map (1.6.2)
 
 # =============== Config Changes =============== #
 
