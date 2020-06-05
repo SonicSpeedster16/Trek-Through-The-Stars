@@ -1,0 +1,37 @@
+{
+  "config_version": {
+    "id": "__default",
+    "version": 0
+  },
+  "dimensions": [
+    {
+      "dim": -1,
+      "unregister": true,
+      "disable_teleporting_to": true
+    },
+    {
+      "dim": 1,
+      "unregister": true,
+      "disable_teleporting_to": true
+    },
+    {
+      "dim": 1621,
+      "dimensiontype": {
+        "id": 1621,
+        "name": "Past Overworld Dim 1621",
+        "suffix": "_dim1621",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED",
+        "require_exact_match": true
+      },
+      "worldinfo_onetime": {
+        "generatorName": "default",
+        "RandomSeed": "616985878107971"
+      },
+      "jed": {
+        "CanSpawnHostiles": false,
+        "CanSpawnPeacefulMobs": true
+      }
+    }
+  ]
+}
