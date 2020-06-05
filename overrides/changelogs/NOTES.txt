@@ -5,7 +5,6 @@ Resource Loader
 JER
 Snad
 XL Food Mod + Spice of Life
-ExtraPlanets (check out GalaxySpace and Zollern Galaxy also)
 galacticraft tweaker
 better burning
 ender mail
@@ -98,3 +97,4 @@ Water Control Extreme
 
 TODO:
 Do something about duplicate stone sticks
+Aroma's teleporter
