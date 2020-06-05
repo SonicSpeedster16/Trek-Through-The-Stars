@@ -16,6 +16,7 @@
     },
     {
       "dim": 1621,
+      "override": true,
       "dimensiontype": {
         "id": 1621,
         "name": "Past Overworld Dim 1621",
@@ -26,9 +27,10 @@
       },
       "worldinfo_onetime": {
         "generatorName": "default",
-        "RandomSeed": "616985878107971"
+        "RandomSeed": ""
       },
       "jed": {
+        "CanSleepHere": "allow",
         "CanSpawnHostiles": false,
         "CanSpawnPeacefulMobs": true
       }

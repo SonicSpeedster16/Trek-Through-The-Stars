@@ -15,6 +15,7 @@ Wither Skeleton Tweaks
 Unidict
 More Planets (mixin issue)
 No Advancements
+Netherending Ores
 Rain Delay + Toxic Rain (or twisted Tweaks?)
 LootTweaker (for adding loot to meteor chests) - resources were sent into space during the wars.
 
@@ -22,8 +23,6 @@ LootTweaker (for adding loot to meteor chests) - resources were sent into space 
 Mods/items needed:
 Long range transfer
 Gravestone
-backup mod
-block nether/end (No Nether Portals + Overworld Quartz)
 chunk loader
 Flight (jetpack, magic feather, creative) (wings mod) -- DML?
 Leaf Decay
@@ -92,7 +91,7 @@ ender ore
 glassential
 rats
 utility base ores
-
+Water Control Extreme
 
 (page 113)
 
