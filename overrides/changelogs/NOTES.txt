@@ -11,10 +11,9 @@ ender mail
 xXx_MoreToolMats_xXx
 scarper
 Wither Skeleton Tweaks
-Unidict
 More Planets (mixin issue)
 No Advancements
-Netherending Ores
+Netherending Ores (likely not needed with Galaxy Space)
 Rain Delay + Toxic Rain (or twisted Tweaks?)
 LootTweaker (for adding loot to meteor chests) - resources were sent into space during the wars.
 
@@ -98,3 +97,5 @@ Water Control Extreme
 TODO:
 Do something about duplicate stone sticks
 Aroma's teleporter
+Add recipe for magentic crafting table from stone crafting table
+Review Matter Overdrive integration (Aromory Expansion)
