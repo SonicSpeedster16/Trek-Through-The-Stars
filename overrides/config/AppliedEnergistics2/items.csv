@@ -1311,6 +1311,16 @@ nuclearcraft:fluid_alugentum, Molten Alugentum
 nuclearcraft:fluid_alumina, Molten Alumina
 nuclearcraft:fluid_aluminum, Molten Aluminum
 nuclearcraft:fluid_silver, Molten Silver
+plustic:alumitenugget, Alumite Nugget
+plustic:alumiteingot, Alumite Ingot
+plustic:alumiteblock, Alumite Block
+plustic:plustic.molten_alumite, Molten Alumite
+plustic:invarnugget, Invar Nugget
+plustic:invaringot, Invar Ingot
+plustic:invarblock, Invar Block
+plustic:plustic.molten_invar, Molten Invar
+plustic:plustic.molten_iridium, Molten Iridium
+plustic:plustic.molten_desh, Molten Desh
 stonechest:part_cobblestone, Cobblestone Part
 stonechest:chest_cobblestone, Cobblestone Chest
 stonechest:part_stone, Stone Part
@@ -1689,6 +1699,8 @@ appliedenergistics2:facade:0, Cable Facade - Supercold Ice
 appliedenergistics2:facade:0, Cable Facade - Fusion Connector
 appliedenergistics2:facade:0, Cable Facade - Wasteland Earth
 appliedenergistics2:facade:0, Cable Facade - Tritium Lamp
+appliedenergistics2:facade:0, Cable Facade - Alumite Block
+appliedenergistics2:facade:0, Cable Facade - Invar Block
 appliedenergistics2:facade:0, Cable Facade - Meteor Block
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
@@ -1970,6 +1982,19 @@ appliedenergistics2:facade:0, Cable Facade - Triton Subsurface Grunt
 appliedenergistics2:facade:0, Cable Facade - Triton Stone
 appliedenergistics2:facade:0, Cable Facade - Triton Geyser
 appliedenergistics2:facade:0, Cable Facade - Triton Small Geyser
+appliedenergistics2:facade:0, Cable Facade - Proxima B Surface
+appliedenergistics2:facade:0, Cable Facade - Proxima B Subsurface
+appliedenergistics2:facade:0, Cable Facade - Proxima B Stone
+appliedenergistics2:facade:0, Cable Facade - Proxima B Ice Surface
+appliedenergistics2:facade:0, Cable Facade - Proxima B Ash Rock
+appliedenergistics2:facade:0, Cable Facade - Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Burnt Wood
+appliedenergistics2:facade:0, Cable Facade - Frozen Wood
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Grass
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Dirt
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Stone
@@ -1995,19 +2020,6 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
-appliedenergistics2:facade:0, Cable Facade - Proxima B Surface
-appliedenergistics2:facade:0, Cable Facade - Proxima B Subsurface
-appliedenergistics2:facade:0, Cable Facade - Proxima B Stone
-appliedenergistics2:facade:0, Cable Facade - Proxima B Ice Surface
-appliedenergistics2:facade:0, Cable Facade - Proxima B Ash Rock
-appliedenergistics2:facade:0, Cable Facade - Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Burnt Wood
-appliedenergistics2:facade:0, Cable Facade - Frozen Wood
 appliedenergistics2:facade:0, Cable Facade - Soot-covered Machine Casing
 appliedenergistics2:facade:0, Cable Facade - Glitch Infused Block
 appliedenergistics2:facade:0, Cable Facade - Flux Block
@@ -2376,41 +2388,44 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Armor Plates Pattern
 tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -2446,6 +2461,14 @@ tconstruct:shard:0, Thorium Shard
 tconstruct:shard:0, Uranium Shard
 tconstruct:shard:0, Magnesium Shard
 tconstruct:shard:0, Chocolate Shard
+tconstruct:shard:0, Alumite Shard
+tconstruct:shard:0, Nickel Shard
+tconstruct:shard:0, Invar Shard
+tconstruct:shard:0, Iridium Shard
+tconstruct:shard:0, Desh Shard
+tconstruct:shard:0, Certus Quartz Shard
+tconstruct:shard:0, Fluix Crystal Shard
+tconstruct:shard:0, Emerald Shard
 tconstruct:sharpening_kit:0, Wooden Sharpening Kit
 tconstruct:sharpening_kit:0, Stone Sharpening Kit
 tconstruct:sharpening_kit:0, Flint Sharpening Kit
@@ -2483,6 +2506,14 @@ tconstruct:sharpening_kit:0, Thorium Sharpening Kit
 tconstruct:sharpening_kit:0, Uranium Sharpening Kit
 tconstruct:sharpening_kit:0, Magnesium Sharpening Kit
 tconstruct:sharpening_kit:0, Chocolate Sharpening Kit
+tconstruct:sharpening_kit:0, Alumite Sharpening Kit
+tconstruct:sharpening_kit:0, Nickel Sharpening Kit
+tconstruct:sharpening_kit:0, Invar Sharpening Kit
+tconstruct:sharpening_kit:0, Iridium Sharpening Kit
+tconstruct:sharpening_kit:0, Desh Sharpening Kit
+tconstruct:sharpening_kit:0, Certus Quartz Sharpening Kit
+tconstruct:sharpening_kit:0, Fluix Crystal Sharpening Kit
+tconstruct:sharpening_kit:0, Emerald Sharpening Kit
 tconstruct:pick_head:0, Wooden Pickaxe Head
 tconstruct:pick_head:0, Stone Pickaxe Head
 tconstruct:pick_head:0, Flint Pickaxe Head
@@ -2520,6 +2551,14 @@ tconstruct:pick_head:0, Thorium Pickaxe Head
 tconstruct:pick_head:0, Uranium Pickaxe Head
 tconstruct:pick_head:0, Magnesium Pickaxe Head
 tconstruct:pick_head:0, Chocolate Pickaxe Head
+tconstruct:pick_head:0, Alumite Pickaxe Head
+tconstruct:pick_head:0, Nickel Pickaxe Head
+tconstruct:pick_head:0, Invar Pickaxe Head
+tconstruct:pick_head:0, Iridium Pickaxe Head
+tconstruct:pick_head:0, Desh Pickaxe Head
+tconstruct:pick_head:0, Certus Quartz Pickaxe Head
+tconstruct:pick_head:0, Fluix Crystal Pickaxe Head
+tconstruct:pick_head:0, Emerald Pickaxe Head
 tconstruct:shovel_head:0, Wooden Shovel Head
 tconstruct:shovel_head:0, Stone Shovel Head
 tconstruct:shovel_head:0, Flint Shovel Head
@@ -2557,6 +2596,14 @@ tconstruct:shovel_head:0, Thorium Shovel Head
 tconstruct:shovel_head:0, Uranium Shovel Head
 tconstruct:shovel_head:0, Magnesium Shovel Head
 tconstruct:shovel_head:0, Chocolate Shovel Head
+tconstruct:shovel_head:0, Alumite Shovel Head
+tconstruct:shovel_head:0, Nickel Shovel Head
+tconstruct:shovel_head:0, Invar Shovel Head
+tconstruct:shovel_head:0, Iridium Shovel Head
+tconstruct:shovel_head:0, Desh Shovel Head
+tconstruct:shovel_head:0, Certus Quartz Shovel Head
+tconstruct:shovel_head:0, Fluix Crystal Shovel Head
+tconstruct:shovel_head:0, Emerald Shovel Head
 tconstruct:axe_head:0, Wooden Axe Head
 tconstruct:axe_head:0, Stone Axe Head
 tconstruct:axe_head:0, Flint Axe Head
@@ -2594,6 +2641,14 @@ tconstruct:axe_head:0, Thorium Axe Head
 tconstruct:axe_head:0, Uranium Axe Head
 tconstruct:axe_head:0, Magnesium Axe Head
 tconstruct:axe_head:0, Chocolate Axe Head
+tconstruct:axe_head:0, Alumite Axe Head
+tconstruct:axe_head:0, Nickel Axe Head
+tconstruct:axe_head:0, Invar Axe Head
+tconstruct:axe_head:0, Iridium Axe Head
+tconstruct:axe_head:0, Desh Axe Head
+tconstruct:axe_head:0, Certus Quartz Axe Head
+tconstruct:axe_head:0, Fluix Crystal Axe Head
+tconstruct:axe_head:0, Emerald Axe Head
 tconstruct:broad_axe_head:0, Wooden Broad Axe Head
 tconstruct:broad_axe_head:0, Stone Broad Axe Head
 tconstruct:broad_axe_head:0, Flint Broad Axe Head
@@ -2631,6 +2686,14 @@ tconstruct:broad_axe_head:0, Thorium Broad Axe Head
 tconstruct:broad_axe_head:0, Uranium Broad Axe Head
 tconstruct:broad_axe_head:0, Magnesium Broad Axe Head
 tconstruct:broad_axe_head:0, Chocolate Broad Axe Head
+tconstruct:broad_axe_head:0, Alumite Broad Axe Head
+tconstruct:broad_axe_head:0, Nickel Broad Axe Head
+tconstruct:broad_axe_head:0, Invar Broad Axe Head
+tconstruct:broad_axe_head:0, Iridium Broad Axe Head
+tconstruct:broad_axe_head:0, Desh Broad Axe Head
+tconstruct:broad_axe_head:0, Certus Quartz Broad Axe Head
+tconstruct:broad_axe_head:0, Fluix Crystal Broad Axe Head
+tconstruct:broad_axe_head:0, Emerald Broad Axe Head
 tconstruct:sword_blade:0, Wooden Sword Blade
 tconstruct:sword_blade:0, Stone Sword Blade
 tconstruct:sword_blade:0, Flint Sword Blade
@@ -2668,6 +2731,14 @@ tconstruct:sword_blade:0, Thorium Sword Blade
 tconstruct:sword_blade:0, Uranium Sword Blade
 tconstruct:sword_blade:0, Magnesium Sword Blade
 tconstruct:sword_blade:0, Chocolate Sword Blade
+tconstruct:sword_blade:0, Alumite Sword Blade
+tconstruct:sword_blade:0, Nickel Sword Blade
+tconstruct:sword_blade:0, Invar Sword Blade
+tconstruct:sword_blade:0, Iridium Sword Blade
+tconstruct:sword_blade:0, Desh Sword Blade
+tconstruct:sword_blade:0, Certus Quartz Sword Blade
+tconstruct:sword_blade:0, Fluix Crystal Sword Blade
+tconstruct:sword_blade:0, Emerald Sword Blade
 tconstruct:large_sword_blade:0, Wooden Large Sword Blade
 tconstruct:large_sword_blade:0, Stone Large Sword Blade
 tconstruct:large_sword_blade:0, Flint Large Sword Blade
@@ -2705,6 +2776,14 @@ tconstruct:large_sword_blade:0, Thorium Large Sword Blade
 tconstruct:large_sword_blade:0, Uranium Large Sword Blade
 tconstruct:large_sword_blade:0, Magnesium Large Sword Blade
 tconstruct:large_sword_blade:0, Chocolate Large Sword Blade
+tconstruct:large_sword_blade:0, Alumite Large Sword Blade
+tconstruct:large_sword_blade:0, Nickel Large Sword Blade
+tconstruct:large_sword_blade:0, Invar Large Sword Blade
+tconstruct:large_sword_blade:0, Iridium Large Sword Blade
+tconstruct:large_sword_blade:0, Desh Large Sword Blade
+tconstruct:large_sword_blade:0, Certus Quartz Large Sword Blade
+tconstruct:large_sword_blade:0, Fluix Crystal Large Sword Blade
+tconstruct:large_sword_blade:0, Emerald Large Sword Blade
 tconstruct:hammer_head:0, Wooden Hammer Head
 tconstruct:hammer_head:0, Stone Hammer Head
 tconstruct:hammer_head:0, Flint Hammer Head
@@ -2742,6 +2821,14 @@ tconstruct:hammer_head:0, Thorium Hammer Head
 tconstruct:hammer_head:0, Uranium Hammer Head
 tconstruct:hammer_head:0, Magnesium Hammer Head
 tconstruct:hammer_head:0, Chocolate Hammer Head
+tconstruct:hammer_head:0, Alumite Hammer Head
+tconstruct:hammer_head:0, Nickel Hammer Head
+tconstruct:hammer_head:0, Invar Hammer Head
+tconstruct:hammer_head:0, Iridium Hammer Head
+tconstruct:hammer_head:0, Desh Hammer Head
+tconstruct:hammer_head:0, Certus Quartz Hammer Head
+tconstruct:hammer_head:0, Fluix Crystal Hammer Head
+tconstruct:hammer_head:0, Emerald Hammer Head
 tconstruct:excavator_head:0, Wooden Excavator Head
 tconstruct:excavator_head:0, Stone Excavator Head
 tconstruct:excavator_head:0, Flint Excavator Head
@@ -2779,6 +2866,14 @@ tconstruct:excavator_head:0, Thorium Excavator Head
 tconstruct:excavator_head:0, Uranium Excavator Head
 tconstruct:excavator_head:0, Magnesium Excavator Head
 tconstruct:excavator_head:0, Chocolate Excavator Head
+tconstruct:excavator_head:0, Alumite Excavator Head
+tconstruct:excavator_head:0, Nickel Excavator Head
+tconstruct:excavator_head:0, Invar Excavator Head
+tconstruct:excavator_head:0, Iridium Excavator Head
+tconstruct:excavator_head:0, Desh Excavator Head
+tconstruct:excavator_head:0, Certus Quartz Excavator Head
+tconstruct:excavator_head:0, Fluix Crystal Excavator Head
+tconstruct:excavator_head:0, Emerald Excavator Head
 tconstruct:kama_head:0, Wooden Kama Head
 tconstruct:kama_head:0, Stone Kama Head
 tconstruct:kama_head:0, Flint Kama Head
@@ -2816,6 +2911,14 @@ tconstruct:kama_head:0, Thorium Kama Head
 tconstruct:kama_head:0, Uranium Kama Head
 tconstruct:kama_head:0, Magnesium Kama Head
 tconstruct:kama_head:0, Chocolate Kama Head
+tconstruct:kama_head:0, Alumite Kama Head
+tconstruct:kama_head:0, Nickel Kama Head
+tconstruct:kama_head:0, Invar Kama Head
+tconstruct:kama_head:0, Iridium Kama Head
+tconstruct:kama_head:0, Desh Kama Head
+tconstruct:kama_head:0, Certus Quartz Kama Head
+tconstruct:kama_head:0, Fluix Crystal Kama Head
+tconstruct:kama_head:0, Emerald Kama Head
 tconstruct:scythe_head:0, Wooden Scythe Head
 tconstruct:scythe_head:0, Stone Scythe Head
 tconstruct:scythe_head:0, Flint Scythe Head
@@ -2853,6 +2956,14 @@ tconstruct:scythe_head:0, Thorium Scythe Head
 tconstruct:scythe_head:0, Uranium Scythe Head
 tconstruct:scythe_head:0, Magnesium Scythe Head
 tconstruct:scythe_head:0, Chocolate Scythe Head
+tconstruct:scythe_head:0, Alumite Scythe Head
+tconstruct:scythe_head:0, Nickel Scythe Head
+tconstruct:scythe_head:0, Invar Scythe Head
+tconstruct:scythe_head:0, Iridium Scythe Head
+tconstruct:scythe_head:0, Desh Scythe Head
+tconstruct:scythe_head:0, Certus Quartz Scythe Head
+tconstruct:scythe_head:0, Fluix Crystal Scythe Head
+tconstruct:scythe_head:0, Emerald Scythe Head
 tconstruct:pan_head:0, Wooden Pan
 tconstruct:pan_head:0, Stone Pan
 tconstruct:pan_head:0, Flint Pan
@@ -2890,6 +3001,14 @@ tconstruct:pan_head:0, Thorium Pan
 tconstruct:pan_head:0, Uranium Pan
 tconstruct:pan_head:0, Magnesium Pan
 tconstruct:pan_head:0, Chocolate Pan
+tconstruct:pan_head:0, Alumite Pan
+tconstruct:pan_head:0, Nickel Pan
+tconstruct:pan_head:0, Invar Pan
+tconstruct:pan_head:0, Iridium Pan
+tconstruct:pan_head:0, Desh Pan
+tconstruct:pan_head:0, Certus Quartz Pan
+tconstruct:pan_head:0, Fluix Crystal Pan
+tconstruct:pan_head:0, Emerald Pan
 tconstruct:sign_head:0, Wooden Sign Plate
 tconstruct:sign_head:0, Stone Sign Plate
 tconstruct:sign_head:0, Flint Sign Plate
@@ -2927,6 +3046,14 @@ tconstruct:sign_head:0, Thorium Sign Plate
 tconstruct:sign_head:0, Uranium Sign Plate
 tconstruct:sign_head:0, Magnesium Sign Plate
 tconstruct:sign_head:0, Chocolate Sign Plate
+tconstruct:sign_head:0, Alumite Sign Plate
+tconstruct:sign_head:0, Nickel Sign Plate
+tconstruct:sign_head:0, Invar Sign Plate
+tconstruct:sign_head:0, Iridium Sign Plate
+tconstruct:sign_head:0, Desh Sign Plate
+tconstruct:sign_head:0, Certus Quartz Sign Plate
+tconstruct:sign_head:0, Fluix Crystal Sign Plate
+tconstruct:sign_head:0, Emerald Sign Plate
 tconstruct:tool_rod:0, Wooden Tool Rod
 tconstruct:tool_rod:0, Stone Tool Rod
 tconstruct:tool_rod:0, Flint Tool Rod
@@ -2964,6 +3091,14 @@ tconstruct:tool_rod:0, Thorium Tool Rod
 tconstruct:tool_rod:0, Uranium Tool Rod
 tconstruct:tool_rod:0, Magnesium Tool Rod
 tconstruct:tool_rod:0, Chocolate Tool Rod
+tconstruct:tool_rod:0, Alumite Tool Rod
+tconstruct:tool_rod:0, Nickel Tool Rod
+tconstruct:tool_rod:0, Invar Tool Rod
+tconstruct:tool_rod:0, Iridium Tool Rod
+tconstruct:tool_rod:0, Desh Tool Rod
+tconstruct:tool_rod:0, Certus Quartz Tool Rod
+tconstruct:tool_rod:0, Fluix Crystal Tool Rod
+tconstruct:tool_rod:0, Emerald Tool Rod
 tconstruct:tough_tool_rod:0, Wooden Tough Tool Rod
 tconstruct:tough_tool_rod:0, Stone Tough Tool Rod
 tconstruct:tough_tool_rod:0, Flint Tough Tool Rod
@@ -3001,6 +3136,14 @@ tconstruct:tough_tool_rod:0, Thorium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Uranium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Magnesium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Chocolate Tough Tool Rod
+tconstruct:tough_tool_rod:0, Alumite Tough Tool Rod
+tconstruct:tough_tool_rod:0, Nickel Tough Tool Rod
+tconstruct:tough_tool_rod:0, Invar Tough Tool Rod
+tconstruct:tough_tool_rod:0, Iridium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Desh Tough Tool Rod
+tconstruct:tough_tool_rod:0, Certus Quartz Tough Tool Rod
+tconstruct:tough_tool_rod:0, Fluix Crystal Tough Tool Rod
+tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
 tconstruct:binding:0, Wooden Binding
 tconstruct:binding:0, Stone Binding
 tconstruct:binding:0, Flint Binding
@@ -3038,6 +3181,14 @@ tconstruct:binding:0, Thorium Binding
 tconstruct:binding:0, Uranium Binding
 tconstruct:binding:0, Magnesium Binding
 tconstruct:binding:0, Chocolate Binding
+tconstruct:binding:0, Alumite Binding
+tconstruct:binding:0, Nickel Binding
+tconstruct:binding:0, Invar Binding
+tconstruct:binding:0, Iridium Binding
+tconstruct:binding:0, Desh Binding
+tconstruct:binding:0, Certus Quartz Binding
+tconstruct:binding:0, Fluix Crystal Binding
+tconstruct:binding:0, Emerald Binding
 tconstruct:tough_binding:0, Wooden Tough Binding
 tconstruct:tough_binding:0, Stone Tough Binding
 tconstruct:tough_binding:0, Flint Tough Binding
@@ -3075,6 +3226,14 @@ tconstruct:tough_binding:0, Thorium Tough Binding
 tconstruct:tough_binding:0, Uranium Tough Binding
 tconstruct:tough_binding:0, Magnesium Tough Binding
 tconstruct:tough_binding:0, Chocolate Tough Binding
+tconstruct:tough_binding:0, Alumite Tough Binding
+tconstruct:tough_binding:0, Nickel Tough Binding
+tconstruct:tough_binding:0, Invar Tough Binding
+tconstruct:tough_binding:0, Iridium Tough Binding
+tconstruct:tough_binding:0, Desh Tough Binding
+tconstruct:tough_binding:0, Certus Quartz Tough Binding
+tconstruct:tough_binding:0, Fluix Crystal Tough Binding
+tconstruct:tough_binding:0, Emerald Tough Binding
 tconstruct:wide_guard:0, Wooden Wide Guard
 tconstruct:wide_guard:0, Stone Wide Guard
 tconstruct:wide_guard:0, Flint Wide Guard
@@ -3112,6 +3271,14 @@ tconstruct:wide_guard:0, Thorium Wide Guard
 tconstruct:wide_guard:0, Uranium Wide Guard
 tconstruct:wide_guard:0, Magnesium Wide Guard
 tconstruct:wide_guard:0, Chocolate Wide Guard
+tconstruct:wide_guard:0, Alumite Wide Guard
+tconstruct:wide_guard:0, Nickel Wide Guard
+tconstruct:wide_guard:0, Invar Wide Guard
+tconstruct:wide_guard:0, Iridium Wide Guard
+tconstruct:wide_guard:0, Desh Wide Guard
+tconstruct:wide_guard:0, Certus Quartz Wide Guard
+tconstruct:wide_guard:0, Fluix Crystal Wide Guard
+tconstruct:wide_guard:0, Emerald Wide Guard
 tconstruct:hand_guard:0, Wooden Hand Guard
 tconstruct:hand_guard:0, Stone Hand Guard
 tconstruct:hand_guard:0, Flint Hand Guard
@@ -3149,6 +3316,14 @@ tconstruct:hand_guard:0, Thorium Hand Guard
 tconstruct:hand_guard:0, Uranium Hand Guard
 tconstruct:hand_guard:0, Magnesium Hand Guard
 tconstruct:hand_guard:0, Chocolate Hand Guard
+tconstruct:hand_guard:0, Alumite Hand Guard
+tconstruct:hand_guard:0, Nickel Hand Guard
+tconstruct:hand_guard:0, Invar Hand Guard
+tconstruct:hand_guard:0, Iridium Hand Guard
+tconstruct:hand_guard:0, Desh Hand Guard
+tconstruct:hand_guard:0, Certus Quartz Hand Guard
+tconstruct:hand_guard:0, Fluix Crystal Hand Guard
+tconstruct:hand_guard:0, Emerald Hand Guard
 tconstruct:cross_guard:0, Wooden Cross Guard
 tconstruct:cross_guard:0, Stone Cross Guard
 tconstruct:cross_guard:0, Flint Cross Guard
@@ -3186,6 +3361,14 @@ tconstruct:cross_guard:0, Thorium Cross Guard
 tconstruct:cross_guard:0, Uranium Cross Guard
 tconstruct:cross_guard:0, Magnesium Cross Guard
 tconstruct:cross_guard:0, Chocolate Cross Guard
+tconstruct:cross_guard:0, Alumite Cross Guard
+tconstruct:cross_guard:0, Nickel Cross Guard
+tconstruct:cross_guard:0, Invar Cross Guard
+tconstruct:cross_guard:0, Iridium Cross Guard
+tconstruct:cross_guard:0, Desh Cross Guard
+tconstruct:cross_guard:0, Certus Quartz Cross Guard
+tconstruct:cross_guard:0, Fluix Crystal Cross Guard
+tconstruct:cross_guard:0, Emerald Cross Guard
 tconstruct:large_plate:0, Wooden Large Plate
 tconstruct:large_plate:0, Stone Large Plate
 tconstruct:large_plate:0, Flint Large Plate
@@ -3223,6 +3406,14 @@ tconstruct:large_plate:0, Thorium Large Plate
 tconstruct:large_plate:0, Uranium Large Plate
 tconstruct:large_plate:0, Magnesium Large Plate
 tconstruct:large_plate:0, Chocolate Large Plate
+tconstruct:large_plate:0, Alumite Large Plate
+tconstruct:large_plate:0, Nickel Large Plate
+tconstruct:large_plate:0, Invar Large Plate
+tconstruct:large_plate:0, Iridium Large Plate
+tconstruct:large_plate:0, Desh Large Plate
+tconstruct:large_plate:0, Certus Quartz Large Plate
+tconstruct:large_plate:0, Fluix Crystal Large Plate
+tconstruct:large_plate:0, Emerald Large Plate
 tconstruct:knife_blade:0, Wooden Knife Blade
 tconstruct:knife_blade:0, Stone Knife Blade
 tconstruct:knife_blade:0, Flint Knife Blade
@@ -3260,6 +3451,14 @@ tconstruct:knife_blade:0, Thorium Knife Blade
 tconstruct:knife_blade:0, Uranium Knife Blade
 tconstruct:knife_blade:0, Magnesium Knife Blade
 tconstruct:knife_blade:0, Chocolate Knife Blade
+tconstruct:knife_blade:0, Alumite Knife Blade
+tconstruct:knife_blade:0, Nickel Knife Blade
+tconstruct:knife_blade:0, Invar Knife Blade
+tconstruct:knife_blade:0, Iridium Knife Blade
+tconstruct:knife_blade:0, Desh Knife Blade
+tconstruct:knife_blade:0, Certus Quartz Knife Blade
+tconstruct:knife_blade:0, Fluix Crystal Knife Blade
+tconstruct:knife_blade:0, Emerald Knife Blade
 tconstruct:bow_limb:0, Wooden Bowlimb
 tconstruct:bow_limb:0, Stone Bowlimb
 tconstruct:bow_limb:0, Flint Bowlimb
@@ -3297,6 +3496,14 @@ tconstruct:bow_limb:0, Thorium Bowlimb
 tconstruct:bow_limb:0, Uranium Bowlimb
 tconstruct:bow_limb:0, Magnesium Bowlimb
 tconstruct:bow_limb:0, Chocolate Bowlimb
+tconstruct:bow_limb:0, Alumite Bowlimb
+tconstruct:bow_limb:0, Nickel Bowlimb
+tconstruct:bow_limb:0, Invar Bowlimb
+tconstruct:bow_limb:0, Iridium Bowlimb
+tconstruct:bow_limb:0, Desh Bowlimb
+tconstruct:bow_limb:0, Certus Quartz Bowlimb
+tconstruct:bow_limb:0, Fluix Crystal Bowlimb
+tconstruct:bow_limb:0, Emerald Bowlimb
 tconstruct:bow_string:0, String Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
@@ -3338,23 +3545,35 @@ tconstruct:arrow_head:0, Thorium Arrow Head
 tconstruct:arrow_head:0, Uranium Arrow Head
 tconstruct:arrow_head:0, Magnesium Arrow Head
 tconstruct:arrow_head:0, Chocolate Arrow Head
+tconstruct:arrow_head:0, Alumite Arrow Head
+tconstruct:arrow_head:0, Nickel Arrow Head
+tconstruct:arrow_head:0, Invar Arrow Head
+tconstruct:arrow_head:0, Iridium Arrow Head
+tconstruct:arrow_head:0, Desh Arrow Head
+tconstruct:arrow_head:0, Certus Quartz Arrow Head
+tconstruct:arrow_head:0, Fluix Crystal Arrow Head
+tconstruct:arrow_head:0, Emerald Arrow Head
 tconstruct:arrow_shaft:0, Wooden Arrow Shaft
 tconstruct:arrow_shaft:0, Bone Arrow Shaft
 tconstruct:arrow_shaft:0, Blazerod Arrow Shaft
 tconstruct:arrow_shaft:0, Reeds Arrow Shaft
 tconstruct:arrow_shaft:0, Ice Arrow Shaft
 tconstruct:arrow_shaft:0, Endrod Arrow Shaft
+tconstruct:arrow_shaft:0, TNT Arrow Shaft
 tconstruct:fletching:0, Feather Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Leaf Fletching
+tconstruct:fletching:0, Nickel Fletching
+tconstruct:fletching:0, Invar Fletching
 tconstruct:bolt_core:0, Wood-Iron Bolt Core
 tconstruct:bolt_core:0, Bone-Iron Bolt Core
 tconstruct:bolt_core:0, Blazerod-Iron Bolt Core
 tconstruct:bolt_core:0, Reeds-Iron Bolt Core
 tconstruct:bolt_core:0, Ice-Iron Bolt Core
 tconstruct:bolt_core:0, Endrod-Iron Bolt Core
+tconstruct:bolt_core:0, TNT-Iron Bolt Core
 tconstruct:tooltables:0, Crafting Station
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
@@ -3373,6 +3592,8 @@ tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:5, Part Chest
 tconstruct:tooltables:3, Tool Station
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
@@ -3463,76 +3684,82 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Armor Plates Cast
 tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Fletching Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Battery Cell Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Fletching Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -3650,6 +3877,14 @@ conarm:helmet_core:0, Thorium Helmet Core
 conarm:helmet_core:0, Uranium Helmet Core
 conarm:helmet_core:0, Magnesium Helmet Core
 conarm:helmet_core:0, Chocolate Helmet Core
+conarm:helmet_core:0, Alumite Helmet Core
+conarm:helmet_core:0, Nickel Helmet Core
+conarm:helmet_core:0, Invar Helmet Core
+conarm:helmet_core:0, Iridium Helmet Core
+conarm:helmet_core:0, Desh Helmet Core
+conarm:helmet_core:0, Certus Quartz Helmet Core
+conarm:helmet_core:0, Fluix Crystal Helmet Core
+conarm:helmet_core:0, Emerald Helmet Core
 conarm:armor_trim:0, Wooden Armor Trim
 conarm:armor_trim:0, Stone Armor Trim
 conarm:armor_trim:0, Flint Armor Trim
@@ -3687,6 +3922,14 @@ conarm:armor_trim:0, Thorium Armor Trim
 conarm:armor_trim:0, Uranium Armor Trim
 conarm:armor_trim:0, Magnesium Armor Trim
 conarm:armor_trim:0, Chocolate Armor Trim
+conarm:armor_trim:0, Alumite Armor Trim
+conarm:armor_trim:0, Nickel Armor Trim
+conarm:armor_trim:0, Invar Armor Trim
+conarm:armor_trim:0, Iridium Armor Trim
+conarm:armor_trim:0, Desh Armor Trim
+conarm:armor_trim:0, Certus Quartz Armor Trim
+conarm:armor_trim:0, Fluix Crystal Armor Trim
+conarm:armor_trim:0, Emerald Armor Trim
 conarm:armor_plate:0, Wooden Armor Plates
 conarm:armor_plate:0, Stone Armor Plates
 conarm:armor_plate:0, Flint Armor Plates
@@ -3724,6 +3967,14 @@ conarm:armor_plate:0, Thorium Armor Plates
 conarm:armor_plate:0, Uranium Armor Plates
 conarm:armor_plate:0, Magnesium Armor Plates
 conarm:armor_plate:0, Chocolate Armor Plates
+conarm:armor_plate:0, Alumite Armor Plates
+conarm:armor_plate:0, Nickel Armor Plates
+conarm:armor_plate:0, Invar Armor Plates
+conarm:armor_plate:0, Iridium Armor Plates
+conarm:armor_plate:0, Desh Armor Plates
+conarm:armor_plate:0, Certus Quartz Armor Plates
+conarm:armor_plate:0, Fluix Crystal Armor Plates
+conarm:armor_plate:0, Emerald Armor Plates
 conarm:chest_core:0, Wooden Chestplate Core
 conarm:chest_core:0, Stone Chestplate Core
 conarm:chest_core:0, Flint Chestplate Core
@@ -3761,6 +4012,14 @@ conarm:chest_core:0, Thorium Chestplate Core
 conarm:chest_core:0, Uranium Chestplate Core
 conarm:chest_core:0, Magnesium Chestplate Core
 conarm:chest_core:0, Chocolate Chestplate Core
+conarm:chest_core:0, Alumite Chestplate Core
+conarm:chest_core:0, Nickel Chestplate Core
+conarm:chest_core:0, Invar Chestplate Core
+conarm:chest_core:0, Iridium Chestplate Core
+conarm:chest_core:0, Desh Chestplate Core
+conarm:chest_core:0, Certus Quartz Chestplate Core
+conarm:chest_core:0, Fluix Crystal Chestplate Core
+conarm:chest_core:0, Emerald Chestplate Core
 conarm:leggings_core:0, Wooden Leggings Core
 conarm:leggings_core:0, Stone Leggings Core
 conarm:leggings_core:0, Flint Leggings Core
@@ -3798,6 +4057,14 @@ conarm:leggings_core:0, Thorium Leggings Core
 conarm:leggings_core:0, Uranium Leggings Core
 conarm:leggings_core:0, Magnesium Leggings Core
 conarm:leggings_core:0, Chocolate Leggings Core
+conarm:leggings_core:0, Alumite Leggings Core
+conarm:leggings_core:0, Nickel Leggings Core
+conarm:leggings_core:0, Invar Leggings Core
+conarm:leggings_core:0, Iridium Leggings Core
+conarm:leggings_core:0, Desh Leggings Core
+conarm:leggings_core:0, Certus Quartz Leggings Core
+conarm:leggings_core:0, Fluix Crystal Leggings Core
+conarm:leggings_core:0, Emerald Leggings Core
 conarm:boots_core:0, Wooden Boots Core
 conarm:boots_core:0, Stone Boots Core
 conarm:boots_core:0, Flint Boots Core
@@ -3835,6 +4102,14 @@ conarm:boots_core:0, Thorium Boots Core
 conarm:boots_core:0, Uranium Boots Core
 conarm:boots_core:0, Magnesium Boots Core
 conarm:boots_core:0, Chocolate Boots Core
+conarm:boots_core:0, Alumite Boots Core
+conarm:boots_core:0, Nickel Boots Core
+conarm:boots_core:0, Invar Boots Core
+conarm:boots_core:0, Iridium Boots Core
+conarm:boots_core:0, Desh Boots Core
+conarm:boots_core:0, Certus Quartz Boots Core
+conarm:boots_core:0, Fluix Crystal Boots Core
+conarm:boots_core:0, Emerald Boots Core
 conarm:helmet, Helmet
 conarm:chestplate, Chestplate
 conarm:leggings, Leggings
@@ -3898,6 +4173,16 @@ conarm:polishing_kit:0, Thorium Polishing Kit
 conarm:polishing_kit:0, Uranium Polishing Kit
 conarm:polishing_kit:0, Magnesium Polishing Kit
 conarm:polishing_kit:0, Chocolate Polishing Kit
+conarm:polishing_kit:0, Alumite Polishing Kit
+conarm:polishing_kit:0, Nickel Polishing Kit
+conarm:polishing_kit:0, Invar Polishing Kit
+conarm:polishing_kit:0, Iridium Polishing Kit
+conarm:polishing_kit:0, Desh Polishing Kit
+conarm:polishing_kit:0, Certus Quartz Polishing Kit
+conarm:polishing_kit:0, Fluix Crystal Polishing Kit
+conarm:polishing_kit:0, Emerald Polishing Kit
+conarm:armorforge:0, Armor Forge
+conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
@@ -4750,6 +5035,19 @@ galaxyspace:cobalt_hoe, Cobalt Hoe
 galaxyspace:jetpack, Electric Jetpack
 galaxyspace:geo_scanner:0, Geological Scanner
 galaxyspace:geo_scanner:100, Geological Scanner
+galaxyspace:proxima_b_blocks:0, Proxima B Surface
+galaxyspace:proxima_b_blocks:1, Proxima B Subsurface
+galaxyspace:proxima_b_blocks:2, Proxima B Stone
+galaxyspace:proxima_b_blocks:3, Proxima B Ice Surface
+galaxyspace:proxima_b_blocks:4, Proxima B Ash Rock
+galaxyspace:proxima_b_blocks:5, Gold Ore
+galaxyspace:proxima_b_blocks:6, Tin Ore
+galaxyspace:proxima_b_blocks:7, Copper Ore
+galaxyspace:proxima_b_blocks:8, Coal Ore
+galaxyspace:proxima_b_blocks:9, Silicon Ore
+galaxyspace:proxima_b_blocks:10, Diamond Ore
+galaxyspace:proxima_b_log_1, Burnt Wood
+galaxyspace:proxima_b_log_2, Frozen Wood
 galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
 galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
 galaxyspace:barnarda_c_blocks:1, Barnarda C Stone
@@ -4789,19 +5087,6 @@ galaxyspace:barnarda_c_ores:12, Nickel Ore
 galaxyspace:br_basic:0, Violet Reeds
 galaxyspace:br_basic:1, Water Grass
 galaxyspace:br_foods:0, Yellow Fruits
-galaxyspace:proxima_b_blocks:0, Proxima B Surface
-galaxyspace:proxima_b_blocks:1, Proxima B Subsurface
-galaxyspace:proxima_b_blocks:2, Proxima B Stone
-galaxyspace:proxima_b_blocks:3, Proxima B Ice Surface
-galaxyspace:proxima_b_blocks:4, Proxima B Ash Rock
-galaxyspace:proxima_b_blocks:5, Gold Ore
-galaxyspace:proxima_b_blocks:6, Tin Ore
-galaxyspace:proxima_b_blocks:7, Copper Ore
-galaxyspace:proxima_b_blocks:8, Coal Ore
-galaxyspace:proxima_b_blocks:9, Silicon Ore
-galaxyspace:proxima_b_blocks:10, Diamond Ore
-galaxyspace:proxima_b_log_1, Burnt Wood
-galaxyspace:proxima_b_log_2, Frozen Wood
 galacticraftcore:unlit_torch_stone, Stone Torch
 galacticraftcore:unlit_torch_stone_lit, Stone Torch
 champions:champion_egg, Spawn Champion
@@ -4905,6 +5190,67 @@ ftbquests:book, Quest Book
 ftbquests:lootcrate, Loot Crate
 ftbquests:custom_icon, Custom Icon
 oeintegration:excavatemodifier, Excavate Modifier
+plustic:pipe_piece:0, Wooden Pipe Piece
+plustic:pipe_piece:0, Stone Pipe Piece
+plustic:pipe_piece:0, Flint Pipe Piece
+plustic:pipe_piece:0, Cactus Pipe Piece
+plustic:pipe_piece:0, Bone Pipe Piece
+plustic:pipe_piece:0, Obsidian Pipe Piece
+plustic:pipe_piece:0, Prismarine Pipe Piece
+plustic:pipe_piece:0, End Pipe Piece
+plustic:pipe_piece:0, Paper Pipe Piece
+plustic:pipe_piece:0, Sponge Pipe Piece
+plustic:pipe_piece:0, Firewood Pipe Piece
+plustic:pipe_piece:0, Iron Pipe Piece
+plustic:pipe_piece:0, Pig Iron Pipe Piece
+plustic:pipe_piece:0, Knightslime Pipe Piece
+plustic:pipe_piece:0, Slime Pipe Piece
+plustic:pipe_piece:0, Slime Pipe Piece
+plustic:pipe_piece:0, Magma Slime Pipe Piece
+plustic:pipe_piece:0, Netherrack Pipe Piece
+plustic:pipe_piece:0, Cobalt Pipe Piece
+plustic:pipe_piece:0, Ardite Pipe Piece
+plustic:pipe_piece:0, Manyullyn Pipe Piece
+plustic:pipe_piece:0, Copper Pipe Piece
+plustic:pipe_piece:0, Bronze Pipe Piece
+plustic:pipe_piece:0, Lead Pipe Piece
+plustic:pipe_piece:0, Silver Pipe Piece
+plustic:pipe_piece:0, Electrum Pipe Piece
+plustic:pipe_piece:0, Steel Pipe Piece
+plustic:pipe_piece:0, Dilithium Pipe Piece
+plustic:pipe_piece:0, Tritanium Pipe Piece
+plustic:pipe_piece:0, Boron Pipe Piece
+plustic:pipe_piece:0, Tough Alloy Pipe Piece
+plustic:pipe_piece:0, Hard Carbon Pipe Piece
+plustic:pipe_piece:0, Boron Nitride Pipe Piece
+plustic:pipe_piece:0, Thorium Pipe Piece
+plustic:pipe_piece:0, Uranium Pipe Piece
+plustic:pipe_piece:0, Magnesium Pipe Piece
+plustic:pipe_piece:0, Chocolate Pipe Piece
+plustic:pipe_piece:0, Alumite Pipe Piece
+plustic:pipe_piece:0, Nickel Pipe Piece
+plustic:pipe_piece:0, Invar Pipe Piece
+plustic:pipe_piece:0, Iridium Pipe Piece
+plustic:pipe_piece:0, Desh Pipe Piece
+plustic:pipe_piece:0, Certus Quartz Pipe Piece
+plustic:pipe_piece:0, Fluix Crystal Pipe Piece
+plustic:pipe_piece:0, Emerald Pipe Piece
+plustic:laser_medium:0, Stone Laser Medium
+plustic:laser_medium:0, Prismarine Laser Medium
+plustic:laser_medium:0, Blazerod Laser Medium
+plustic:laser_medium:0, Endrod Laser Medium
+plustic:laser_medium:0, Certus Quartz Laser Medium
+plustic:laser_medium:0, Fluix Crystal Laser Medium
+plustic:battery_cell:0, Stone Battery Cell
+plustic:battery_cell:0, Manyullyn Battery Cell
+plustic:battery_cell:0, Copper Battery Cell
+plustic:battery_cell:0, Silver Battery Cell
+plustic:battery_cell:0, Blazerod Battery Cell
+plustic:battery_cell:0, Endrod Battery Cell
+plustic:battery_cell:0, Nickel Battery Cell
+plustic:battery_cell:0, Fluix Crystal Battery Cell
+plustic:laser_gun, Laser Gun
+plustic:katana, Katana
 scannable:scanner, Scanner
 scannable:module_blank, Blank Scanner Module
 scannable:module_range, Scanner Module: Range
@@ -5088,6 +5434,8 @@ aroma1997sdimension:miningmultitool, Mining Multitool
 aroma1997sdimension:dimensionchanger, DimensionChanger
 aroma1997sdimension:miningore:0, Sticky Ore
 aroma1997sdimension:miningore:1, Clay Ore
+plustic:centrifuge:0, Centrifuge Tank
+plustic:centrifuge:1, Centrifuge Core
 theoneprobe:probe, The One Probe
 theoneprobe:creativeprobe, The Creative Probe
 theoneprobe:probenote, The One Probe Read Me
