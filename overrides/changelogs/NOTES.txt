@@ -1,21 +1,12 @@
 ﻿Mods likely to add:
 XNet
-Custom Main Menu
-Resource Loader
 JER
 Snad
-XL Food Mod + Spice of Life
 galacticraft tweaker
-better burning
-ender mail
-xXx_MoreToolMats_xXx
-scarper
 Wither Skeleton Tweaks
 More Planets (mixin issue)
 No Advancements
-Netherending Ores (likely not needed with Galaxy Space)
 Rain Delay + Toxic Rain (or twisted Tweaks?)
-LootTweaker (for adding loot to meteor chests) - resources were sent into space during the wars.
 
 
 Mods/items needed:
@@ -36,14 +27,13 @@ magnet (better magnets?)
 Possible mods to add?
 Crafting Craft
 Cooking for Blockheads
-Chisel (environmental materials)
+Chisel
 BetterFps
 Extra Utilities
 Thermal
 Ender IO (gas conduits)
 Modtweaker
 Industrial Foregoing (Integration Foregoing)
-FTB Utilities
 Mekanism (gas conduits, mekanismores)
 Ender Storage
 Waystones
@@ -65,9 +55,7 @@ Simple Generators
 Click Machine
 Trash Slot
 Bountiful Baubles
-LootTweaker
 portality
-treasure2!
 packing tape
 ender crop
 orespawn
@@ -75,7 +63,6 @@ gauges and switches
 large fluid tank
 inventory generators
 enderbags
-zombie awareness
 tinkers extras
 super sound muffler
 iron furnaces
@@ -87,7 +74,6 @@ animalnet / soulbottle
 exp ore
 ender ore
 glassential
-rats
 utility base ores
 Water Control Extreme
 
@@ -99,3 +85,4 @@ Do something about duplicate stone sticks
 Aroma's teleporter
 Add recipe for magentic crafting table from stone crafting table
 Review Matter Overdrive integration (Aromory Expansion)
+Improve DML Loot
