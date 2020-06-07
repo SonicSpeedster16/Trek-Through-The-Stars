@@ -26,7 +26,7 @@
         "require_exact_match": true
       },
       "worldinfo_onetime": {
-        "generatorName": "default",
+        "generatorName": "REALISTIC",
         "RandomSeed": ""
       },
       "jed": {

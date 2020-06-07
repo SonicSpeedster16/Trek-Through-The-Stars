@@ -5,17 +5,14 @@ Snad
 galacticraft tweaker
 Wither Skeleton Tweaks
 More Planets (mixin issue)
-No Advancements
 Rain Delay + Toxic Rain (or twisted Tweaks?)
 
 
 Mods/items needed:
-Long range transfer
-Gravestone
+Long range transfer (Ender Storage)
 chunk loader
 Flight (jetpack, magic feather, creative) (wings mod) -- DML?
 Leaf Decay
-Right click harvesting
 XP Tome/EXP storage (global xp)
 cave overhaul for planets (yung)
 minicoal
@@ -35,34 +32,28 @@ Ender IO (gas conduits)
 Modtweaker
 Industrial Foregoing (Integration Foregoing)
 Mekanism (gas conduits, mekanismores)
-Ender Storage
 Waystones
 Inventory Pets (planet dungeon rewards?)
 Building Gadgets
 Default Options (No Default Auto-Jump)
 RFTools
 Actually Additions
-Torchmaster
 Large Ore Deposits
 Primitive Mobs
 Chance Cubes
-AttributeFix
 Ranged Pumps
 YNot
 Steve's Carts Reborn
 /dank/null
-Simple Generators
 Click Machine
 Trash Slot
 Bountiful Baubles
 portality
-packing tape
 ender crop
 orespawn
 gauges and switches
 large fluid tank
 inventory generators
-enderbags
 tinkers extras
 super sound muffler
 iron furnaces
