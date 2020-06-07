@@ -256,6 +256,7 @@ ae2stuff:encoder
 ae2stuff:grower
 ae2stuff:inscriber
 ae2stuff:wireless
+chickenchunks:chunk_loader
 ezwastelands:ezwastelandblock
 nuclearcraft:ore
 nuclearcraft:ingot_block
@@ -934,6 +935,9 @@ galaxyspace:block_liquidethanemethane
 galaxyspace:block_helium3
 galaxyspace:block_ethane
 galaxyspace:block_heliumhydrogen
+galaxyspace:proxima_b_blocks
+galaxyspace:proxima_b_log_1
+galaxyspace:proxima_b_log_2
 galaxyspace:barnarda_c_grasses
 galaxyspace:barnarda_c_blocks
 galaxyspace:barnarda_c_falling_blocks
@@ -944,9 +948,6 @@ galaxyspace:barnarda_c_leaves
 galaxyspace:barnarda_c_farmland
 galaxyspace:barnarda_c_water_grass
 galaxyspace:barnarda_c_ores
-galaxyspace:proxima_b_blocks
-galaxyspace:proxima_b_log_1
-galaxyspace:proxima_b_log_2
 deepmoblearning:machine_casing
 deepmoblearning:infused_ingot_block
 deepmoblearning:simulation_chamber
@@ -991,6 +992,8 @@ aroma1997sdimension:portalframe
 aroma1997sdimension:miningportal
 aroma1997sdimension:miningore
 plustic:centrifuge
+simplefluidtanks:tankblock
+simplefluidtanks:valveblock
 galacticraftcore:unlit_torch_stone
 galacticraftcore:unlit_torch_stone_lit
 galacticraftcore:grating3

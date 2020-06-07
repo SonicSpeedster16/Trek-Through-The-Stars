@@ -1,71 +1,43 @@
 ﻿Mods likely to add:
-XNet
-JER
-Snad
-galacticraft tweaker
-Wither Skeleton Tweaks
-More Planets (mixin issue)
 Rain Delay + Toxic Rain (or twisted Tweaks?)
+Inventory Pets and/or Chance Cubes (planet dungeon rewards?)
+/dank/null
+BetterFps
+Default Options (No Default Auto-Jump)
+More Planets (mixin issue)
+galacticraft tweaker
+Snad
+Exp Ore
+SoulBottle
 
 
 Mods/items needed:
-Long range transfer (Ender Storage)
-chunk loader
+Long range transfer (Ender Storage) -- might not need?
 Flight (jetpack, magic feather, creative) (wings mod) -- DML?
-Leaf Decay
-XP Tome/EXP storage (global xp)
-cave overhaul for planets (yung)
-minicoal
-watering can
-magnet (better magnets?)
+EXP storage (Global XP, XP Tome) -- maybe?
+watering can (Water Can)
+magnet (Better Magnets) -- use Tinker trait instead?
 
 
 
 Possible mods to add?
-Crafting Craft
-Cooking for Blockheads
-Chisel
-BetterFps
+Waystones (Waystones2Waypoints)
+XNet (YNot)
+JER
+Modtweaker
 Extra Utilities
 Thermal
 Ender IO (gas conduits)
-Modtweaker
 Industrial Foregoing (Integration Foregoing)
 Mekanism (gas conduits, mekanismores)
-Waystones
-Inventory Pets (planet dungeon rewards?)
-Building Gadgets
-Default Options (No Default Auto-Jump)
 RFTools
 Actually Additions
-Large Ore Deposits
-Primitive Mobs
-Chance Cubes
-Ranged Pumps
-YNot
-Steve's Carts Reborn
-/dank/null
-Click Machine
-Trash Slot
-Bountiful Baubles
-portality
-ender crop
-orespawn
-gauges and switches
-large fluid tank
-inventory generators
-tinkers extras
-super sound muffler
-iron furnaces
-traveller's boots
-zombie players
-planet progression
-garbage bins
-animalnet / soulbottle
-exp ore
-ender ore
-glassential
-utility base ores
+Trinkets and Baubles
+Portality
+MMD OreSpawn (Utility Base Ores)
+Gauges and Switches
+Super Sound Muffler
+Planet Progression
 Water Control Extreme
 
 (page 113)
@@ -77,3 +49,4 @@ Aroma's teleporter
 Add recipe for magentic crafting table from stone crafting table
 Review Matter Overdrive integration (Aromory Expansion)
 Improve DML Loot
+Fix Stone Torch burning in space?
