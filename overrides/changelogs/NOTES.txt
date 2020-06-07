@@ -1,12 +1,8 @@
 ﻿Mods likely to add:
 Inventory Pets and/or Chance Cubes (planet dungeon rewards?)
-Water Can
 BetterFps
 More Planets (mixin issue)
 Galacticraft Tweaker
-Snad
-SoulBottle
-Ender Storage -- might not need?
 
 DML provide flight (tweak recipe?)
 Use Tinker's Magnetic trait instead of magnets?
@@ -14,7 +10,10 @@ Use Tinker's Magnetic trait instead of magnets?
 Possible mods to add?
 Rain Delay + Toxic Rain (or Twisted Tweaks?)
 /dank/null
+Ender Storage
+Snad
 Waystones (Waystones2Waypoints)
+SoulBottle
 No Default Auto-Jump
 XNet (YNot)
 JER
@@ -25,7 +24,6 @@ RFTools
 Actually Additions
 Portality
 MMD OreSpawn (Utility Base Ores)
-Super Sound Muffler
 Planet Progression
 Water Control Extreme
 
@@ -38,4 +36,3 @@ Aroma's teleporter
 Add recipe for magentic crafting table from stone crafting table
 Review Matter Overdrive integration (Aromory Expansion)
 Improve DML Loot
-Fix Stone Torch burning in space?
