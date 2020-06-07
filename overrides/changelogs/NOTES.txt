@@ -1,35 +1,26 @@
 ﻿Mods likely to add:
-Rain Delay + Toxic Rain (or Twisted Tweaks?)
 Inventory Pets and/or Chance Cubes (planet dungeon rewards?)
-/dank/null
+Water Can
 BetterFps
 More Planets (mixin issue)
 Galacticraft Tweaker
 Snad
-Exp Ore
 SoulBottle
+Ender Storage -- might not need?
 
-
-Mods/items needed:
-Long range transfer (Ender Storage) -- might not need?
-Flight (jetpack, magic feather, creative) (wings mod) -- DML?
-watering can (Water Can)
-magnet (Better Magnets) -- use Tinker trait instead?
-
-
+DML provide flight (tweak recipe?)
+Use Tinker's Magnetic trait instead of magnets?
 
 Possible mods to add?
-Exp Ore (Global XP, XP Tome)
+Rain Delay + Toxic Rain (or Twisted Tweaks?)
+/dank/null
 Waystones (Waystones2Waypoints)
-Default Options (No Default Auto-Jump)
+No Default Auto-Jump
 XNet (YNot)
 JER
 Modtweaker
-Extra Utilities
-Thermal
 Ender IO (gas conduits)
 Industrial Foregoing (Integration Foregoing)
-Mekanism (gas conduits, mekanismores)
 RFTools
 Actually Additions
 Portality
