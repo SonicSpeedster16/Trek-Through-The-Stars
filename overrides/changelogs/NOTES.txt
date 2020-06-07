@@ -1,11 +1,10 @@
 ﻿Mods likely to add:
-Rain Delay + Toxic Rain (or twisted Tweaks?)
+Rain Delay + Toxic Rain (or Twisted Tweaks?)
 Inventory Pets and/or Chance Cubes (planet dungeon rewards?)
 /dank/null
 BetterFps
-Default Options (No Default Auto-Jump)
 More Planets (mixin issue)
-galacticraft tweaker
+Galacticraft Tweaker
 Snad
 Exp Ore
 SoulBottle
@@ -14,14 +13,15 @@ SoulBottle
 Mods/items needed:
 Long range transfer (Ender Storage) -- might not need?
 Flight (jetpack, magic feather, creative) (wings mod) -- DML?
-EXP storage (Global XP, XP Tome) -- maybe?
 watering can (Water Can)
 magnet (Better Magnets) -- use Tinker trait instead?
 
 
 
 Possible mods to add?
+Exp Ore (Global XP, XP Tome)
 Waystones (Waystones2Waypoints)
+Default Options (No Default Auto-Jump)
 XNet (YNot)
 JER
 Modtweaker
@@ -32,10 +32,8 @@ Industrial Foregoing (Integration Foregoing)
 Mekanism (gas conduits, mekanismores)
 RFTools
 Actually Additions
-Trinkets and Baubles
 Portality
 MMD OreSpawn (Utility Base Ores)
-Gauges and Switches
 Super Sound Muffler
 Planet Progression
 Water Control Extreme
