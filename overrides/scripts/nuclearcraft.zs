@@ -71,5 +71,8 @@ mods.nuclearcraft.manufactory.addRecipe([<galaxyspace:ioblocks:4>, <nuclearcraft
 mods.nuclearcraft.manufactory.addRecipe([<matteroverdrive:dilithium_ore>, <matteroverdrive:dilithium_crystal>*2, 1.25, 1.0, 0.0]);
 # Ardite
 mods.nuclearcraft.melter.addRecipe([<ore:oreArdite>, <liquid:ardite>*360, 1.25, 1.5, 0.0]);
+# Sapphire
+mods.nuclearcraft.manufactory.addRecipe([<galacticraftcore:basic_block_moon:6>, <galacticraftcore:item_basic_moon:2>*2, 1.25, 1.0, 0.0]);
+mods.nuclearcraft.manufactory.addRecipe([<galaxyspace:titanblocks:3>, <galacticraftcore:item_basic_moon:2>*2, 1.25, 1.0, 0.0]);
 
 print("==== Initialized nuclearcraft.zs ====");
