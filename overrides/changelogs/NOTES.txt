@@ -18,10 +18,6 @@ No Default Auto-Jump
 XNet (YNot)
 JER
 Modtweaker
-Ender IO (gas conduits)
-Industrial Foregoing (Integration Foregoing)
-RFTools
-Actually Additions
 Portality
 MMD OreSpawn (Utility Base Ores)
 Planet Progression
@@ -34,5 +30,5 @@ TODO:
 Do something about duplicate stone sticks
 Aroma's teleporter
 Add recipe for magentic crafting table from stone crafting table
-Review Matter Overdrive integration (Aromory Expansion)
 Improve DML Loot
+Add method to obtain lava

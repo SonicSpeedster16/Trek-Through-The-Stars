@@ -4,6 +4,9 @@
 
 print("==== Initializing minecraft.zs ====");
 
+# Manually set temperature of lava
+<liquid:lava>.definition.temperature = 3000;
+
 # Cobblestone from Meteor Blocks
 recipes.addShapeless("Cobblestone_from_Meteors",
 <minecraft:cobblestone> * 2, [<wasteland_meteors:meteor_block>, <wasteland_meteors:meteor_block>]);
