@@ -105,8 +105,8 @@
 - Added Wireless Interface Terminal (1.0.3)
 - Added Wireless Pattern Terminal (1.0.2)
 - Added Wither Skeleton Tweaks (2.6.3)
-- Added Xaero's Minimap (20.12.2)
-- Addec Xaero's World Map (1.6.2)
+- Added Xaero's Minimap (20.13.0)
+- Addec Xaero's World Map (1.6.3)
 - Added xXx_MoreToolMats_xXx (8.0.1.0)
 
 # =============== Config Changes =============== #
