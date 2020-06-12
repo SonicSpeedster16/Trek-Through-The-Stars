@@ -3,42 +3,87 @@
     {
       "block": "minecraft:cobblestone",
       "meta": "",
-      "weight": 80
+      "weight": 70
     },
     {
       "block": "wasteland_meteors:meteor_block",
       "meta": "",
-      "weight": 80
+      "weight": 10
     },
     {
       "block": "minecraft:stone",
       "meta": "variant=andesite",
-      "weight": 60
+      "weight": 20
     },
     {
       "block": "minecraft:stone",
       "meta": "variant=granite",
-      "weight": 60
+      "weight": 20
     },
     {
       "block": "minecraft:stone",
       "meta": "variant=diorite",
-      "weight": 60
+      "weight": 20
     },
     {
       "block": "minecraft:coal_ore",
       "meta": "",
-      "weight": 40
+      "weight": 60
     },
     {
       "block": "minecraft:iron_ore",
       "meta": "",
-      "weight": 36
+      "weight": 60
+    },
+    {
+      "block": "<minecraft:quartz_ore>",
+      "meta": "",
+      "weight": 20
+    },
+    {
+      "block": "nuclearcraft:ore",
+      "meta": "1",
+      "weight": 30
+    },
+    {
+      "block": "nuclearcraft:ore",
+      "meta": "0",
+      "weight": 45
+    },
+    {
+      "block": "nuclearcraft:ore",
+      "meta": "5",
+      "weight": 15
+    },
+    {
+      "block": "galacticraftcore:basic_block_core",
+      "meta": "7",
+      "weight": 20
+    },
+    {
+      "block": "galacticraftcore:basic_block_core",
+      "meta": "8",
+      "weight": 20
+    },
+    {
+      "block": "nuclearcraft:ore",
+      "meta": "2",
+      "weight": 20
+    },
+    {
+      "block": "matteroverdrive:tritanium_ore",
+      "meta": "",
+      "weight": 12
+    },
+    {
+      "block": "matteroverdrive:dilithium_ore",
+      "meta": "",
+      "weight": 5
     },
     {
       "block": "minecraft:gravel",
       "meta": "",
-      "weight": 20
+      "weight": 10
     },
     {
       "block": "minecraft:sand",
@@ -48,17 +93,27 @@
     {
       "block": "minecraft:ice",
       "meta": "",
-      "weight": 20
+      "weight": 5
     },
     {
-      "block": "minecraft:clay",
-      "meta": "",
-      "weight": 18
+      "block": "aroma1997sdimension:miningore",
+      "meta": "1",
+      "weight": 12
+    },
+    {
+      "block": "aroma1997sdimension:miningore",
+      "meta": "0",
+      "weight": 7
     },
     {
       "block": "minecraft:gold_ore",
       "meta": "",
-      "weight": 12
+      "weight": 30
+    },
+    {
+      "block": "minecraft:redstone_ore",
+      "meta": "",
+      "weight": 20
     },
     {
       "block": "minecraft:lapis_ore",
@@ -66,19 +121,14 @@
       "weight": 10
     },
     {
-      "block": "minecraft:packed_ice",
-      "meta": "",
-      "weight": 6
-    },
-    {
       "block": "minecraft:diamond_ore",
       "meta": "",
-      "weight": 4
+      "weight": 10
     },
     {
       "block": "minecraft:emerald_ore",
       "meta": "",
-      "weight": 2
+      "weight": 5
     },
     {
       "block": "wasteland_meteors:meteor_chest",
@@ -107,69 +157,134 @@
   ],
   "underground": [
     {
-      "block": "minecraft:coal_ore",
+      "block": "densemetals:dense_coal_ore",
       "meta": "",
-      "weight": 1440
+      "weight": 60
     },
     {
-      "block": "minecraft:iron_ore",
+      "block": "densemetals:dense_iron_ore",
       "meta": "",
-      "weight": 1440
+      "weight": 60
     },
     {
-      "block": "minecraft:dirt",
+      "block": "densemetals:dense_tin_ore",
       "meta": "",
-      "weight": 800
+      "weight": 30
     },
     {
-      "block": "minecraft:cobblestone",
+      "block": "densemetals:dense_copper_ore",
       "meta": "",
-      "weight": 1000
+      "weight": 45
     },
     {
-      "block": "wasteland_meteors:meteor_block",
+      "block": "densemetals:dense_aluminum_ore",
       "meta": "",
-      "weight": 1000
+      "weight": 20
     },
     {
-      "block": "minecraft:gravel",
+      "block": "densemetals:dense_lead_ore",
       "meta": "",
-      "weight": 800
+      "weight": 25
     },
     {
-      "block": "minecraft:sand",
+      "block": "densemetals:dense_magnesium_ore",
       "meta": "",
-      "weight": 800
+      "weight": 5
     },
     {
-      "block": "minecraft:clay",
+      "block": "densemetals:dense_gold_ore",
       "meta": "",
-      "weight": 510
+      "weight": 20
     },
     {
-      "block": "minecraft:gold_ore",
+      "block": "densemetals:dense_nickel_ore",
       "meta": "",
-      "weight": 480
+      "weight": 5
     },
     {
-      "block": "minecraft:lapis_ore",
+      "block": "densemetals:dense_uranium_ore",
       "meta": "",
-      "weight": 400
+      "weight": 7
+    },
+    {
+      "block": "densemetals:dense_thorium_ore",
+      "meta": "",
+      "weight": 5
+    },
+    {
+      "block": "densemetals:dense_boron_ore",
+      "meta": "",
+      "weight": 10
+    },
+    {
+      "block": "densemetals:dense_redstone_ore",
+      "meta": "",
+      "weight": 15
+    },
+    {
+      "block": "overquartz:glowstone_ore",
+      "meta": "",
+      "weight": 30
+    },
+    {
+      "block": "densemetals:dense_quartz_ore",
+      "meta": "",
+      "weight": 40
+    },
+    {
+      "block": "densemetals:dense_lapis_ore",
+      "meta": "",
+      "weight": 10
     },
     {
       "block": "minecraft:obsidian",
       "meta": "",
-      "weight": 360
+      "weight": 30
     },
     {
-      "block": "minecraft:diamond_ore",
+      "block": "appliedenergistics2:quartz_ore",
       "meta": "",
-      "weight": 320
+      "weight": 30
     },
     {
-      "block": "minecraft:emerald_ore",
+      "block": "appliedenergistics2:charged_quartz_ore",
       "meta": "",
-      "weight": 160
+      "weight": 3
+    },
+    {
+      "block": "galaxyspace:ganymedeblocks",
+      "meta": "3",
+      "weight": 5
+    },
+    {
+      "block": "matteroverdrive:tritanium_ore",
+      "meta": "",
+      "weight": 12
+    },
+    {
+      "block": "densemetals:dense_diamond_ore",
+      "meta": "",
+      "weight": 15
+    },
+    {
+      "block": "densemetals:dense_emerald_ore",
+      "meta": "",
+      "weight": 10
+    },
+    {
+      "block": "galaxyspace:barnarda_c_ores",
+      "meta": "11",
+      "weight": 10
+    },
+    {
+      "block": "tconstruct:ore",
+      "meta": "1",
+      "weight": 7
+    },
+    {
+      "block": "galacticraftcore:basic_block_core",
+      "meta": "8",
+      "weight": 60
     },
     {
       "block": "wasteland_meteors:meteor_chest",
@@ -194,36 +309,6 @@
       "meta": "facing=south",
       "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
       "weight": 8
-    },
-    {
-      "block": "minecraft:mob_spawner",
-      "meta": "",
-      "nbt": "{SpawnData:{id:\"minecraft:guardian\"}}",
-      "weight": 2
-    },
-    {
-      "block": "minecraft:mob_spawner",
-      "meta": "",
-      "nbt": "{SpawnData:{id:\"minecraft:skeleton\"}}",
-      "weight": 2
-    },
-    {
-      "block": "minecraft:mob_spawner",
-      "meta": "",
-      "nbt": "{SpawnData:{id:\"minecraft:zombie\"}}",
-      "weight": 4
-    },
-    {
-      "block": "minecraft:mob_spawner",
-      "meta": "",
-      "nbt": "{SpawnData:{id:\"minecraft:cave_spider\"}}",
-      "weight": 4
-    },
-    {
-      "block": "minecraft:mob_spawner",
-      "meta": "",
-      "nbt": "{SpawnData:{id:\"minecraft:witch\"}}",
-      "weight": 2
     }
   ]
 }

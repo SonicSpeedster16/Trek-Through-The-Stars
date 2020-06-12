@@ -19,7 +19,6 @@ XNet (YNot)
 JER
 Modtweaker
 Portality
-MMD OreSpawn (Utility Base Ores)
 Planet Progression
 Water Control Extreme
 
@@ -32,3 +31,6 @@ Aroma's teleporter
 Add recipe for magentic crafting table from stone crafting table
 Improve DML Loot
 Add method to obtain lava
+Add feathers to meteor chests
+disable non-tinkers tools and armor?
+make AstroMiner easier to acquire?
