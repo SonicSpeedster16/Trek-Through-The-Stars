@@ -34,3 +34,7 @@ Add method to obtain lava
 Add feathers to meteor chests
 disable non-tinkers tools and armor?
 make AstroMiner easier to acquire?
+Add Matter to mob drops?
+flesh to leather recipe (funrace?)
+remove tools/armor (force tinkers)
+Add recipe for glowing mushroom

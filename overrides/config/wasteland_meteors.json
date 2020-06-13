@@ -76,11 +76,6 @@
       "weight": 12
     },
     {
-      "block": "matteroverdrive:dilithium_ore",
-      "meta": "",
-      "weight": 5
-    },
-    {
       "block": "minecraft:gravel",
       "meta": "",
       "weight": 10
