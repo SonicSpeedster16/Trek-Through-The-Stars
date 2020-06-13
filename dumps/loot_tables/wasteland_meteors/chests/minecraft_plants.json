@@ -1,0 +1,510 @@
+{
+  "pools": [
+    {
+      "name": "wasteland_meteors:minecraft_plants",
+      "entries": [
+        {
+          "entryName": "minecraft:sapling",
+          "weight": 5,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": {
+                "min": 0.0,
+                "max": 5.0
+              },
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:sapling"
+        },
+        {
+          "entryName": "minecraft:double_plant",
+          "weight": 2,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": {
+                "min": 0.0,
+                "max": 1.0
+              },
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:double_plant"
+        },
+        {
+          "entryName": "minecraft:red_flower",
+          "weight": 8,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": {
+                "min": 0.0,
+                "max": 8.0
+              },
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:red_flower"
+        },
+        {
+          "entryName": "minecraft:yellow_flower",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:yellow_flower"
+        },
+        {
+          "entryName": "minecraft:tallgrass",
+          "weight": 2,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": {
+                "min": 0.0,
+                "max": 1.0
+              },
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:tallgrass"
+        },
+        {
+          "entryName": "minecraft:vine",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:vine"
+        },
+        {
+          "entryName": "minecraft:waterlily",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:waterlily"
+        },
+        {
+          "entryName": "minecraft:red_mushroom",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:red_mushroom"
+        },
+        {
+          "entryName": "minecraft:brown_mushroom",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:brown_mushroom"
+        },
+        {
+          "entryName": "minecraft:cactus",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:cactus"
+        },
+        {
+          "entryName": "minecraft:deadbush",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:deadbush"
+        },
+        {
+          "entryName": "minecraft:grass",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:grass"
+        },
+        {
+          "entryName": "minecraft:dye",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 3.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:dye"
+        }
+      ],
+      "rolls": {
+        "min": 2.0,
+        "max": 3.0
+      }
+    },
+    {
+      "name": "wasteland_meteors:minecraft_plants_alt",
+      "entries": [
+        {
+          "entryName": "minecraft:sapling",
+          "weight": 5,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": {
+                "min": 0.0,
+                "max": 5.0
+              },
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:sapling"
+        },
+        {
+          "entryName": "minecraft:double_plant",
+          "weight": 2,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": {
+                "min": 4.0,
+                "max": 5.0
+              },
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:double_plant"
+        },
+        {
+          "entryName": "minecraft:red_flower",
+          "weight": 8,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": {
+                "min": 0.0,
+                "max": 8.0
+              },
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:red_flower"
+        },
+        {
+          "entryName": "minecraft:yellow_flower",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:yellow_flower"
+        },
+        {
+          "entryName": "minecraft:tallgrass",
+          "weight": 2,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": {
+                "min": 0.0,
+                "max": 1.0
+              },
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:tallgrass"
+        },
+        {
+          "entryName": "minecraft:vine",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:vine"
+        },
+        {
+          "entryName": "minecraft:waterlily",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:waterlily"
+        },
+        {
+          "entryName": "minecraft:red_mushroom",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:red_mushroom"
+        },
+        {
+          "entryName": "minecraft:brown_mushroom",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:brown_mushroom"
+        },
+        {
+          "entryName": "minecraft:cactus",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:cactus"
+        },
+        {
+          "entryName": "minecraft:deadbush",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:deadbush"
+        },
+        {
+          "entryName": "minecraft:grass",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:grass"
+        },
+        {
+          "entryName": "minecraft:dye",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 3.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:dye"
+        }
+      ],
+      "rolls": {
+        "min": 2.0,
+        "max": 3.0
+      }
+    },
+    {
+      "name": "main",
+      "entries": [],
+      "rolls": {
+        "min": 5.0,
+        "max": 10.0
+      }
+    }
+  ]
+}
