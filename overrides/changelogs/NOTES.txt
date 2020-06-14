@@ -1,5 +1,5 @@
 ﻿Mods likely to add:
-Inventory Pets and/or Chance Cubes (planet dungeon rewards?)
+Inventory Pets (planet dungeon rewards?)
 BetterFps
 More Planets (mixin issue)
 Galacticraft Tweaker
@@ -35,6 +35,7 @@ Add feathers to meteor chests
 disable non-tinkers tools and armor?
 make AstroMiner easier to acquire?
 Add Matter to mob drops?
-flesh to leather recipe (funrace?)
+flesh to leather recipe (furnace or drying rack?)
 remove tools/armor (force tinkers)
 Add recipe for glowing mushroom
+Transform overworldian matter to polymer clay?

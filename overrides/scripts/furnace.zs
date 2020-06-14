@@ -50,4 +50,12 @@ furnace.addRecipe(<galaxyspace:gs_basic:3>, <ore:oreDolomite>, 1);
 # Dilithium
 furnace.addRecipe(<matteroverdrive:dilithium_crystal>, <matteroverdrive:dilithium_ore>, 1);
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~
+Quality of Life improvements
+~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+# Flux Networks Flux
+furnace.addRecipe(<fluxnetworks:flux>, <minecraft:redstone>);
+
+
 print("==== Initialized furnace.zs ====");
