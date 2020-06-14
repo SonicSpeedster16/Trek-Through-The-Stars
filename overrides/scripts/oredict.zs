@@ -2,7 +2,7 @@
 #Author: SonicSpeedster16
 #Written for use in the Zoo Builders modpack: https://www.curseforge.com/minecraft/modpacks/zoo-builders
 
-#priority 1
+#priority 1000
 
 print("==== Initializing oredict.zs ====");
 
@@ -30,9 +30,11 @@ Add missing Ore Dictionary entries
 <ore:oreSapphire>.add(<galacticraftcore:basic_block_moon:6>);
 <ore:oreSapphire>.add(<galaxyspace:titanblocks:3>);
 
+# Crafting tables
+<ore:workbench>.add(<sct:stone_crafting_table>);
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Remove Ore Dictionary entries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-
 
 print("==== Initialized oredict.zs ====");

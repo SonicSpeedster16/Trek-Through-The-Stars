@@ -28,14 +28,9 @@ Water Control Extreme
 TODO:
 Do something about duplicate stone sticks
 Aroma's teleporter
-Add recipe for magentic crafting table from stone crafting table
 Improve DML Loot
 Add method to obtain lava
 Add feathers to meteor chests
-disable non-tinkers tools and armor?
 make AstroMiner easier to acquire?
-Add Matter to mob drops?
-flesh to leather recipe (furnace or drying rack?)
 remove tools/armor (force tinkers)
-Add recipe for glowing mushroom
-Transform overworldian matter to polymer clay?
+Transform overworldian matter to polymer clay (pressurizer)?

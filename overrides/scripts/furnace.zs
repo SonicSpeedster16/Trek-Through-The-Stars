@@ -57,5 +57,7 @@ Quality of Life improvements
 # Flux Networks Flux
 furnace.addRecipe(<fluxnetworks:flux>, <minecraft:redstone>);
 
+# Rotten Flesh -> Leather
+furnace.addRecipe(<minecraft:leather>, <minecraft:rotten_flesh>);
 
 print("==== Initialized furnace.zs ====");
