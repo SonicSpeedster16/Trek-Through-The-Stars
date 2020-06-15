@@ -58,7 +58,7 @@
     {
       "block": "galacticraftcore:basic_block_core",
       "meta": "7",
-      "weight": 20
+      "weight": 30
     },
     {
       "block": "galacticraftcore:basic_block_core",
@@ -73,7 +73,7 @@
     {
       "block": "matteroverdrive:tritanium_ore",
       "meta": "",
-      "weight": 12
+      "weight": 15
     },
     {
       "block": "minecraft:gravel",
@@ -254,7 +254,7 @@
     {
       "block": "matteroverdrive:tritanium_ore",
       "meta": "",
-      "weight": 12
+      "weight": 25
     },
     {
       "block": "densemetals:dense_diamond_ore",

@@ -96,7 +96,7 @@
 - Added Tool Progression (1.6.9)
 - Added TOP Addons (1.13.0)
 - Added TrashSlot (8.4.10)
-- Added Traveller's Backpack (1.0.25.25)
+- Added Traveler's Backpack (1.0.26.26)
 - Added Unidict (2.9.6)
 - Added VanillaFix (1.0.10-150)
 - Added WanionLib (2.4)
