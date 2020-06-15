@@ -1,9 +1,6 @@
 ﻿Mods likely to add:
-Inventory Pets (planet dungeon rewards?)
-Water Control Extreme (force use of Nuclearcraft infinite water source)
 BetterFps
 More Planets (mixin issue)
-Galacticraft Tweaker
 
 DML provide flight (tweak recipe?)
 Use Tinker's Magnetic trait instead of magnets?
@@ -13,7 +10,6 @@ Rain Delay + Toxic Rain (or Twisted Tweaks?)
 /dank/null
 Ender Storage
 Snad
-Waystones (Waystones2Waypoints)
 SoulBottle
 No Default Auto-Jump
 XNet (YNot)
@@ -29,8 +25,20 @@ TODO:
 Do something about duplicate stone sticks
 Aroma's teleporter
 Improve DML Loot
-Add method to obtain lava
 Add feathers to meteor chests
 make AstroMiner easier to acquire?
 remove tools/armor (force tinkers)
+change tritanium plate recipe.
 Transform overworldian matter to polymer clay (pressurizer)?
+Add Inventory Pets to planet dungeons
+Fix Inventory Pets recipes conflicts and hide unneeded items.
+
+Add a method to obtain:
+Lava?
+Netherack?
+pistons
+drying rack
+
+QUESTS
+Phaser rifles
+Nuclearcraft cobblegen (infinite water source?)
