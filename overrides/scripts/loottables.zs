@@ -56,9 +56,9 @@ val skeletonCommon = skeleton.addPool("Common", -1, 1, 0, 0);
 skeletonCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 # Wither Skeleton
-val witherskeleton = LootTables.getTable("minecraft:entities/wither_skeleton");
-val witherskeletonCommon = witherskeleton.addPool("Common", -1, 1, 0, 0);
-witherskeletonCommon.addItemEntryHelper(<deepmoblearning:living_matter_hellish>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
+val wither_skeleton = LootTables.getTable("minecraft:entities/wither_skeleton");
+val wither_skeletonCommon = wither_skeleton.addPool("Common", -1, 1, 0, 0);
+wither_skeletonCommon.addItemEntryHelper(<deepmoblearning:living_matter_hellish>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 # Slime
 val slime = LootTables.getTable("minecraft:entities/slime");
@@ -66,9 +66,9 @@ val slimeCommon = slime.addPool("Common", -10, 1, 0, 0);
 slimeCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 # Blue Slime
-val blueslime = LootTables.getTable("tconstruct:entities/blueslime");
-val blueslimeCommon = blueslime.addPool("Common", -10, 1, 0, 0);
-blueslimeCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
+val blue_slime = LootTables.getTable("tconstruct:entities/blueslime");
+val blue_slimeCommon = blue_slime.addPool("Common", -10, 1, 0, 0);
+blue_slimeCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 # Enderman
 val enderman = LootTables.getTable("minecraft:entities/enderman");

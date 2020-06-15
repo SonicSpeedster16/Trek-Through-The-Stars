@@ -1,5 +1,6 @@
 ﻿Mods likely to add:
 Inventory Pets (planet dungeon rewards?)
+Water Control Extreme (force use of Nuclearcraft infinite water source)
 BetterFps
 More Planets (mixin issue)
 Galacticraft Tweaker
@@ -20,7 +21,6 @@ JER
 Modtweaker
 Portality
 Planet Progression
-Water Control Extreme
 
 (page 113)
 
