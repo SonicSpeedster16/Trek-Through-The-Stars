@@ -29,9 +29,10 @@ Add feathers to meteor chests
 make AstroMiner easier to acquire?
 remove tools/armor (force tinkers)
 change tritanium plate recipe.
-Transform overworldian matter to polymer clay (pressurizer)?
+Transform overworldian matter to polymer clay?
 Add Inventory Pets to planet dungeons
 Fix Inventory Pets recipes conflicts and hide unneeded items.
+Add resource images for Ardite
 
 Add a method to obtain:
 Lava?
@@ -41,4 +42,3 @@ drying rack
 
 QUESTS
 Phaser rifles
-Nuclearcraft cobblegen (infinite water source?)
