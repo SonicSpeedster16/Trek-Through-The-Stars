@@ -35,8 +35,8 @@ furnace.addRecipe(<minecraft:quartz>, <galacticraftplanets:venus:9>, 1);
 furnace.addRecipe(<appliedenergistics2:material:0>, <appliedenergistics2:quartz_ore>, 1);
 furnace.addRecipe(<appliedenergistics2:material:1>, <appliedenergistics2:charged_quartz_ore>, 1);
 # Silicon
-furnace.addRecipe(<nuclearcraft:gem:6>, <ore:oreSilicon>, 1);
-furnace.addRecipe(<nuclearcraft:gem:6>, <galacticraftplanets:venus:10>, 1);
+//furnace.addRecipe(<nuclearcraft:gem:6>, <ore:oreSilicon>, 1);
+//furnace.addRecipe(<nuclearcraft:gem:6>, <galacticraftplanets:venus:10>, 1);
 # Meteoric Iron
 furnace.addRecipe(<galacticraftcore:item_basic_moon>, <galaxyspace:ceresblocks:3>, 1);
 # Sapphire
@@ -44,7 +44,7 @@ furnace.addRecipe(<galacticraftcore:item_basic_moon:2>, <galaxyspace:titanblocks
 # Solar
 furnace.addRecipe(<galacticraftplanets:basic_item_venus:4>, <galacticraftplanets:venus:13>, 1);
 # Uranium
-furnace.addRecipe(<nuclearcraft:ingot:4>, <galaxyspace:gsores:2>);
+//furnace.addRecipe(<nuclearcraft:ingot:4>, <galaxyspace:gsores:2>);
 # Dolomite
 furnace.addRecipe(<galaxyspace:gs_basic:3>, <ore:oreDolomite>, 1);
 # Dilithium

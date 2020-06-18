@@ -41,21 +41,6 @@
       "weight": 20
     },
     {
-      "block": "nuclearcraft:ore",
-      "meta": "1",
-      "weight": 30
-    },
-    {
-      "block": "nuclearcraft:ore",
-      "meta": "0",
-      "weight": 45
-    },
-    {
-      "block": "nuclearcraft:ore",
-      "meta": "5",
-      "weight": 15
-    },
-    {
       "block": "galacticraftcore:basic_block_core",
       "meta": "7",
       "weight": 30
@@ -63,11 +48,6 @@
     {
       "block": "galacticraftcore:basic_block_core",
       "meta": "8",
-      "weight": 20
-    },
-    {
-      "block": "nuclearcraft:ore",
-      "meta": "2",
       "weight": 20
     },
     {

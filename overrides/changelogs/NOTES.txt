@@ -6,6 +6,7 @@ DML provide flight (tweak recipe?)
 Use Tinker's Magnetic trait instead of magnets?
 
 Possible mods to add?
+Ranged Pumps
 Rain Delay + Toxic Rain (or Twisted Tweaks?)
 /dank/null
 Ender Storage
@@ -22,6 +23,10 @@ Planet Progression
 
 
 TODO:
+Rework meteor ores
+Add smelting recipe for Silicon Ore, Uranium Ore
+Unify Silicon/cobalt
+Remove ability to cast plates with the smeltery
 Do something about duplicate stone sticks
 Aroma's teleporter
 Improve DML Loot
@@ -33,6 +38,7 @@ Transform overworldian matter to polymer clay?
 Add Inventory Pets to planet dungeons
 Fix Inventory Pets recipes conflicts and hide unneeded items.
 Add resource images for Ardite
+Metal forge require Titanium?
 
 Add a method to obtain:
 Lava?
