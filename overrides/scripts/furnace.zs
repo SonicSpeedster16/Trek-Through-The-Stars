@@ -38,8 +38,8 @@ furnace.addRecipe(<appliedenergistics2:material:1>, <appliedenergistics2:charged
 furnace.remove(<appliedenergistics2:material:5>);
 furnace.addRecipe(<galacticraftcore:basic_item:2>, <appliedenergistics2:material:2>);
 furnace.addRecipe(<galacticraftcore:basic_item:2>, <appliedenergistics2:material:3>);
-furnace.addRecipe(<galacticraftcore:basic_item:2>, <ore:oreSilicon>, 1);
-furnace.addRecipe(<galacticraftcore:basic_item:2>, <galacticraftplanets:venus:10>, 1);
+furnace.addRecipe(<galacticraftcore:basic_item:2> * 2, <ore:oreSilicon>, 1);
+furnace.addRecipe(<galacticraftcore:basic_item:2> * 2, <galacticraftplanets:venus:10>, 1);
 # Meteoric Iron
 furnace.addRecipe(<galacticraftcore:item_basic_moon>, <galaxyspace:ceresblocks:3>, 1);
 # Sapphire

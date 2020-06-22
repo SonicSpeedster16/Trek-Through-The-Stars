@@ -36,5 +36,8 @@ Add missing Ore Dictionary entries
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Remove Ore Dictionary entries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+# Remove entries to fix recipes
+<ore:ingotCobalt>.remove(<galaxyspace:ingots:0>);
+<ore:itemSilicon>.remove(<appliedenergistics2:material:5>);
 
 print("==== Initialized oredict.zs ====");

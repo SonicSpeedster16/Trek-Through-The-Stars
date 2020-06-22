@@ -24,7 +24,6 @@ Planet Progression
 
 TODO:
 Rework meteor ores
-Unify Silicon/cobalt
 Remove ability to cast plates with the smeltery
 Do something about duplicate stone sticks
 Aroma's teleporter
