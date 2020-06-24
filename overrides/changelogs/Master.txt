@@ -1,5 +1,5 @@
 ﻿# ============================================== #
-#    Trek Through The Stars 0.0.0 (XX-XX-20XX)   #
+#    Trek Through The Stars 0.0.1 (XX-XX-20XX)   #
 # ============================================== #
 
 
@@ -8,7 +8,7 @@
 - Added AE2 Stuff (0.7.0.4)
 - Added AE2 Wireless Terminal Library (1.0.34)
 - Added AI Improvements (0.0.1b3)
-- Added AppleSkin (1.0.9)
+- Added AppleSkin (1.0.14)
 - Added Applied Energistics 2 (rv6-stable-7)
 - Added Aroma1997Core (2.0.0.2b167)
 - Added Aroma1997s Dimensional World (2.0.0.2.b89)
@@ -97,7 +97,7 @@
 - Added Tool Progression (1.6.9)
 - Added TOP Addons (1.13.0)
 - Added TrashSlot (8.4.10)
-- Added Traveler's Backpack (1.0.27.27)
+- Added Traveler's Backpack (1.0.29)
 - Added VanillaFix (1.0.10-150)
 - Added Wasteland Meteors (0.2)
 - Added Wireless Crafting Terminal (3.12.97)
@@ -105,8 +105,8 @@
 - Added Wireless Interface Terminal (1.0.3)
 - Added Wireless Pattern Terminal (1.0.2)
 - Added Wither Skeleton Tweaks (2.6.3)
-- Added Xaero's Minimap (20.14.0)
-- Addec Xaero's World Map (1.6.4)
+- Added Xaero's Minimap (20.15.0)
+- Addec Xaero's World Map (1.7.0)
 - Added xXx_MoreToolMats_xXx (8.0.1.0)
 
 # =============== Config Changes =============== #
