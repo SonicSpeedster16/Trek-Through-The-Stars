@@ -11,4 +11,14 @@ print("==== Initializing minecraft.zs ====");
 recipes.addShapeless("Cobblestone_from_Meteors",
 <minecraft:cobblestone> * 2, [<wasteland_meteors:meteor_block>, <wasteland_meteors:meteor_block>]);
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~
+Quality of Life improvements
+~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+# Flux Networks Flux
+furnace.addRecipe(<fluxnetworks:flux>, <minecraft:redstone>);
+
+# Rotten Flesh -> Leather
+furnace.addRecipe(<minecraft:leather>, <minecraft:rotten_flesh>);
+
 print("==== Initialized minecraft.zs ====");

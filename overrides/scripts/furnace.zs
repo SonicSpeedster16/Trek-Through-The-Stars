@@ -31,7 +31,7 @@ furnace.addRecipe(<minecraft:emerald>, <ore:oreEmerald>, 1);
 furnace.remove(<minecraft:quartz>);
 furnace.addRecipe(<minecraft:quartz>, <ore:oreQuartz>, 1);
 furnace.addRecipe(<minecraft:quartz>, <galacticraftplanets:venus:9>, 1);
-#Certus
+# Certus
 furnace.addRecipe(<appliedenergistics2:material:0>, <appliedenergistics2:quartz_ore>, 1);
 furnace.addRecipe(<appliedenergistics2:material:1>, <appliedenergistics2:charged_quartz_ore>, 1);
 # Silicon
@@ -57,15 +57,5 @@ furnace.remove(<galaxyspace:ingots:0>);
 furnace.addRecipe(<tconstruct:ingots:0>, <galaxyspace:gsores:0>, 1);
 furnace.addRecipe(<tconstruct:ingots:0>, <galaxyspace:mirandablocks:7>, 1);
 furnace.addRecipe(<tconstruct:ingots:0>, <galaxyspace:barnarda_c_ores:11>, 1);
-
-/*~~~~~~~~~~~~~~~~~~~~~~~~~~
-Quality of Life improvements
-~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-
-# Flux Networks Flux
-furnace.addRecipe(<fluxnetworks:flux>, <minecraft:redstone>);
-
-# Rotten Flesh -> Leather
-furnace.addRecipe(<minecraft:leather>, <minecraft:rotten_flesh>);
 
 print("==== Initialized furnace.zs ====");

@@ -9,6 +9,6 @@ print("==== Initializing matteroverdrive.zs ====");
 # Rename Tritanium Plate to Compressed Tritanium and standardize recipe.
 <matteroverdrive:tritanium_plate>.displayName = "Compressed Tritanium";
 recipes.remove(<matteroverdrive:tritanium_plate>);
-mods.GalacticraftTweaker.addCompressorShapelessRecipe(<matteroverdrive:tritanium_plate> * 2,<matteroverdrive:tritanium_ingot>, <matteroverdrive:tritanium_ingot>); 
+mods.GalacticraftTweaker.addCompressorShapelessRecipe(<matteroverdrive:tritanium_plate> * 2,<matteroverdrive:tritanium_ingot>, <matteroverdrive:tritanium_ingot>);
 
 print("==== Initialized matteroverdrive.zs ====");
