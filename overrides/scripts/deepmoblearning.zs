@@ -8,13 +8,10 @@ import mods.jei.JEI;
 
 print("==== Initializing deepmoblearning.zs ====");
 
-# QoL method for transforming Living Matter
+# Remove crafting recipes for Living Matter
 recipes.remove(<deepmoblearning:living_matter_overworldian>);
 recipes.remove(<deepmoblearning:living_matter_hellish>);
 recipes.remove(<deepmoblearning:living_matter_extraterrestrial>);
-furnace.addRecipe(<deepmoblearning:living_matter_hellish>, <deepmoblearning:living_matter_overworldian>);
-furnace.addRecipe(<deepmoblearning:living_matter_extraterrestrial>, <deepmoblearning:living_matter_hellish>);
-furnace.addRecipe(<deepmoblearning:living_matter_overworldian>, <deepmoblearning:living_matter_extraterrestrial>);
 
 # Add more efficient methods of obtaining Polymer Clay
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<deepmoblearning:polymer_clay> * 2, <deepmoblearning:living_matter_overworldian>, <deepmoblearning:living_matter_overworldian>);

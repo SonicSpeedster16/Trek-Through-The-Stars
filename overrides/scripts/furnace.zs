@@ -58,4 +58,19 @@ furnace.addRecipe(<tconstruct:ingots:0>, <galaxyspace:gsores:0>, 1);
 furnace.addRecipe(<tconstruct:ingots:0>, <galaxyspace:mirandablocks:7>, 1);
 furnace.addRecipe(<tconstruct:ingots:0>, <galaxyspace:barnarda_c_ores:11>, 1);
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~
+Quality of Life improvements
+~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+# Rotten Flesh -> Leather
+furnace.addRecipe(<minecraft:leather>, <minecraft:rotten_flesh>);
+
+# Flux Networks Flux
+furnace.addRecipe(<fluxnetworks:flux>, <minecraft:redstone>);
+
+# DML Living Matter Conversion
+furnace.addRecipe(<deepmoblearning:living_matter_hellish>, <deepmoblearning:living_matter_overworldian>);
+furnace.addRecipe(<deepmoblearning:living_matter_extraterrestrial>, <deepmoblearning:living_matter_hellish>);
+furnace.addRecipe(<deepmoblearning:living_matter_overworldian>, <deepmoblearning:living_matter_extraterrestrial>);
+
 print("==== Initialized furnace.zs ====");
