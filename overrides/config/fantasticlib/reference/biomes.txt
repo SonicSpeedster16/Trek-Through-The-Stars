@@ -69,5 +69,4 @@ galaxyspace:spacelowplains
 galaxyspace:spacemidplains
 galaxyspace:spacelowhills
 galaxyspace:spacemidhills
-nuclearcraft:nuclear_wasteland
 aroma1997sdimension:miningbiome

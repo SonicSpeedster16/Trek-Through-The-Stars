@@ -34,11 +34,25 @@
       "rolls": 1.0
     },
     {
-      "name": "main",
-      "entries": [],
+      "name": "Common",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 1,
+          "quality": 1,
+          "conditions": [
+            {
+              "inverse": false,
+              "condition": "minecraft:killed_by_player"
+            }
+          ],
+          "type": "item",
+          "name": "deepmoblearning:living_matter_overworldian"
+        }
+      ],
       "rolls": {
-        "min": 5.0,
-        "max": 10.0
+        "min": -10.0,
+        "max": 1.0
       }
     }
   ]

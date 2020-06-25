@@ -54,6 +54,19 @@
           "weight": 5,
           "quality": 0,
           "type": "empty"
+        },
+        {
+          "entryName": "loot_travelers_backpack_bat",
+          "weight": 15,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "travelersbackpack:travelers_backpack"
         }
       ],
       "rolls": 1.0

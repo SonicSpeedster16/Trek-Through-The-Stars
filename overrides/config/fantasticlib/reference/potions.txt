@@ -35,7 +35,7 @@ tconstruct:magnetic
 tconstruct:momentum
 tconstruct:dot
 tconstruct:splinter
-conarm:superhotpotion
 champions:jailed
 champions:plague
 champions:injured
+conarm:superhotpotion

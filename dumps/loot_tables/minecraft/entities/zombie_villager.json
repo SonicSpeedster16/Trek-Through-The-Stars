@@ -66,6 +66,25 @@
           "condition": "minecraft:random_chance_with_looting"
         }
       ]
+    },
+    {
+      "name": "Common",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 1,
+          "quality": 1,
+          "conditions": [
+            {
+              "inverse": false,
+              "condition": "minecraft:killed_by_player"
+            }
+          ],
+          "type": "item",
+          "name": "deepmoblearning:living_matter_overworldian"
+        }
+      ],
+      "rolls": 1.0
     }
   ]
 }
