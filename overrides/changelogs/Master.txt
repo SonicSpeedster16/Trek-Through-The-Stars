@@ -59,7 +59,7 @@
 - Added Just Enough Energistics (1.0.8)
 - Added Just Enough Items (4.15.0.296)
 - Added Light Level Overlay Reloaded (1.1.6)
-- Added LootTweaker (0.1.7)
+- Added LootTweaker (0.2.0)
 - Added Mantle (1.3.3.55)
 - Added Matter Overdrive: Legacy Edition (0.7.1.0)
 - Added MicdoodleCore (4.0.2.280)
