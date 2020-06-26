@@ -1,12 +1,12 @@
 ﻿Mods likely to add:
+Rain Delay + Toxic Rain (or Twisted Tweaks?)
+More Planets (mixin issue?)
 BetterFps
-More Planets (mixin issue)
 
 DML provide flight (tweak recipe?)
 Use Tinker's Magnetic trait instead of magnets?
 
 Possible mods to add?
-Rain Delay + Toxic Rain (or Twisted Tweaks?)
 /dank/null
 Ender Storage
 SoulBottle
@@ -20,7 +20,7 @@ Planet Progression
 
 TODO:
 Rework meteor ores
-Remove ability to cast plates with the smeltery
+Remove ability to cast plates with the smeltery (remove plate OreDict entries?)
 Do something about duplicate stone sticks
 Aroma's teleporter
 Improve DML Loot
