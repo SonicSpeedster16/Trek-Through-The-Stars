@@ -62,7 +62,19 @@ recipes.addShaped("Emerald_Shears",
   [null, null, null]
 ]);
 
+# Small Medical bandage should use OreDict items
+recipes.remove(<tp:small_bandage>);
+recipes.addShaped("Small_Bandage_OreDict",
+<tp:small_bandage>, [
+  [null, <ore:paper>, null],
+  [<ore:paper>, <ore:slimeball>, <ore:paper>],
+  [null, <ore:paper>, null]
+]);
+
 # Add Recipe for Soul Sandstone
 recipes.addShapeless("Soul_Sandstone", <tp:soul_sandstone>, [<minecraft:soul_sand>,<minecraft:soul_sand>,<minecraft:soul_sand>,<minecraft:soul_sand>]);
+
+# Rename Compressed Nether Star Block
+<tp:netherstar_block>.displayName = "Nether Star Block";
 
 print("==== Initialized tinyprogressions.zs ====");

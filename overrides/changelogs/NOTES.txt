@@ -20,7 +20,7 @@ Planet Progression
 
 TODO:
 Rework meteor ores
-Remove ability to cast plates with the smeltery (remove plate OreDict entries?)
+Update chest recipes to use any chest
 Do something about duplicate stone sticks
 Aroma's teleporter
 Improve DML Loot
