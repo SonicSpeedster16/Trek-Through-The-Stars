@@ -16,4 +16,7 @@ recipes.addShapeless("Flint_and_Real_Steel",
 recipes.addShapeless("Cobblestone_from_Meteors",
 <minecraft:cobblestone> * 2, [<wasteland_meteors:meteor_block>, <wasteland_meteors:meteor_block>]);
 
+# Modded to Vanilla Chest
+recipes.addShapeless("Chest_Conversion", <minecraft:chest> * 2, [<ore:chest>, <ore:chest>]);
+
 print("==== Initialized minecraft.zs ====");
