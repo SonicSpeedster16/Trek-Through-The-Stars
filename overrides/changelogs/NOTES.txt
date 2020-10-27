@@ -2,6 +2,8 @@
 Rain Delay + Toxic Rain (or Twisted Tweaks?)
 More Planets (mixin issue?)
 BetterFps
+Actually Additions (for lasers)?
+Industrial Foregoing?
 
 DML provide flight (tweak recipe?)
 Use Tinker's Magnetic trait instead of magnets?
