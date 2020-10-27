@@ -74,6 +74,7 @@
 - Added Ore Excavation Integration (2.3.4)
 - Added Overquartz (1.0)
 - Added p455w0rd's Library (2.3.161)
+- Added Patchouli (1.0-22)
 - Added Phosphor (0.2.7)
 - Added Placebo (1.6.0)
 - Added RandomPatches (1.22.1.7)
