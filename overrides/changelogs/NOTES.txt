@@ -2,6 +2,7 @@
 Rain Delay + Toxic Rain (or Twisted Tweaks?)
 More Planets (mixin issue?)
 BetterFps
+Just Enough Resources
 Actually Additions (for lasers)?
 Industrial Foregoing?
 
@@ -10,9 +11,12 @@ Use Tinker's Magnetic trait instead of magnets?
 
 Possible mods to add?
 /dank/null
+Ender Ore
+Building Gadgets
+Chisel
+Glassential
 Ender Storage
 SoulBottle
-No Default Auto-Jump
 XNet (YNot)
 Modtweaker
 Planet Progression
