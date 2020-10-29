@@ -84,6 +84,26 @@
           "name": "galacticraftcore:food"
         },
         {
+          "entryName": "galaxyspace:gs_basic",
+          "weight": 4,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "data": 21.0,
+              "function": "minecraft:set_data"
+            },
+            {
+              "count": {
+                "min": 2.0,
+                "max": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "galaxyspace:gs_basic"
+        },
+        {
           "entryName": "galacticraftplanets:desh_boots",
           "weight": 2,
           "quality": 0,
@@ -123,13 +143,6 @@
             }
           ],
           "name": "galacticraftcore:oil_canister_partial"
-        },
-        {
-          "entryName": "galacticraftplanets:bucket_sulphuric_acid",
-          "weight": 4,
-          "quality": 0,
-          "type": "item",
-          "name": "galacticraftplanets:bucket_sulphuric_acid"
         },
         {
           "entryName": "minecraft:golden_apple",

@@ -31,6 +31,35 @@
       ]
     },
     {
+      "name": "main",
+      "entries": [
+        {
+          "entryName": "minecraft:coal",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": -1.0,
+                "max": 1.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              },
+              "function": "minecraft:looting_enchant"
+            }
+          ],
+          "name": "minecraft:coal"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
       "name": "necrotic_bone",
       "entries": [
         {
@@ -59,35 +88,6 @@
           "condition": "minecraft:random_chance_with_looting"
         }
       ]
-    },
-    {
-      "name": "main",
-      "entries": [
-        {
-          "entryName": "minecraft:coal",
-          "weight": 1,
-          "quality": 0,
-          "type": "item",
-          "functions": [
-            {
-              "count": {
-                "min": -1.0,
-                "max": 1.0
-              },
-              "function": "minecraft:set_count"
-            },
-            {
-              "count": {
-                "min": 0.0,
-                "max": 1.0
-              },
-              "function": "minecraft:looting_enchant"
-            }
-          ],
-          "name": "minecraft:coal"
-        }
-      ],
-      "rolls": 1.0
     },
     {
       "name": "pool1",

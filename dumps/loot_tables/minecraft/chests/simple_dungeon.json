@@ -83,19 +83,6 @@
             }
           ],
           "name": "minecraft:book"
-        },
-        {
-          "entryName": "loot_travelers_backpack_bat",
-          "weight": 15,
-          "quality": 0,
-          "type": "item",
-          "functions": [
-            {
-              "data": 2.0,
-              "function": "minecraft:set_data"
-            }
-          ],
-          "name": "travelersbackpack:travelers_backpack"
         }
       ],
       "rolls": {

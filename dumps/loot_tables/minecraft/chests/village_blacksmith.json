@@ -184,19 +184,6 @@
           "quality": 0,
           "type": "item",
           "name": "minecraft:diamond_horse_armor"
-        },
-        {
-          "entryName": "loot_travelers_backpack_irongolem",
-          "weight": 15,
-          "quality": 0,
-          "type": "item",
-          "functions": [
-            {
-              "data": 11.0,
-              "function": "minecraft:set_data"
-            }
-          ],
-          "name": "travelersbackpack:travelers_backpack"
         }
       ],
       "rolls": {
