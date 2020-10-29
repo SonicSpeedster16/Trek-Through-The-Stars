@@ -26,7 +26,8 @@ minecraft:levitation
 minecraft:luck
 minecraft:unluck
 asmodeuscore:radiation
-asmodeuscore:heat
+asmodeuscore:overheat
+asmodeuscore:hypothermia
 galaxyspace:antiradiation
 tconstruct:carry
 tconstruct:enderference

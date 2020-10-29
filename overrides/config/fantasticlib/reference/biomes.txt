@@ -69,4 +69,5 @@ galaxyspace:spacelowplains
 galaxyspace:spacemidplains
 galaxyspace:spacelowhills
 galaxyspace:spacemidhills
+asmodeuscore:-=|worldengine|=-
 aroma1997sdimension:miningbiome

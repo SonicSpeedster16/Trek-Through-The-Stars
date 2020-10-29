@@ -747,3 +747,5 @@ galacticraftcore:laser.charge
 galacticraftcore:laser.shoot
 fluxnetworks:button
 plustic:laser_beam
+patchouli:book_open
+patchouli:book_flip

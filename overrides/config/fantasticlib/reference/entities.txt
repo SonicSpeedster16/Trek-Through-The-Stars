@@ -158,6 +158,7 @@ galacticraftcore:rocket_tier_5
 galacticraftcore:rocket_tier_6
 galacticraftcore:rocket_fluid_cargo
 galacticraftcore:ice_spike
+galacticraftcore:mars_rover
 galacticraftcore:laser_beam
 inventorypets:entitybanana
 inventorypets:entityminiquantumblaze
