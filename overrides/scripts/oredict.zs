@@ -1,6 +1,6 @@
 #Name: oredict.zs
 #Author: SonicSpeedster16
-#Written for use in the Zoo Builders modpack: https://www.curseforge.com/minecraft/modpacks/zoo-builders
+#Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
 #priority 1000
 

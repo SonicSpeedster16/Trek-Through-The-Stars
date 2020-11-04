@@ -1,5 +1,6 @@
 ﻿Mods likely to add:
-Rain Delay + Toxic Rain (or Twisted Tweaks?)
+Replace Storage Drawers with YABBA
+Glassential
 More Planets (mixin issue?)
 BetterFps
 Just Enough Resources
@@ -14,7 +15,6 @@ Possible mods to add?
 Ender Ore
 Building Gadgets
 Chisel
-Glassential
 Ender Storage
 SoulBottle
 XNet (YNot)
@@ -28,6 +28,7 @@ TODO:
 Rework meteor ores
 Update chest recipes to use any chest
 Do something about duplicate stone sticks
+Unify Silicon
 Aroma's teleporter
 Improve DML Loot
 Add feathers to meteor chests
