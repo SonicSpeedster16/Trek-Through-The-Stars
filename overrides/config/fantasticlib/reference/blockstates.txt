@@ -4490,6 +4490,16 @@ travelersbackpack:sleeping_bag_bottom:4
 travelersbackpack:sleeping_bag_bottom:5
 travelersbackpack:sleeping_bag_bottom:6
 travelersbackpack:sleeping_bag_bottom:7
+yabba:item_barrel:0
+yabba:item_barrel:1
+yabba:item_barrel:2
+yabba:item_barrel:3
+yabba:item_barrel_connector:0
+yabba:antibarrel:0
+yabba:decorative_block:0
+yabba:decorative_block:1
+yabba:decorative_block:2
+yabba:decorative_block:3
 densemetals:dense_iron_ore:0
 densemetals:dense_coal_ore:0
 densemetals:dense_gold_ore:0

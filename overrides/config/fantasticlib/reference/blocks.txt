@@ -760,6 +760,10 @@ tometinkers:molten_crystalmatrix
 travelersbackpack:travelers_backpack
 travelersbackpack:sleeping_bag_top
 travelersbackpack:sleeping_bag_bottom
+yabba:item_barrel
+yabba:item_barrel_connector
+yabba:antibarrel
+yabba:decorative_block
 densemetals:dense_iron_ore
 densemetals:dense_coal_ore
 densemetals:dense_gold_ore

@@ -1,5 +1,4 @@
 ﻿Mods likely to add:
-Replace Storage Drawers with YABBA
 Glassential
 More Planets (mixin issue?)
 BetterFps

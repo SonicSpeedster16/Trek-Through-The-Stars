@@ -19,7 +19,6 @@
 - Added BdLib (1.14.3.12)
 - Added Blur (1.0.4)
 - Added Broken Wings (2.1.1)
-- Added Chameleon (4.1.3)
 - Added Champions (1.0.11.9)
 - Added Chest Transporter (2.8.8)
 - Added Chicken Chunks 1.8.+ (2.4.2.74)
@@ -88,7 +87,6 @@
 - Added Smooth Font (2.1.2)
 - Added Stone Chest (1.0.4)
 - Added Stone Crafting Table (1.0.3)
-- Added Storage Drawers (5.4.2)
 - Added Super Sound Muffler: Revived (1.0.2.10)
 - Added Surge (2.0.79)
 - Added SwingThroughGrass (1.2.3)
@@ -113,6 +111,7 @@
 - Added Xaero's Minimap (20.26.0)
 - Addec Xaero's World Map (1.11.0)
 - Added xXx_MoreToolMats_xXx (8.0.1.0)
+- Added YABBA (1.1.54)
 
 # =============== Config Changes =============== #
 
