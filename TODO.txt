@@ -1,50 +1,52 @@
-﻿Mods likely to add:
-Glassential
-More Planets (mixin issue?)
-BetterFps
+﻿MODS TO ADD:
 Just Enough Resources
-Actually Additions (for lasers)?
-Industrial Foregoing?
+Simply Jetpacks 2
+Glassential
 
-DML provide flight (tweak recipe?)
-Use Tinker's Magnetic trait instead of magnets?
-
-Possible mods to add?
+POSSIBLY ADD?
+Industrial Foregoing
+More Planets
+ModTweaker
+Portality
 /dank/null
 Ender Ore
 Building Gadgets
-Chisel
 Ender Storage
 SoulBottle
-XNet (YNot)
-Modtweaker
+XNet and YNot
 Planet Progression
-
-(page 113)
 
 
 TODO:
-Rework meteor ores
-Update chest recipes to use any chest
-Do something about duplicate stone sticks
-Unify Silicon
-Aroma's teleporter
-Improve DML Loot
-Add feathers to meteor chests
-make AstroMiner easier to acquire?
-remove tools/armor (force tinkers)
-Add Inventory Pets to planet dungeons
-Fix Inventory Pets recipes conflicts and hide unneeded items.
-Add resource images for Ardite
-Metal forge require Titanium?
-Make Sulfuric Acid increase smeltery speed?
-Add Creative Modifier as possible planet loot?
+Add Magnets or use Tinker's Magentic Trait
+Rework meteor ores and loot
+Review chest recipes
+Unify Silicon and Stone Sticks
+Add Inventory Pets as planet dungeon loot
+Fix Inventory Pets recipe confilcts and hide unnecesary items
+Improve DML loot
+Do something about Aroma's Teleporter
+Detirmine planet(s) for AE2 Meteorites
 
-Add a method to obtain:
+POSSIBLE TODOS?
+Make AstroMiner easier to acquire
+Remove tools/armor and force Tinkers
+Do something about DML armor (recipe, flight)
+Add resource image for Ardite Ore
+Metal Forge requires Titanium
+Sulfuric Acid increases Smeltery speed
+Add creative modifers to planet dungeon loot
+
+ITEMS NEEDING METHODS OF OBTAINING:
+Feathers
 Lava?
-Netherack?
-pistons
-drying rack
+Netherrack
+Pistons
+Drying Rack
+
 
 QUESTS
 Phaser rifles
+
+QUEST REWARDS:
+End game - creative jetpack, creative oxygen tank
