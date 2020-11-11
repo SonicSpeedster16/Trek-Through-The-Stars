@@ -30,3 +30,4 @@ minecraft:mending
 minecraft:vanishing_curse
 oeintegration:oreexcavation
 matteroverdrive:overclock
+simplyjetpacks:fuel_efficiency
