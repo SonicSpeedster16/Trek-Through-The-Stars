@@ -749,6 +749,3 @@ fluxnetworks:button
 plustic:laser_beam
 patchouli:book_open
 patchouli:book_flip
-simplyjetpacks:jetpack
-simplyjetpacks:jetpack_other
-simplyjetpacks:rocket
