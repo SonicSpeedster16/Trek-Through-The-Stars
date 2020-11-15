@@ -2,8 +2,6 @@
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
-import crafttweaker.item.IItemStack;
-import mods.jei.JEI;
 #modloaded deepmoblearning
 
 print("==== Initializing deepmoblearning.zs ====");
@@ -18,11 +16,11 @@ mods.GalacticraftTweaker.addCompressorShapelessRecipe(<deepmoblearning:polymer_c
 mods.GalacticraftTweaker.addCircuitFabricatorRecipe(<deepmoblearning:polymer_clay> * 32, <deepmoblearning:living_matter_overworldian>, <deepmoblearning:living_matter_hellish>, <deepmoblearning:living_matter_extraterrestrial>, <minecraft:clay_ball>, <minecraft:dye:4>); 
 
 # Remove unneeded Models and Pristine Matter
-JEI.removeAndHide(<deepmoblearning:data_model_guardian>);
-JEI.removeAndHide(<deepmoblearning:pristine_matter_guardian>);
-JEI.removeAndHide(<deepmoblearning:data_model_shulker>);
-JEI.removeAndHide(<deepmoblearning:pristine_matter_shulker>);
-JEI.removeAndHide(<deepmoblearning:data_model_dragon>);
-JEI.removeAndHide(<deepmoblearning:pristine_matter_dragon>);
+recipes.remove(<deepmoblearning:data_model_guardian>);
+recipes.remove(<deepmoblearning:pristine_matter_guardian>);
+recipes.remove(<deepmoblearning:data_model_shulker>);
+recipes.remove(<deepmoblearning:pristine_matter_shulker>);
+recipes.remove(<deepmoblearning:data_model_dragon>);
+recipes.remove(<deepmoblearning:pristine_matter_dragon>);
 
 print("==== Initialized deepmoblearning.zs ====");
