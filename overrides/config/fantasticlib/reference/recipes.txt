@@ -1810,8 +1810,10 @@ galaxyspace:oxygen_tank_4
 galaxyspace:oxygen_tank_5
 galaxyspace:oxygen_tank_6
 galaxyspace:gs_basic_3
+galaxyspace:upgrades
 galaxyspace:upgrades_1
 galaxyspace:upgrades_2
+galaxyspace:upgrades_3
 galaxyspace:gs_basic_4
 galaxyspace:gs_basic_5
 galaxyspace:gs_basic_6
@@ -1947,8 +1949,9 @@ ae2stuff:recipe3
 ae2stuff:recipe4
 ae2stuff:recipe5
 ae2stuff:recipe6
-galacticraftcore:enclosed
 crafttweaker:magnetic_crafting_table_oredict
+crafttweaker:electric_jetpack_oredict
+crafttweaker:advanced_battery_oredict
 crafttweaker:module_expander_oredict
 crafttweaker:module_energy_oredict
 crafttweaker:flint_and_real_steel
@@ -1964,3 +1967,4 @@ crafttweaker:diamond_shears
 crafttweaker:emerald_shears
 crafttweaker:small_bandage_oredict
 crafttweaker:soul_sandstone
+galacticraftcore:enclosed

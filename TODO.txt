@@ -13,7 +13,6 @@ Planet Progression
 
 
 TODO:
-Add recipe for Jetpack
 Add Magnets or use Tinker's Magentic Trait
 Rework meteor ores and loot
 Review chest recipes
