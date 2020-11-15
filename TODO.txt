@@ -16,7 +16,7 @@ TODO:
 Add Magnets or use Tinker's Magentic Trait
 Rework meteor ores and loot
 Review chest recipes
-Unify Silicon and Stone Sticks
+Check Silicon & cobalt recipes
 Add Inventory Pets as planet dungeon loot
 Fix Inventory Pets recipe confilcts and hide unnecesary items
 Improve DML loot

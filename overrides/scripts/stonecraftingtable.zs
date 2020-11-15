@@ -6,6 +6,10 @@
 
 print("==== Initializing stonecraftingtable.zs ====");
 
+# Stone Sticks
+recipes.remove(<sct:stone_stick>);
+recipes.addShapeless("Stone_Sticks_Standard", <sct:stone_stick> * 4, [<minecraft:cobblestone>,<minecraft:cobblestone>]);
+
 # Stone Crafting Plate
 recipes.remove(<sct:stone_crafting_plate>);
 recipes.addShapeless("Stone_Crafting_Plate_Custom", <sct:stone_crafting_plate> * 4, [<minecraft:cobblestone>,<minecraft:cobblestone>,<minecraft:cobblestone>,<minecraft:cobblestone>]);

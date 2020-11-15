@@ -18,4 +18,23 @@ mods.tconstruct.Casting.removeTableRecipe(<galacticraftplanets:item_basic_mars:5
 mods.tconstruct.Casting.removeTableRecipe(<galacticraftplanets:item_basic_asteroids:6>); /* Compressed Titanium */
 mods.tconstruct.Casting.removeTableRecipe(<galaxyspace:compressed_plates:3>); /* Compressed Nickel */
 
+# Stone Ladder should use Stone Sticks instead of Rods
+recipes.remove(<tconstruct:stone_ladder>);
+recipes.addShaped("Stone_Ladder_From_Sticks",
+<tconstruct:stone_ladder> * 3, [
+  [<sct:stone_stick>, null, <sct:stone_stick>],
+  [<sct:stone_stick>, <sct:stone_stick>, <sct:stone_stick>],
+  [<sct:stone_stick>, null, <sct:stone_stick>]
+]);
+
+/*~~~~~~~~~~~~
+Remove recipes
+~~~~~~~~~~~~~*/
+
+# Stone Rod
+recipes.remove(<tconstruct:stone_stick>); /* Use Stone Sticks instead */
+
+# Stone Torches
+recipes.remove(<tconstruct:stone_torch>); /* Not Needed as Vanilla torches are craftable with stone sticks */
+
 print("==== Initialized tinkers.zs ====");
