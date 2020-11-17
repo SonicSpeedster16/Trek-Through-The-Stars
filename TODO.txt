@@ -1,5 +1,6 @@
 ﻿MODS TO POSSIBLY ADD?
 Industrial Foregoing
+LightningCraft
 More Planets
 ModTweaker
 Portality

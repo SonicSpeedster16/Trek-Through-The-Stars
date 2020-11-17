@@ -16,6 +16,9 @@ Add missing Ore Dictionary entries
 <ore:chest>.add(<appliedenergistics2:smooth_sky_stone_chest>);
 <ore:chest>.add(<wasteland_meteors:meteor_chest>);
 
+# Metals
+<ore:compressedTritanium>.add(<matteroverdrive:tritanium_plate>);
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Remove Ore Dictionary entries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
