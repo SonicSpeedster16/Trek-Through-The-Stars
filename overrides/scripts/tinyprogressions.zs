@@ -71,6 +71,9 @@ recipes.addShaped("Small_Bandage_OreDict",
   [null, <ore:paper>, null]
 ]);
 
+# Remove Obsidian Dust recipe
+recipes.removeByRecipeName("tp:obsidian_dust");
+
 # Add Recipe for Soul Sandstone
 recipes.addShapeless("Soul_Sandstone", <tp:soul_sandstone>, [<minecraft:soul_sand>,<minecraft:soul_sand>,<minecraft:soul_sand>,<minecraft:soul_sand>]);
 

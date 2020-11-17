@@ -40,4 +40,7 @@ recipes.remove(<tconstruct:stone_stick>); /* Use Stone Sticks instead */
 # Stone Torches
 recipes.remove(<tconstruct:stone_torch>); /* Not Needed as Vanilla torches are craftable with stone sticks */
 
+# Wooden Hopper
+recipes.remove(<tconstruct:wooden_hopper>);
+
 print("==== Initialized tinkers.zs ====");

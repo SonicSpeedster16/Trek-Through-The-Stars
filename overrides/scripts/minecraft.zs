@@ -16,6 +16,15 @@ recipes.addShaped("Ladder_Wood",
   [<minecraft:stick>, null, <minecraft:stick>]
 ]);
 
+# Hopper
+recipes.remove(<minecraft:hopper>);
+recipes.addShaped("Hopper_OreDict",
+<minecraft:hopper>, [
+  [<ore:ingotIron>, null, <ore:ingotIron>],
+  [<ore:ingotIron>, <ore:chest>, <ore:ingotIron>],
+  [null, <ore:ingotIron>, null]
+]);
+
 # Flint and Steel
 recipes.remove(<minecraft:flint_and_steel>);
 recipes.addShapeless("Flint_and_Real_Steel",
