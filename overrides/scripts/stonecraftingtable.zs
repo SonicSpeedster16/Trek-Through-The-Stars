@@ -8,7 +8,11 @@ print("==== Initializing stonecraftingtable.zs ====");
 
 # Stone Sticks
 recipes.remove(<sct:stone_stick>);
-recipes.addShapeless("Stone_Sticks_Standard", <sct:stone_stick> * 4, [<minecraft:cobblestone>,<minecraft:cobblestone>]);
+recipes.addShapedMirrored("Stone_Sticks_Standard", 
+<sct:stone_stick> * 2, [
+  [<minecraft:cobblestone>], 
+  [<minecraft:cobblestone>]
+]);
 
 # Stone Crafting Plate
 recipes.remove(<sct:stone_crafting_plate>);
