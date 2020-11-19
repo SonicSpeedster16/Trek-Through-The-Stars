@@ -3683,6 +3683,9 @@ galacticraftplanets:geothermal_generator:1
 galacticraftplanets:geothermal_generator:2
 galacticraftplanets:geothermal_generator:3
 galacticraftplanets:crashed_probe:0
+galacticraftplanets:crashed_probe:1
+galacticraftplanets:crashed_probe:2
+galacticraftplanets:crashed_probe:3
 galacticraftplanets:venus_rock_scorched:0
 galacticraftplanets:solar_array_module:0
 galacticraftplanets:solar_array_controller:0

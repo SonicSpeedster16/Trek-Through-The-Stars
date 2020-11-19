@@ -238,7 +238,6 @@ minecraft:leather
 minecraft:lead
 minecraft:lapis_lazuli
 minecraft:lapis_block
-minecraft:ladder
 minecraft:jungle_wooden_slab
 minecraft:jungle_stairs
 minecraft:jungle_planks
@@ -265,7 +264,6 @@ minecraft:iron_block
 minecraft:iron_bars
 minecraft:iron_axe
 minecraft:hopper_minecart
-minecraft:hopper
 minecraft:heavy_weighted_pressure_plate
 minecraft:hay_block
 minecraft:green_wool
@@ -782,10 +780,6 @@ tconstruct:gadgets/table/drying/rack_lavawood
 tconstruct:gadgets/table/item/rack
 tconstruct:gadgets/table/item/rack_lavawood
 tconstruct:gadgets/stone/jack_o_latern
-tconstruct:gadgets/stone/stone_ladder
-tconstruct:gadgets/stone/stone_rod
-tconstruct:gadgets/stone/stone_torch
-tconstruct:gadgets/wooden_hopper
 tconstruct:gadgets/slimesling/green
 tconstruct:gadgets/slimesling/blood
 tconstruct:gadgets/slimesling/purple
@@ -1394,7 +1388,6 @@ simplefluidtanks:valveblock
 simplefluidtanks:tankblock
 slideemall:itemliquidmodule
 slideemall:blockslider
-sct:stone_stick
 supersoundmuffler:sound_muffler_bauble_clear
 supersoundmuffler:sound_muffler_bauble
 supersoundmuffler:sound_muffler
@@ -1415,7 +1408,6 @@ matteroverdrive:upgrade_3
 matteroverdrive:upgrade_2
 matteroverdrive:upgrade_1
 matteroverdrive:upgrade_0
-matteroverdrive:tritanium_wrench
 matteroverdrive:tritanium_sword
 matteroverdrive:tritanium_shovel
 matteroverdrive:tritanium_pickaxe
@@ -1426,7 +1418,6 @@ matteroverdrive:tritanium_ingot
 matteroverdrive:tritanium_hoe
 matteroverdrive:tritanium_helmet
 matteroverdrive:tritanium_crate_yellow
-matteroverdrive:tritanium_crate
 matteroverdrive:tritanium_chestplate
 matteroverdrive:tritanium_boots
 matteroverdrive:tritanium_block
@@ -1727,8 +1718,6 @@ galacticraftcore:emergency_kit
 galacticraftcore:oxygen_tank_heavy_full_1
 galacticraftcore:oxygen_tank_med_full_1
 galacticraftcore:oxygen_tank_light_full_1
-galaxyspace:barnarda_c_blocks
-galaxyspace:barnarda_c_blocks_1
 galaxyspace:decoblocks
 galaxyspace:decoblocks_1
 galaxyspace:decoblocks_2
@@ -1819,6 +1808,8 @@ galaxyspace:gs_basic_5
 galaxyspace:gs_basic_6
 galaxyspace:gs_basic_7
 galaxyspace:dungeon_blocks
+galaxyspace:barnarda_c_blocks
+galaxyspace:barnarda_c_blocks_1
 tp:beet_juice2
 tp:steel_block2
 tp:glowstone_glass
@@ -1850,7 +1841,6 @@ tp:hardened_stone_stairs
 tp:colored_glowstone.7
 tp:colored_glowstone.8
 tp:raspberry_juice2
-tp:obsidian_dust
 tp:blueberry_juice2
 tp:cactus_juice2
 tp:colored_lamps.11
@@ -1950,15 +1940,17 @@ ae2stuff:recipe4
 ae2stuff:recipe5
 ae2stuff:recipe6
 crafttweaker:magnetic_crafting_table_oredict
-crafttweaker:electric_jetpack_oredict
-crafttweaker:advanced_battery_oredict
 crafttweaker:module_expander_oredict
 crafttweaker:module_energy_oredict
+crafttweaker:tritanium_crate_oredict
+crafttweaker:ladder_wood
+crafttweaker:hopper_oredict
 crafttweaker:flint_and_real_steel
 crafttweaker:cobblestone_from_meteors
-crafttweaker:chest_conversion
+crafttweaker:stone_sticks_standard
 crafttweaker:stone_crafting_plate_custom
 crafttweaker:stone_crafting_table_custom
+crafttweaker:stone_ladder_from_sticks
 crafttweaker:wooden_shears
 crafttweaker:flint_shears
 crafttweaker:stone_shears
