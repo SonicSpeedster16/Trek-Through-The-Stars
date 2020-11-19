@@ -2,10 +2,8 @@
 Industrial Foregoing
 LightningCraft
 More Planets
-ModTweaker
 Portality
 /dank/null
-Ender Ore
 Building Gadgets
 Ender Storage
 SoulBottle
@@ -45,4 +43,4 @@ QUESTS
 Phaser rifles
 
 QUEST REWARDS:
-End game - creative jetpack, creative oxygen tank
+End game - creative oxygen tank
