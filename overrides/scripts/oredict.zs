@@ -19,14 +19,21 @@ Add missing Ore Dictionary entries
 # Metals
 <ore:compressedTritanium>.add(<matteroverdrive:tritanium_plate>);
 
-# Cobblestone
+# Stones
 <ore:cobblestone>.add(<galacticraftplanets:mars:4>);
 <ore:cobblestone>.add(<galaxyspace:haumeablocks:2>);
+<ore:stone>.add(<galacticraftplanets:mars:9>);
+<ore:stone>.add(<galaxyspace:haumeablocks:1>);
+
+# Glass
+<ore:blockGlass>.add(<appliedenergistics2:quartz_glass>);
+<ore:blockGlass>.add(<appliedenergistics2:quartz_vibrant_glass>);
+<ore:blockGlass>.add(<matteroverdrive:industrial_glass>);
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Remove Ore Dictionary entries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-# Remove entries to fix recipes
+<ore:chest>.remove(<minecraft:ender_chest>);
 //<ore:ingotCobalt>.remove(<galaxyspace:ingots:0>);
 //<ore:itemSilicon>.remove(<appliedenergistics2:material:5>);
 
