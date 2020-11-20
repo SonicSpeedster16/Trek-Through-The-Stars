@@ -1591,22 +1591,16 @@ wft:wft
 wit:wit2
 wit:wit
 wpt:wpt
-yabba:item_barrel_connector
 yabba:item_barrel_alt
-yabba:item_barrel
 yabba:hammer
 yabba:wrench
-yabba:upgrade/star
 yabba:upgrade/void
-yabba:upgrade/star_alt2
-yabba:upgrade/star_alt
 yabba:upgrade/gold
 yabba:upgrade/hopper
 yabba:upgrade/pickup
 yabba:upgrade/iron
 yabba:upgrade/diamond
 yabba:upgrade/obsidian_shell
-yabba:upgrade/blank
 yabba:upgrade/redstone_out
 yabba:upgrade/smelting
 yabba:painter
@@ -1718,6 +1712,8 @@ galacticraftcore:emergency_kit
 galacticraftcore:oxygen_tank_heavy_full_1
 galacticraftcore:oxygen_tank_med_full_1
 galacticraftcore:oxygen_tank_light_full_1
+galaxyspace:barnarda_c_blocks
+galaxyspace:barnarda_c_blocks_1
 galaxyspace:decoblocks
 galaxyspace:decoblocks_1
 galaxyspace:decoblocks_2
@@ -1808,8 +1804,6 @@ galaxyspace:gs_basic_5
 galaxyspace:gs_basic_6
 galaxyspace:gs_basic_7
 galaxyspace:dungeon_blocks
-galaxyspace:barnarda_c_blocks
-galaxyspace:barnarda_c_blocks_1
 tp:beet_juice2
 tp:steel_block2
 tp:glowstone_glass
@@ -1959,4 +1953,6 @@ crafttweaker:diamond_shears
 crafttweaker:emerald_shears
 crafttweaker:small_bandage_oredict
 crafttweaker:soul_sandstone
+crafttweaker:item_barrel_connector_oredict
+crafttweaker:barrel_upgrade_blank_oredict
 galacticraftcore:enclosed
