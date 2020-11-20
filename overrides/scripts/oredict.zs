@@ -19,6 +19,10 @@ Add missing Ore Dictionary entries
 # Metals
 <ore:compressedTritanium>.add(<matteroverdrive:tritanium_plate>);
 
+# Cobblestone
+<ore:cobblestone>.add(<galacticraftplanets:mars:4>);
+<ore:cobblestone>.add(<galaxyspace:haumeablocks:2>);
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Remove Ore Dictionary entries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
