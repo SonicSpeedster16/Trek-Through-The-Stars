@@ -28,16 +28,4 @@ recipes.removeByRecipeName("yabba:item_barrel");
 # Remove the Infinite Capacity upgrade
 recipes.remove(<yabba:upgrade_star_tier>);
 
-/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
-Add Cobblestone barrel variants
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-
-recipes.addShaped("Cobble_Barrel",
-<yabba:item_barrel>.withTag({BlockEntityTag: {Skin: "minecraft:cobblestone", id: "yabba:item_barrel"}}), [
-  [<ore:cobblestone>, <minecraft:stone_slab:3>, <ore:cobblestone>],
-  [<ore:cobblestone>, null, <ore:cobblestone>],
-  [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>]
-]);
-//mods.jei.JEI.addItem(<yabba:item_barrel>.withTag({BlockEntityTag: {Skin: "minecraft:cobblestone", id: "yabba:item_barrel"}}));
-
 print("==== Initialized yabba.zs ====");
