@@ -79,4 +79,7 @@ Furnace Fuel
 
 furnace.setFuel(<yabba:item_barrel>, 0);
 
+furnace.setFuel(<minecraft:fire_charge>, 1200);
+furnace.setFuel(<ore:dustSulfur>, 600);
+
 print("==== Initialized furnace.zs ====");
