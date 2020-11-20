@@ -73,4 +73,10 @@ furnace.addRecipe(<deepmoblearning:living_matter_hellish>, <deepmoblearning:livi
 furnace.addRecipe(<deepmoblearning:living_matter_extraterrestrial>, <deepmoblearning:living_matter_hellish>);
 furnace.addRecipe(<deepmoblearning:living_matter_overworldian>, <deepmoblearning:living_matter_extraterrestrial>);
 
+/*~~~~~~~~~~
+Furnace Fuel
+~~~~~~~~~~~*/
+
+furnace.setFuel(<yabba:item_barrel>, 0);
+
 print("==== Initialized furnace.zs ====");
