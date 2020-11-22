@@ -21,6 +21,8 @@ Fix Inventory Pets recipe confilcts and hide unnecesary items
 Improve DML loot
 Do something about Aroma's Teleporter
 Detirmine planet(s) for AE2 Meteorites
+Add recipes for Matter Overdrive Android parts
+Remove enchanted books from Champions loot
 
 POSSIBLE TODOS?
 Make AstroMiner easier to acquire

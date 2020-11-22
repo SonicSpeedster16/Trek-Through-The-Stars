@@ -13,7 +13,7 @@ print("==== Initializing loottables.zs ====");
 
 /*~~~~~~
 Entities
-~~~~~~*/
+~~~~~~~*/
 
 # Zombie
 val zombie = LootTweaker.getTable("minecraft:entities/zombie");
@@ -74,5 +74,20 @@ blue_slimeCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>
 val enderman = LootTweaker.getTable("minecraft:entities/enderman");
 val endermanCommon = enderman.addPool("Common", 1, 1, 0, 0);
 endermanCommon.addItemEntryHelper(<deepmoblearning:living_matter_extraterrestrial>* 1, 1, 1,  [], [Conditions.killedByPlayer()]);
+
+/*~~~~~~~
+Champions
+~~~~~~~~*/
+
+val championsDrops = LootTweaker.getTable("champions:champion_loot");
+
+# Clear all pools for this table; removing all loot.
+championsDrops.clear();
+
+# Re-add custom loot:
+val championsCommon = championsDrops.addPool("Common", 1, 1, 0, 0);
+//placeholder
+championsCommon.addItemEntryHelper(<overquartz:quartz_brick>* 3, 1, 1,  [], [Conditions.killedByPlayer()]);
+
 
 print("==== Initialized loottables.zs ====");
