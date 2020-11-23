@@ -80,13 +80,20 @@ Champions
 ~~~~~~~~*/
 
 val championsDrops = LootTweaker.getTable("champions:champion_loot");
+val championsTier1 = championsDrops.getPool("tier#1");
+val championsTier2 = championsDrops.getPool("tier#2");
+val championsTier3 = championsDrops.getPool("tier#3");
+val championsTier4 = championsDrops.getPool("tier#4");
 
-# Clear all pools for this table; removing all loot.
-championsDrops.clear();
+# Remove enchanted books from Champions loot tables:
+championsTier1.removeEntry("minecraft:book");
+championsTier2.removeEntry("minecraft:book");
+championsTier3.removeEntry("minecraft:book");
+championsTier4.removeEntry("minecraft:book");
 
-# Re-add custom loot:
+# Add custom loot:
 val championsCommon = championsDrops.addPool("Common", 1, 1, 0, 0);
-//placeholder
+//placeholder item
 championsCommon.addItemEntryHelper(<overquartz:quartz_brick>* 3, 1, 1,  [], [Conditions.killedByPlayer()]);
 
 
