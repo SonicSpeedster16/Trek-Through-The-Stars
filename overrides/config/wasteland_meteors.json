@@ -83,25 +83,25 @@
     {
       "block": "wasteland_meteors:meteor_chest",
       "meta": "facing=east",
-      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "nbt": "{LootTable:\"wasteland:meteor_chests\"}",
       "weight": 1
     },
     {
       "block": "wasteland_meteors:meteor_chest",
       "meta": "facing=west",
-      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "nbt": "{LootTable:\"wasteland:meteor_chests\"}",
       "weight": 1
     },
     {
       "block": "wasteland_meteors:meteor_chest",
       "meta": "facing=north",
-      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "nbt": "{LootTable:\"wasteland:meteor_chests\"}",
       "weight": 1
     },
     {
       "block": "wasteland_meteors:meteor_chest",
       "meta": "facing=south",
-      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "nbt": "{LootTable:\"wasteland:meteor_chests\"}",
       "weight": 1
     }
   ],
@@ -174,25 +174,25 @@
     {
       "block": "wasteland_meteors:meteor_chest",
       "meta": "facing=east",
-      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "nbt": "{LootTable:\"wasteland:meteor_chests\"}",
       "weight": 8
     },
     {
       "block": "wasteland_meteors:meteor_chest",
       "meta": "facing=west",
-      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "nbt": "{LootTable:\"wasteland:meteor_chests\"}",
       "weight": 8
     },
     {
       "block": "wasteland_meteors:meteor_chest",
       "meta": "facing=north",
-      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "nbt": "{LootTable:\"wasteland:meteor_chests\"}",
       "weight": 8
     },
     {
       "block": "wasteland_meteors:meteor_chest",
       "meta": "facing=south",
-      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "nbt": "{LootTable:\"wasteland:meteor_chests\"}",
       "weight": 8
     },
     {
