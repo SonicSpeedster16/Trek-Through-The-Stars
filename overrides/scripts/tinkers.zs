@@ -21,6 +21,10 @@ mods.tconstruct.Casting.removeTableRecipe(<galaxyspace:compressed_plates:3>); /*
 # Allow recasting of blank plates
 mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * 144, <tconstruct:cast>);
 
+# Crafting Station can only be made from wooden crafting tables
+recipes.remove(<tconstruct:tooltables>);
+recipes.addShapeless("Crafting_Station_Wood", <tconstruct:tooltables>, [<ore:craftingTableWood>]);
+
 # Stone Ladder should use Stone Sticks instead of Rods
 recipes.remove(<tconstruct:stone_ladder>);
 recipes.addShaped("Stone_Ladder_From_Sticks",
@@ -28,6 +32,33 @@ recipes.addShaped("Stone_Ladder_From_Sticks",
   [<sct:stone_stick>, null, <sct:stone_stick>],
   [<sct:stone_stick>, <sct:stone_stick>, <sct:stone_stick>],
   [<sct:stone_stick>, null, <sct:stone_stick>]
+]);
+
+# Blank Patterns
+recipes.remove(<tconstruct:pattern>);
+recipes.addShapeless("Wood_Pattern", <tconstruct:pattern> * 4, [<ore:plankWood>,<minecraft:stick>,<minecraft:stick>,<ore:plankWood>]);
+recipes.addShapeless("Stone_to_Wood_Pattern", <tconstruct:pattern>, [<sct:stone_crafting_plate>]);
+
+# Pattern Chest
+recipes.addShapedMirrored("Pattern_Chest_OreDict", 
+<tconstruct:tooltables:4>, [
+  [<tconstruct:pattern>], 
+  [<ore:chest>]
+]);
+
+# Part Chest
+recipes.remove(<tconstruct:tooltables:5>);
+recipes.addShaped("Part_Chest_Wooden",
+<tconstruct:tooltables:5>, [
+  [null, <tconstruct:pattern>, null],
+  [<minecraft:stick>, <ore:chest>, <minecraft:stick>],
+  [null, <ore:plankWood>, null]
+]);
+recipes.addShaped("Part_Chest_Stone",
+<tconstruct:tooltables:5>, [
+  [null, <tconstruct:pattern>, null],
+  [<sct:stone_stick>, <ore:chest>, <sct:stone_stick>],
+  [null, <ore:stone>, null]
 ]);
 
 /*~~~~~~~~~~~~

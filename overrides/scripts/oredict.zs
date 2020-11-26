@@ -30,6 +30,9 @@ Add missing Ore Dictionary entries
 <ore:blockGlass>.add(<appliedenergistics2:quartz_vibrant_glass>);
 <ore:blockGlass>.add(<matteroverdrive:industrial_glass>);
 
+# Misc.
+<ore:pattern>.add(<sct:stone_crafting_plate>);
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Remove Ore Dictionary entries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/

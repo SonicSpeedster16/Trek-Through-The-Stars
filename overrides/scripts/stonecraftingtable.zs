@@ -14,12 +14,13 @@ recipes.addShapedMirrored("Stone_Sticks_Standard",
   [<minecraft:cobblestone>]
 ]);
 
-# Stone Crafting Plate
+# Stone Crafting Plate -> Stone Pattern
+<sct:stone_crafting_plate>.displayName = "Stone Pattern";
 recipes.remove(<sct:stone_crafting_plate>);
-recipes.addShapeless("Stone_Crafting_Plate_Custom", <sct:stone_crafting_plate> * 4, [<minecraft:cobblestone>,<minecraft:cobblestone>,<minecraft:cobblestone>,<minecraft:cobblestone>]);
+recipes.addShapeless("Stone_Pattern_Custom", <sct:stone_crafting_plate> * 4, [<minecraft:cobblestone>,<sct:stone_stick>,<sct:stone_stick>,<minecraft:cobblestone>]);
 
 # Stone Crafting Table
 recipes.remove(<sct:stone_crafting_table>);
-recipes.addShapeless("Stone_Crafting_Table_Custom", <sct:stone_crafting_table>, [<sct:stone_crafting_plate>,<sct:stone_crafting_plate>,<sct:stone_crafting_plate>,<sct:stone_crafting_plate>]);
+recipes.addShapeless("Stone_Crafting_Table_Cobble", <sct:stone_crafting_table>, [<minecraft:cobblestone>,<minecraft:cobblestone>,<minecraft:cobblestone>,<minecraft:cobblestone>]);
 
 print("==== Initialized stonecraftingtable.zs ====");
