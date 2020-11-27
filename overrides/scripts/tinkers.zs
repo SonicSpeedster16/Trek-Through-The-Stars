@@ -40,6 +40,7 @@ recipes.addShapeless("Wood_Pattern", <tconstruct:pattern> * 4, [<ore:plankWood>,
 recipes.addShapeless("Stone_to_Wood_Pattern", <tconstruct:pattern>, [<sct:stone_crafting_plate>]);
 
 # Pattern Chest
+recipes.remove(<tconstruct:tooltables:4>);
 recipes.addShapedMirrored("Pattern_Chest_OreDict", 
 <tconstruct:tooltables:4>, [
   [<tconstruct:pattern>], 
@@ -59,6 +60,20 @@ recipes.addShaped("Part_Chest_Stone",
   [null, <tconstruct:pattern>, null],
   [<sct:stone_stick>, <ore:chest>, <sct:stone_stick>],
   [null, <ore:stone>, null]
+]);
+
+# Stencil Table
+recipes.addShapedMirrored("Stencil_Table_Custom", 
+<tconstruct:tooltables:1>.withTag({textureBlock: {id: "minecraft:planks", Count: 1 as byte, Damage: 0 as short}}), [
+  [<ore:paper>], 
+  [<tconstruct:tooltables:3>]
+]);
+
+# Part Builder
+recipes.addShapedMirrored("Part_Builder_Custom", 
+<tconstruct:tooltables:2>.withTag({textureBlock: {id: "minecraft:log", Count: 1 as byte, Damage: 0 as short}}), [
+  [<minecraft:stone_axe>], 
+  [<tconstruct:tooltables:3>]
 ]);
 
 /*~~~~~~~~~~~~
