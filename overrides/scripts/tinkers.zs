@@ -9,6 +9,13 @@ print("==== Initializing tinkers.zs ====");
 # Add smeltery fuel
 mods.tconstruct.Fuel.registerFuel(<liquid:sulphuricacid> * 50, 50);
 
+# Remove and re-add Tritanium melting recipes to fix weird temperature requirements
+mods.tconstruct.Melting.removeRecipe(<liquid:molten_tritanium>);
+mods.tconstruct.Melting.addRecipe(<liquid:molten_tritanium> * 288,<matteroverdrive:tritanium_ore>, 550);
+mods.tconstruct.Melting.addRecipe(<liquid:molten_tritanium> * 16,<matteroverdrive:tritanium_nugget>, 350);
+mods.tconstruct.Melting.addRecipe(<liquid:molten_tritanium> * 144,<matteroverdrive:tritanium_ingot>, 400);
+mods.tconstruct.Melting.addRecipe(<liquid:molten_tritanium> * 1296,<matteroverdrive:tritanium_block>, 650);
+
 # Prevent Plate Casting (use Compresser instead)
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:cast_custom:3>);
 mods.tconstruct.Casting.removeTableRecipe(<galacticraftcore:basic_item:11>); /* Compressed Iron */
