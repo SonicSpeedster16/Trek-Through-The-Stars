@@ -22,8 +22,8 @@ mods.tconstruct.Casting.removeTableRecipe(<galaxyspace:compressed_plates:3>); /*
 mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * 144, <tconstruct:cast>);
 
 # Crafting Station can only be made from wooden crafting tables
-recipes.remove(<tconstruct:tooltables>);
-recipes.addShapeless("Crafting_Station_Wood", <tconstruct:tooltables>, [<ore:craftingTableWood>]);
+recipes.remove(<tconstruct:tooltables:0>);
+recipes.addShapeless("Crafting_Station_Wood", <tconstruct:tooltables:0>, [<ore:craftingTableWood>]);
 
 # Stone Ladder should use Stone Sticks instead of Rods
 recipes.remove(<tconstruct:stone_ladder>);
