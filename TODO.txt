@@ -30,7 +30,6 @@ Remove tools/armor and force Tinkers
 Do something about DML armor (recipe, flight)
 Add resource image for Ardite Ore
 Metal Forge requires Titanium
-Sulfuric Acid increases Smeltery speed
 Add creative modifers to planet dungeon loot
 
 ITEMS NEEDING METHODS OF OBTAINING:

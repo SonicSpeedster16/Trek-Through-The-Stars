@@ -6,6 +6,9 @@
 
 print("==== Initializing tinkers.zs ====");
 
+# Add smeltery fuel
+mods.tconstruct.Fuel.registerFuel(<liquid:sulphuricacid> * 50, 400);
+
 # Prevent Plate Casting (use Compresser instead)
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:cast_custom:3>);
 mods.tconstruct.Casting.removeTableRecipe(<galacticraftcore:basic_item:11>); /* Compressed Iron */
