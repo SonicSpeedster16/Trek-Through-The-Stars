@@ -6,8 +6,8 @@
 
 print("==== Initializing galacticraft.zs ====");
 
-# Manually set temperature of sulphuric acid to double that of lava
-<liquid:sulphuricacid>.definition.temperature = 2600;
+# Manually set temperature of sulphuric acid to triple that of lava
+<liquid:sulphuricacid>.definition.temperature = 3900;
 
 # Magnetic Crafting Table
 recipes.remove(<galacticraftcore:magnetic_table>);

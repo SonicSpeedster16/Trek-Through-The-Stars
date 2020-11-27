@@ -4,9 +4,6 @@
 
 print("==== Initializing minecraft.zs ====");
 
-# Manually set temperature of lava
-<liquid:lava>.definition.temperature = 3000;
-
 # Wooden ladder
 recipes.remove(<minecraft:ladder>);
 recipes.addShaped("Ladder_Wood",
