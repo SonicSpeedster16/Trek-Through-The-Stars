@@ -1,129 +1,33 @@
 {
   "pools": [
     {
-      "name": "tier#1",
-      "entries": [
-        {
-          "entryName": "minecraft:book",
-          "weight": 1,
-          "quality": 0,
-          "conditions": [
-            {
-              "properties": {
-                "champions:is_champion": {
-                  "tier": 0,
-                  "min_tier": 0,
-                  "max_tier": 0
-                }
-              },
-              "entity": "this",
-              "condition": "minecraft:entity_properties"
-            },
-            {
-              "inverse": false,
-              "condition": "minecraft:killed_by_player"
-            }
-          ],
-          "type": "item",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly"
-            }
-          ],
-          "name": "minecraft:book"
-        }
-      ],
-      "rolls": 1.0
-    },
-    {
       "name": "tier#2",
-      "entries": [
-        {
-          "entryName": "minecraft:book",
-          "weight": 1,
-          "quality": 0,
-          "conditions": [
-            {
-              "properties": {
-                "champions:is_champion": {
-                  "tier": 0,
-                  "min_tier": 2,
-                  "max_tier": 0
-                }
-              },
-              "entity": "this",
-              "condition": "minecraft:entity_properties"
-            },
-            {
-              "inverse": false,
-              "condition": "minecraft:killed_by_player"
-            }
-          ],
-          "type": "item",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly"
-            }
-          ],
-          "name": "minecraft:book"
-        }
-      ],
+      "entries": [],
       "rolls": 1.0
     },
     {
-      "name": "tier#3",
-      "entries": [
-        {
-          "entryName": "minecraft:book",
-          "weight": 1,
-          "quality": 0,
-          "conditions": [
-            {
-              "properties": {
-                "champions:is_champion": {
-                  "tier": 0,
-                  "min_tier": 3,
-                  "max_tier": 0
-                }
-              },
-              "entity": "this",
-              "condition": "minecraft:entity_properties"
-            },
-            {
-              "inverse": false,
-              "condition": "minecraft:killed_by_player"
-            }
-          ],
-          "type": "item",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly"
-            }
-          ],
-          "name": "minecraft:book"
-        }
-      ],
+      "name": "tier#1",
+      "entries": [],
       "rolls": 1.0
     },
     {
       "name": "tier#4",
+      "entries": [],
+      "rolls": 1.0
+    },
+    {
+      "name": "tier#3",
+      "entries": [],
+      "rolls": 1.0
+    },
+    {
+      "name": "Common",
       "entries": [
         {
-          "entryName": "minecraft:book",
+          "entryName": "loottweaker#1",
           "weight": 1,
-          "quality": 0,
+          "quality": 1,
           "conditions": [
-            {
-              "properties": {
-                "champions:is_champion": {
-                  "tier": 0,
-                  "min_tier": 4,
-                  "max_tier": 0
-                }
-              },
-              "entity": "this",
-              "condition": "minecraft:entity_properties"
-            },
             {
               "inverse": false,
               "condition": "minecraft:killed_by_player"
@@ -132,10 +36,11 @@
           "type": "item",
           "functions": [
             {
-              "function": "minecraft:enchant_randomly"
+              "count": 3.0,
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:book"
+          "name": "overquartz:quartz_brick"
         }
       ],
       "rolls": 1.0
