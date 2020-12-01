@@ -1090,9 +1090,6 @@ galaxyspace:cobalt_spade
 galaxyspace:cobalt_hoe
 galaxyspace:jetpack
 galaxyspace:geo_scanner
-galaxyspace:proxima_b_blocks
-galaxyspace:proxima_b_log_1
-galaxyspace:proxima_b_log_2
 galaxyspace:barnarda_c_grasses
 galaxyspace:barnarda_c_blocks
 galaxyspace:barnarda_c_falling_blocks
@@ -1105,6 +1102,9 @@ galaxyspace:barnarda_c_water_grass
 galaxyspace:barnarda_c_ores
 galaxyspace:br_basic
 galaxyspace:br_foods
+galaxyspace:proxima_b_blocks
+galaxyspace:proxima_b_log_1
+galaxyspace:proxima_b_log_2
 galacticraftcore:unlit_torch_stone
 galacticraftcore:unlit_torch_stone_lit
 champions:champion_egg

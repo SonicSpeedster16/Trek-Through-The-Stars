@@ -391,7 +391,9 @@ ingotNaturalAluminum
 compressedDesh
 ingotCobaltum
 compressedTritanium
+oreTitanium
 flint
+craftingTableWood
 nuggetCopper
 nuggetBronze
 nuggetLead
@@ -405,7 +407,6 @@ shardIron
 dustTitanium
 oreLead
 oreSolar
-craftingTableWood
 shardLapis
 coal
 blockWool
@@ -546,7 +547,6 @@ oreNuggetDesh
 gearDesh
 dustDesh
 nuggetTitanium
-oreTitanium
 oreNetherTitanium
 denseoreTitanium
 orePoorTitanium
