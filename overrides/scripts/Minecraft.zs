@@ -1,8 +1,8 @@
-#Name: minecraft.zs
+#Name: Minecraft.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
-print("==== Initializing minecraft.zs ====");
+print("==== Initializing Minecraft.zs ====");
 
 # Wooden ladder
 recipes.remove(<minecraft:ladder>);
@@ -34,4 +34,6 @@ recipes.addShapeless("Cobblestone_from_Meteors",
 # Modded to Vanilla Chest
 //recipes.addShapeless("Chest_Conversion", <minecraft:chest> * 2, [<ore:chest>, <ore:chest>]);
 
-print("==== Initialized minecraft.zs ====");
+# Increase stack size for some items
+
+print("==== Initialized Minecraft.zs ====");

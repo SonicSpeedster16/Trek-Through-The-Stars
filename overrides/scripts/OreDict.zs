@@ -1,14 +1,14 @@
-#Name: oredict.zs
+#Name: OreDict.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
 #priority 1000
 
-print("==== Initializing oredict.zs ====");
+print("==== Initializing OreDict.zs ====");
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Add missing Ore Dictionary entries
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 # Crafting tables and Chests
 <ore:workbench>.add(<sct:stone_crafting_table>);
@@ -37,9 +37,10 @@ Add missing Ore Dictionary entries
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Remove Ore Dictionary entries
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
 <ore:chest>.remove(<minecraft:ender_chest>);
 //<ore:ingotCobalt>.remove(<galaxyspace:ingots:0>);
 //<ore:itemSilicon>.remove(<appliedenergistics2:material:5>);
 
-print("==== Initialized oredict.zs ====");
+print("==== Initialized OreDict.zs ====");

@@ -1,4 +1,4 @@
-#Name: loottables.zs
+#Name: LootTables.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
@@ -9,11 +9,13 @@ import loottweaker.vanilla.loot.LootPool;
 import loottweaker.vanilla.loot.Conditions;
 import loottweaker.vanilla.loot.Functions;
 
-print("==== Initializing loottables.zs ====");
+#modloaded loottweaker
+
+print("==== Initializing LootTables.zs ====");
 
 /*~~~~~~
 Entities
-~~~~~~~*/
+~~~~~~*/
 
 # Zombie
 val zombie = LootTweaker.getTable("minecraft:entities/zombie");
@@ -77,7 +79,7 @@ endermanCommon.addItemEntryHelper(<deepmoblearning:living_matter_extraterrestria
 
 /*~~~~~~~
 Champions
-~~~~~~~~*/
+~~~~~~~*/
 
 val championsDrops = LootTweaker.getTable("champions:champion_loot");
 val championsTier1 = championsDrops.getPool("tier#1");
@@ -98,7 +100,7 @@ championsCommon.addItemEntryHelper(<overquartz:quartz_brick>* 3, 1, 1,  [], [Con
 
 /*~~~~~~~~~~~~~~~~~~~~~
 Wasteland Meteor Chests
-~~~~~~~~~~~~~~~~~~~~~~*/
+~~~~~~~~~~~~~~~~~~~~~*/
 
 LootTweaker.newTable("wasteland:meteor_chests");
 val meteorChest = LootTweaker.getTable("wasteland:meteor_chests");
@@ -110,24 +112,23 @@ meteorCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>, 5,
 meteorCommon.addItemEntryHelper(<deepmoblearning:living_matter_hellish>, 5, 1, [Functions.setCount(1, 1)], []);
 meteorCommon.addItemEntryHelper(<deepmoblearning:living_matter_extraterrestrial>, 5, 1, [Functions.setCount(1, 1)], []);
 
-# Rare Loot (Few or none; 1 in 2 chance)
+# Rare Loot (Few or none; approximately 1 in 2 chance)
 val meteorRare = meteorChest.addPool("Rare", 0, 1, 0, 0);
 // placeholder items
 meteorRare.addItemEntryHelper(<minecraft:name_tag>, 6, 1, [Functions.setCount(1, 1)], []);
 meteorRare.addItemEntryHelper(<minecraft:bed:11>, 6, 1, [Functions.setCount(1, 1)], []);
 
 
-# Epic Loot (Few or none; 1 in 6 chance)
+# Epic Loot (Few or none; approximately 1 in 6 chance)
 val meteorEpic = meteorChest.addPool("Epic", -5, 1, 0, 0);
 // placeholder items
 meteorEpic.addItemEntryHelper(<fluxnetworks:flux>, 5, 1, [Functions.setCount(1, 1)], []);
 meteorEpic.addItemEntryHelper(<minecraft:fire_charge>, 5, 1, [Functions.setCount(1, 1)], []);
 
-# Legendary Loot (Few or none; 1 in 12 chance)
+# Legendary Loot (Few or none; approximately 1 in 12 chance)
 val meteorLegendary = meteorChest.addPool("Legendary", -10, 1, 0, 0);
 // placeholder items
 meteorLegendary.addItemEntryHelper(<minecraft:name_tag>, 5, 1, [Functions.setCount(1, 1)], []);
 meteorLegendary.addItemEntryHelper(<minecraft:chainmail_boots>, 5, 1, [Functions.setCount(1, 1)], []);
 
-
-print("==== Initialized loottables.zs ====");
+print("==== Initialized LootTables.zs ====");

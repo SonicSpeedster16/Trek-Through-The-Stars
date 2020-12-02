@@ -1,18 +1,33 @@
-#Name: tinyprogressions.zs
+#Name: TinyProgressions.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
 #modloaded tp
 
-print("==== Initializing tinyprogressions.zs ====");
+print("==== Initializing TinyProgressions.zs ====");
 
-# Steel can't be crafted by hand
+# Rename Compressed Nether Star Block
+<tp:netherstar_block>.displayName = "Nether Star Block";
+
+# Steel shouldn't be craftable by hand
 recipes.removeByRecipeName("tp:steel_ingot");
 recipes.removeByRecipeName("tp:steel_ingot1");
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<tp:steel_ingot>, <minecraft:iron_ingot>, <minecraft:coal>);
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<tp:steel_ingot> * 2, <minecraft:iron_ingot>, <minecraft:coal:1>);
 
-# Standardize Shear recipes
+# Soul Sandstone
+recipes.addShapeless("Soul_Sandstone", <tp:soul_sandstone>, [<minecraft:soul_sand>,<minecraft:soul_sand>,<minecraft:soul_sand>,<minecraft:soul_sand>]);
+
+# Small Medical Bandage
+recipes.remove(<tp:small_bandage>);
+recipes.addShaped("Small_Bandage_OreDict",
+<tp:small_bandage>, [
+  [null, <ore:paper>, null],
+  [<ore:paper>, <ore:slimeball>, <ore:paper>],
+  [null, <ore:paper>, null]
+]);
+
+# Standardize Shears recipes
 // Wood
 recipes.remove(<tp:wooden_shears>);
 recipes.addShaped("Wooden_Shears",
@@ -62,22 +77,11 @@ recipes.addShaped("Emerald_Shears",
   [null, null, null]
 ]);
 
-# Small Medical bandage should use OreDict items
-recipes.remove(<tp:small_bandage>);
-recipes.addShaped("Small_Bandage_OreDict",
-<tp:small_bandage>, [
-  [null, <ore:paper>, null],
-  [<ore:paper>, <ore:slimeball>, <ore:paper>],
-  [null, <ore:paper>, null]
-]);
+/*~~~~~~~~~~~~
+Remove recipes
+~~~~~~~~~~~~*/
 
-# Remove Obsidian Dust recipe
-recipes.removeByRecipeName("tp:obsidian_dust");
+# Obsidian Dust
+recipes.removeByRecipeName("tp:obsidian_dust"); /* Use Quartz Grindstone */
 
-# Add Recipe for Soul Sandstone
-recipes.addShapeless("Soul_Sandstone", <tp:soul_sandstone>, [<minecraft:soul_sand>,<minecraft:soul_sand>,<minecraft:soul_sand>,<minecraft:soul_sand>]);
-
-# Rename Compressed Nether Star Block
-<tp:netherstar_block>.displayName = "Nether Star Block";
-
-print("==== Initialized tinyprogressions.zs ====");
+print("==== Initialized TinyProgressions.zs ====");

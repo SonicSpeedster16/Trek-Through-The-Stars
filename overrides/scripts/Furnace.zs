@@ -1,4 +1,4 @@
-#Name: furnace.zs
+#Name: Furnace.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
@@ -7,7 +7,14 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient as IIngredient;
 import crafttweaker.recipes.IFurnaceRecipe;
 
-print("==== Initializing furnace.zs ====");
+print("==== Initializing Furnace.zs ====");
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Additional items that can be used as furnace fuel
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+furnace.setFuel(<ore:dustSulfur>, 600);
+furnace.setFuel(<minecraft:fire_charge>, 1200);
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Ensure all Ore Dictionary ores can be smelted into their respective resources
@@ -72,12 +79,5 @@ furnace.addRecipe(<fluxnetworks:flux>, <minecraft:redstone>);
 furnace.addRecipe(<deepmoblearning:living_matter_hellish>, <deepmoblearning:living_matter_overworldian>);
 furnace.addRecipe(<deepmoblearning:living_matter_extraterrestrial>, <deepmoblearning:living_matter_hellish>);
 furnace.addRecipe(<deepmoblearning:living_matter_overworldian>, <deepmoblearning:living_matter_extraterrestrial>);
-
-/*~~~~~~~~~~
-Furnace Fuel
-~~~~~~~~~~~*/
-
-furnace.setFuel(<minecraft:fire_charge>, 1200);
-furnace.setFuel(<ore:dustSulfur>, 600);
 
 print("==== Initialized furnace.zs ====");

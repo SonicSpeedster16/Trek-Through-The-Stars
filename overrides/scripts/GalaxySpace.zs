@@ -1,16 +1,12 @@
-#Name: galaxyspace.zs
+#Name: GalaxySpace.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
 #modloaded galaxyspace
 
-print("==== Initializing galaxyspace.zs ====");
+print("==== Initializing GalaxySpace.zs ====");
 
-/*~~~~~~~~~~~~~~~~~
-Add missing recipes
-~~~~~~~~~~~~~~~~~~*/
-
-# Module "Expander"
+# Expander Module
 recipes.addShaped("Module_Expander_OreDict",
 <galaxyspace:upgrades:0>, [
   [null, <galaxyspace:gs_basic:3>, null],
@@ -18,7 +14,7 @@ recipes.addShaped("Module_Expander_OreDict",
   [<ore:ingotCobalt>, <galaxyspace:gs_basic:12>, <ore:ingotCobalt>]
 ]);
 
-# Module "Energy"
+# Energy Module
 recipes.addShaped("Module_Energy_OreDict",
 <galaxyspace:upgrades:3>, [
   [null, <galacticraftplanets:basic_item_venus:4>, null],
@@ -28,7 +24,9 @@ recipes.addShaped("Module_Energy_OreDict",
 
 /*~~~~~~~~~~~~
 Remove recipes
-~~~~~~~~~~~~~*/
-recipes.remove(<galaxyspace:decoblocks:4>); /* Cobalt Block removed in favor of Tinkers' Cobalt */
+~~~~~~~~~~~~*/
 
-print("==== Initialized galaxyspace.zs ====");
+# Remove Cobalt Block in favor of Tinkers' Cobalt
+recipes.remove(<galaxyspace:decoblocks:4>);
+
+print("==== Initialized GalaxySpace.zs ====");

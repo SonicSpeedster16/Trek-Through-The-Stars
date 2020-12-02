@@ -1,10 +1,10 @@
-#Name: removals.zs
+#Name: MiscRemovals.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
-print("==== Initializing removals.zs ====");
+print("==== Initializing MiscRemovals.zs ====");
 
 # Meteor Block Chest
 recipes.remove(<wasteland_meteors:meteor_chest>);
 
-print("==== Initialized removals.zs ====");
+print("==== Initialized MiscRemovals.zs ====");

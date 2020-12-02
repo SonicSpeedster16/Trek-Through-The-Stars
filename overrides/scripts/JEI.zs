@@ -1,15 +1,15 @@
-#Name: jei.zs
+#Name: JEI.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
 import crafttweaker.item.IItemStack;
 import mods.jei.JEI;
 
-print("==== Initializing jei.zs ====");
+print("==== Initializing JEI.zs ====");
 
-/* ~~~~~~~~~~~~ 
+/*~~~~~~~~~~~~~
 Custom Tooltips
-~~~~~~~~~~~~~~*/
+~~~~~~~~~~~~~*/
 
 # Removals
 <galacticraftcore:dungeonfinder>.removeTooltip("Creative Only");
@@ -24,4 +24,4 @@ Custom Tooltips
 <appliedenergistics2:sky_stone_block>.addTooltip(format.aqua("Sky Stone can only be obtained from fallen meteorites on an undetermined planet"));
 <appliedenergistics2:sky_compass>.addTooltip(format.aqua("Meteorites can only be found on an undetermined planet"));
 
-print("==== Initialized jei.zs ====");
+print("==== Initialized JEI.zs ====");

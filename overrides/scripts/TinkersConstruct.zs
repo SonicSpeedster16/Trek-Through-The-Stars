@@ -1,10 +1,10 @@
-#Name: tinkers.zs
+#Name: TinkersConstruct.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
 #modloaded tconstruct
 
-print("==== Initializing tinkers.zs ====");
+print("==== Initializing TinkersConstruct.zs ====");
 
 # Add smeltery fuel
 mods.tconstruct.Fuel.registerFuel(<liquid:sulphuricacid> * 50, 50);
@@ -28,7 +28,7 @@ mods.tconstruct.Casting.removeTableRecipe(<galacticraftplanets:item_basic_mars:5
 mods.tconstruct.Casting.removeTableRecipe(<galacticraftplanets:item_basic_asteroids:6>); /* Compressed Titanium */
 mods.tconstruct.Casting.removeTableRecipe(<galaxyspace:compressed_plates:3>); /* Compressed Nickel */
 
-# Allow recasting of blank plates
+# Allow recasting of blank casts
 mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * 144, <tconstruct:cast>);
 
 # Crafting Station can only be made from wooden crafting tables
@@ -51,9 +51,9 @@ recipes.addShapeless("Stone_to_Wood_Pattern", <tconstruct:pattern>, [<sct:stone_
 
 # Pattern Chest
 recipes.remove(<tconstruct:tooltables:4>);
-recipes.addShapedMirrored("Pattern_Chest_OreDict", 
+recipes.addShapedMirrored("Pattern_Chest_OreDict",
 <tconstruct:tooltables:4>, [
-  [<tconstruct:pattern>], 
+  [<tconstruct:pattern>],
   [<ore:chest>]
 ]);
 
@@ -73,22 +73,22 @@ recipes.addShaped("Part_Chest_Stone",
 ]);
 
 # Stencil Table
-recipes.addShapedMirrored("Stencil_Table_Custom", 
+recipes.addShapedMirrored("Stencil_Table_Custom",
 <tconstruct:tooltables:1>.withTag({textureBlock: {id: "minecraft:planks", Count: 1 as byte, Damage: 0 as short}}), [
-  [<ore:paper>], 
+  [<ore:paper>],
   [<tconstruct:tooltables:3>]
 ]);
 
 # Part Builder
-recipes.addShapedMirrored("Part_Builder_Custom", 
+recipes.addShapedMirrored("Part_Builder_Custom",
 <tconstruct:tooltables:2>.withTag({textureBlock: {id: "minecraft:log", Count: 1 as byte, Damage: 0 as short}}), [
-  [<minecraft:stone_axe>], 
+  [<minecraft:stone_axe>],
   [<tconstruct:tooltables:3>]
 ]);
 
 /*~~~~~~~~~~~~
 Remove recipes
-~~~~~~~~~~~~~*/
+~~~~~~~~~~~~*/
 
 # Stone Rod
 recipes.remove(<tconstruct:stone_stick>); /* Use Stone Sticks instead */
@@ -99,4 +99,4 @@ recipes.remove(<tconstruct:stone_torch>); /* Not Needed as Vanilla torches are c
 # Wooden Hopper
 recipes.remove(<tconstruct:wooden_hopper>);
 
-print("==== Initialized tinkers.zs ====");
+print("==== Initialized TinkersConstruct.zs ====");

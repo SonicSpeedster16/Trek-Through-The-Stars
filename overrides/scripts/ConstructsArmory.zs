@@ -1,10 +1,10 @@
-#Name: constructsarmory.zs
+#Name: ConstructsArmory.zs
 #Author: SonicSpeedster16
 #Written for use in the Trek Through The Stars modpack: https://www.curseforge.com/minecraft/modpacks/trek-through-the-stars
 
 #modloaded conarm
 
-print("==== Initializing constructsarmory.zs ====");
+print("==== Initializing ConstructsArmory.zs ====");
 
 # Traveller's Storage Belt
 recipes.remove(<conarm:travel_belt>);
@@ -22,4 +22,4 @@ recipes.addShaped("Travellers_Knapsack_OreDict",
   [<ore:leather>, <ore:leather>, <ore:leather>]
 ]);
 
-print("==== Initialized constructsarmory.zs ====");
+print("==== Initialized ConstructsArmory.zs ====");
