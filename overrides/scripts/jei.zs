@@ -18,12 +18,10 @@ Custom Tooltips
 <fluxnetworks:flux>.addTooltip("Can be obtained by smelting redstone dust in a furnace");
 <conarm:armorforge>.addTooltip(format.yellow("Can be made from any metal block"));
 <tconstruct:toolforge>.addTooltip(format.yellow("Can be made from any metal block"));
+<appliedenergistics2:facade>.withTag({damage: 0, item: "minecraft:stonebrick"}).addTooltip(format.yellow("Facades can be crafted from almost any block"));
 
 # Locational tips
 <appliedenergistics2:sky_stone_block>.addTooltip(format.aqua("Sky Stone can only be obtained from fallen meteorites on an undetermined planet"));
 <appliedenergistics2:sky_compass>.addTooltip(format.aqua("Meteorites can only be found on an undetermined planet"));
-
-# Warnings
-
 
 print("==== Initialized jei.zs ====");
