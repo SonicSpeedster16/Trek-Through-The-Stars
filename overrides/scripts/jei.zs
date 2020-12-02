@@ -16,8 +16,8 @@ Custom Tooltips
 
 # Notes
 <fluxnetworks:flux>.addTooltip("Can be obtained by smelting redstone dust in a furnace");
-<conarm:armorforge>.addTooltip(format.yellow("Can be made from any metal block"));
-<tconstruct:toolforge>.addTooltip(format.yellow("Can be made from any metal block"));
+<conarm:armorforge>.addTooltip(format.yellow("Armor Forge can be crafted with any 4 metal blocks"));
+<tconstruct:toolforge>.addTooltip(format.yellow("Tool Forge can be crafted with any 4 metal blocks"));
 <appliedenergistics2:facade>.withTag({damage: 0, item: "minecraft:stonebrick"}).addTooltip(format.yellow("Facades can be crafted from almost any block"));
 
 # Locational tips
