@@ -20,6 +20,8 @@ Add missing Ore Dictionary entries
 <ore:compressedTritanium>.add(<matteroverdrive:tritanium_plate>);
 <ore:oreTitanium>.add(<galacticraftplanets:asteroids_block:4>);
 <ore:oreTitanium>.add(<galaxyspace:ganymedeblocks:3>);
+<ore:blockMagnesium>.add(<galaxyspace:decoblocks:6>);
+<ore:blockNickel>.add(<galaxyspace:decoblocks:5>);
 
 # Stones
 <ore:cobblestone>.add(<galacticraftplanets:mars:4>);
