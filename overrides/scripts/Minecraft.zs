@@ -35,5 +35,8 @@ recipes.addShapeless("Cobblestone_from_Meteors",
 //recipes.addShapeless("Chest_Conversion", <minecraft:chest> * 2, [<ore:chest>, <ore:chest>]);
 
 # Increase stack size for some items
+<minecraft:egg>.maxStackSize = 64;
+<minecraft:snowball>.maxStackSize = 64;
+<minecraft:ender_pearl>.maxStackSize = 64;
 
 print("==== Initialized Minecraft.zs ====");
