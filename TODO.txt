@@ -12,6 +12,7 @@ Ultimate Skyblock Resource Generator
 
 
 TODO:
+Remove Tools from Galacticraft Dungeon Loot
 Add Magnets or use Tinker's Magentic Trait
 Remove tools/armor and force Tinkers
 Rework meteor ores and loot
