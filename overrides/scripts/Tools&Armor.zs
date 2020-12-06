@@ -84,4 +84,47 @@ for tool in ToolsToRemove {
 Remove Armor
 ~~~~~~~~~~*/
 
+val ArmorToRemove = [
+  <minecraft:leather_helmet>,
+  <minecraft:leather_chestplate>,
+  <minecraft:leather_leggings>,
+  <minecraft:leather_boots>,
+  <minecraft:golden_helmet>,
+  <minecraft:golden_chestplate>,
+  <minecraft:golden_leggings>,
+  <minecraft:golden_boots>,
+//  <minecraft:iron_helmet>,
+  <minecraft:iron_chestplate>,
+  <minecraft:iron_leggings>,
+  <minecraft:iron_boots>,
+  <minecraft:diamond_helmet>,
+  <minecraft:diamond_chestplate>,
+  <minecraft:diamond_leggings>,
+  <minecraft:diamond_boots>,
+  <galacticraftcore:steel_helmet>,
+//  <galacticraftcore:steel_chestplate>,
+  <galacticraftcore:steel_leggings>,
+  <galacticraftcore:steel_boots>,
+  <galacticraftplanets:desh_helmet>,
+  <galacticraftplanets:desh_chestplate>,
+  <galacticraftplanets:desh_leggings>,
+  <galacticraftplanets:desh_boots>,
+  <galacticraftplanets:titanium_helmet>,
+  <galacticraftplanets:titanium_chestplate>,
+  <galacticraftplanets:titanium_leggings>,
+  <galacticraftplanets:titanium_boots>,
+  <galaxyspace:cobalt_helmet>,
+  <galaxyspace:cobalt_chest>,
+  <galaxyspace:cobalt_legs>,
+  <galaxyspace:cobalt_boots>,
+  <matteroverdrive:tritanium_helmet>,
+  <matteroverdrive:tritanium_chestplate>,
+  <matteroverdrive:tritanium_leggings>,
+  <matteroverdrive:tritanium_boots>
+] as IItemStack[];
+
+for item in ArmorToRemove {
+  JEI.removeAndHide(item);
+}
+
 print("==== Initialized Tools&Armor.zs ====");
