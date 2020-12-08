@@ -11,7 +11,7 @@ print("==== Initializing Tools&Armor.zs ====");
 Nerf Vanilla Tools
 ~~~~~~~~~~~~~~~~*/
 
-val ToolsToNerf = [
+val toolsToNerf = [
   <minecraft:stone_pickaxe>,
   <minecraft:stone_axe>,
   <minecraft:stone_shovel>,
@@ -20,18 +20,13 @@ val ToolsToNerf = [
   <minecraft:iron_axe>,
   <minecraft:iron_shovel>,
   <minecraft:iron_hoe>,
-  <minecraft:golden_pickaxe>,
-  <minecraft:golden_axe>,
-  <minecraft:golden_shovel>,
-  <minecraft:golden_hoe>,
-  <minecraft:golden_sword>,
   <minecraft:diamond_pickaxe>,
   <minecraft:diamond_axe>,
   <minecraft:diamond_shovel>,
   <minecraft:diamond_hoe>
 ] as IItemStack[];
 
-for tool in ToolsToNerf {
+for tool in toolsToNerf {
   tool.maxDamage = 1;
 }
 
@@ -44,31 +39,36 @@ for tool in ToolsToNerf {
 Tools to Remove
 ~~~~~~~~~~~~~*/
 
-val ToolsToRemove = [
+val toolsToRemove = [
   <minecraft:wooden_pickaxe>,
+  <minecraft:golden_pickaxe>,
   <galacticraftcore:steel_pickaxe>,
   <galacticraftplanets:desh_pick>,
   <galacticraftplanets:titanium_pickaxe>,
   <galaxyspace:cobalt_pickaxe>,
   <matteroverdrive:tritanium_pickaxe>,
   <minecraft:wooden_axe>,
+  <minecraft:golden_axe>,
   <galacticraftcore:steel_axe>,
   <galacticraftplanets:desh_axe>,
   <galacticraftplanets:titanium_axe>,
   <galaxyspace:cobalt_axe>,
   <matteroverdrive:tritanium_axe>,
   <minecraft:wooden_shovel>,
+  <minecraft:golden_shovel>,
   <galacticraftcore:steel_shovel>,
   <galacticraftplanets:desh_spade>,
   <galacticraftplanets:titanium_shovel>,
   <matteroverdrive:tritanium_shovel>,
   <minecraft:wooden_hoe>,
+  <minecraft:golden_hoe>,
   <galacticraftcore:steel_hoe>,
   <galacticraftplanets:desh_hoe>,
   <galacticraftplanets:titanium_hoe>,
   <galaxyspace:cobalt_hoe>,
   <matteroverdrive:tritanium_hoe>,
   <minecraft:wooden_sword>,
+  <minecraft:golden_sword>,
   <galacticraftcore:steel_sword>,
   <galacticraftplanets:desh_sword>,
   <galacticraftplanets:titanium_sword>,
@@ -76,7 +76,7 @@ val ToolsToRemove = [
   <matteroverdrive:tritanium_sword>
 ] as IItemStack[];
 
-for tool in ToolsToRemove {
+for tool in toolsToRemove {
   JEI.removeAndHide(tool);
 }
 
@@ -84,7 +84,7 @@ for tool in ToolsToRemove {
 Remove Armor
 ~~~~~~~~~~*/
 
-val ArmorToRemove = [
+val armorToRemove = [
   <minecraft:leather_helmet>,
   <minecraft:leather_chestplate>,
   <minecraft:leather_leggings>,
@@ -123,7 +123,7 @@ val ArmorToRemove = [
   <matteroverdrive:tritanium_boots>
 ] as IItemStack[];
 
-for item in ArmorToRemove {
+for item in armorToRemove {
   JEI.removeAndHide(item);
 }
 
