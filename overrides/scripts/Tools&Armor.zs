@@ -35,6 +35,46 @@ for tool in toolsToNerf {
 <minecraft:iron_sword>.maxDamage = 10;
 <minecraft:diamond_sword>.maxDamage = 20;
 
+# Vanilla tools are low quality
+<minecraft:stone_sword>.displayName = "Low Quality Stone Sword";
+<minecraft:stone_pickaxe>.displayName = "Low Quality Stone Pickaxe";
+<minecraft:stone_axe>.displayName = "Low Quality Stone Axe";
+<minecraft:stone_shovel>.displayName = "Low Quality Stone Shovel";
+<minecraft:stone_hoe>.displayName = "Low Quality Stone Hoe";
+<minecraft:iron_sword>.displayName = "Low Quality Iron Sword";
+<minecraft:iron_pickaxe>.displayName = "Low Quality Iron Pickaxe";
+<minecraft:iron_axe>.displayName = "Low Quality Iron Axe";
+<minecraft:iron_shovel>.displayName = "Low Quality Iron Shovel";
+<minecraft:iron_hoe>.displayName = "Low Quality Iron Hoe";
+<minecraft:diamond_sword>.displayName = "Low Quality Diamond Sword";
+<minecraft:diamond_pickaxe>.displayName = "Low Quality Diamond Pickaxe";
+<minecraft:diamond_axe>.displayName = "Low Quality Diamond Axe";
+<minecraft:diamond_shovel>.displayName = "Low Quality Diamond Shovel";
+<minecraft:diamond_hoe>.displayName = "Low Quality Diamond Hoe";
+
+# Add Tooltip to use Tinker's
+val toolsToTooltip = [
+  <minecraft:stone_sword>,
+  <minecraft:stone_pickaxe>,
+  <minecraft:stone_axe>,
+  <minecraft:stone_shovel>,
+  <minecraft:stone_hoe>,
+  <minecraft:iron_sword>,
+  <minecraft:iron_pickaxe>,
+  <minecraft:iron_axe>,
+  <minecraft:iron_shovel>,
+  <minecraft:iron_hoe>,
+  <minecraft:diamond_sword>,
+  <minecraft:diamond_pickaxe>,
+  <minecraft:diamond_axe>,
+  <minecraft:diamond_shovel>,
+  <minecraft:diamond_hoe>
+] as IItemStack[];
+
+for tool in toolsToTooltip {
+  tool.addTooltip(format.italic(format.red("This tool is poorly constructed. Use a Tinkers' Construct tool instead!")));
+}
+
 /*~~~~~~~~~~~~~
 Tools to Remove
 ~~~~~~~~~~~~~*/
