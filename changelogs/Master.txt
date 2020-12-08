@@ -80,7 +80,7 @@
 - Added Patchouli (1.0-22)
 - Added Phosphor (0.2.7)
 - Added Placebo (1.6.0)
-- Added RandomPatches (1.22.1.9)
+- Added RandomPatches (1.22.1.10)
 - Added RandomTweaks (2.8.2.0)
 - Added ReAuth (3.6.0)
 - Added Resource Loader (1.5.3)
@@ -112,8 +112,8 @@
 - Added Wireless Interface Terminal (1.0.2)
 - Added Wireless Pattern Terminal (1.0.3)
 - Added Wither Skeleton Tweaks (2.6.3)
-- Added Xaero's Minimap (20.28.1)
-- Addec Xaero's World Map (1.11.3)
+- Added Xaero's Minimap (20.28.2)
+- Addec Xaero's World Map (1.11.4)
 - Added xXx_MoreToolMats_xXx (8.0.2)
 - Added YABBA (1.1.54)
 
@@ -123,6 +123,6 @@
 
 # =============== Script Changes =============== #
 
-- Added scripts.
+- Added scripts for ALL THE THINGS!
 
 # ============================================== #

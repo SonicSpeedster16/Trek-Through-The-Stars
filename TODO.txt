@@ -6,15 +6,11 @@ Portality
 Building Gadgets
 Ender Storage
 SoulBottle
-XNet and YNot
-Planet Progression
 Ultimate Skyblock Resource Generator
 
 
 TODO:
 Remove Tools from Galacticraft Dungeon Loot
-Add Magnets or use Tinker's Magentic Trait
-Remove tools/armor and force Tinkers
 Rework meteor ores and loot
 Review chest recipes
 Check Silicon & cobalt recipes
@@ -31,6 +27,7 @@ Make AstroMiner easier to acquire
 Do something about DML armor (recipe, flight)
 Add resource image for Ardite Ore
 Add creative modifers to planet dungeon loot
+Add Magnets (or instead use Tinker's Magentic Trait)
 
 ITEMS NEEDING METHODS OF OBTAINING:
 Feathers - failed animals in dungeon
