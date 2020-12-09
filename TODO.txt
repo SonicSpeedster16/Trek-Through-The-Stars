@@ -18,6 +18,8 @@ Fix Wither skeletons spawning on planets
 Add Inventory Pets as planet dungeon loot
 Fix Inventory Pets recipe confilcts and hide unnecesary items
 Improve DML loot
+Add ores to Scannable
+Check TP fruits and OreDict if necessary
 Do something about Aroma's Teleporter
 Detirmine planet(s) for AE2 Meteorites
 Add recipes for Matter Overdrive Android parts
@@ -29,6 +31,7 @@ Do something about DML armor (recipe, flight)
 Add resource image for Ardite Ore
 Add creative modifers to planet dungeon loot
 Add Magnets (or instead use Tinker's Magentic Trait)
+Moon sapphire work with ConArm
 
 ITEMS NEEDING METHODS OF OBTAINING:
 Feathers - failed animals in dungeon
