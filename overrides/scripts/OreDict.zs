@@ -23,11 +23,12 @@ Add missing Ore Dictionary entries
 <ore:blockMagnesium>.add(<galaxyspace:decoblocks:6>);
 <ore:blockNickel>.add(<galaxyspace:decoblocks:5>);
 
-# Stones
+# Stones and Ores
 <ore:cobblestone>.add(<galacticraftplanets:mars:4>);
 <ore:cobblestone>.add(<galaxyspace:haumeablocks:2>);
 <ore:stone>.add(<galacticraftplanets:mars:9>);
 <ore:stone>.add(<galaxyspace:haumeablocks:1>);
+<ore:oreSapphire>.add(<galacticraftcore:basic_block_moon:6>);
 
 # Glass
 <ore:blockGlass>.add(<appliedenergistics2:quartz_glass>);
