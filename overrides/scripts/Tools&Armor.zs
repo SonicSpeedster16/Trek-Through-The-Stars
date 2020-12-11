@@ -82,7 +82,7 @@ Tools to Remove
 val toolsToRemove = [
   <minecraft:wooden_pickaxe>,
   <minecraft:golden_pickaxe>,
-  <galacticraftcore:steel_pickaxe>,
+//  <galacticraftcore:steel_pickaxe>,
   <galacticraftplanets:desh_pick>,
   <galacticraftplanets:titanium_pickaxe>,
   <galaxyspace:cobalt_pickaxe>,
