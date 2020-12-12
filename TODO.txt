@@ -14,14 +14,18 @@ Rework meteor ores and loot
 Review chest recipes
 Add Loot for Evolved Ice Blaze
 Add Inventory Pets as planet dungeon loot
-Fix Inventory Pets recipe confilcts and hide unnecesary items
 Improve DML loot
+Tweak Chest Transporter
+Change Metal Chests recipes
 Add ores to Scannable
 Do something about Aroma's Teleporter
 Detirmine planet(s) for AE2 Meteorites
 Add recipes for Matter Overdrive Android parts
 Unify Ender Dust
+Hide extra backpacks
 Add processing methods for Dense Ores
+Figure out Dyes for oxygen tanks
+Add recipe for Miner's Ring
 
 POSSIBLE TODOS?
 Make AstroMiner easier to acquire
@@ -30,6 +34,7 @@ Add resource image for Ardite Ore
 Add creative modifers to planet dungeon loot
 Add Magnets (or instead use Tinker's Magentic Trait)
 Fix Wither skeletons spawning on planets
+Remove ghast tears from DML
 
 ITEMS NEEDING METHODS OF OBTAINING:
 Feathers - failed animals in dungeon
