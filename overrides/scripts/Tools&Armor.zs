@@ -99,6 +99,7 @@ val toolsToRemove = [
   <galacticraftcore:steel_shovel>,
   <galacticraftplanets:desh_spade>,
   <galacticraftplanets:titanium_shovel>,
+  <galaxyspace:cobalt_spade>,
   <matteroverdrive:tritanium_shovel>,
   <minecraft:wooden_hoe>,
   <minecraft:golden_hoe>,
