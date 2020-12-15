@@ -1483,8 +1483,6 @@ travelersbackpack:sleeping_bag_bottom
 travelersbackpack:hose_nozzle
 travelersbackpack:hose
 travelersbackpack:backpack_tank
-wasteland_meteors:meteor_block_stairs
-wasteland_meteors:meteor_block_slab
 wct:wct
 wct:magnet_card
 wft:wft
@@ -1877,7 +1875,6 @@ crafttweaker:pattern_storage_oredict
 crafttweaker:ladder_wood
 crafttweaker:hopper_oredict
 crafttweaker:flint_and_real_steel
-crafttweaker:cobblestone_from_meteors
 crafttweaker:stone_pattern_custom
 crafttweaker:stone_sticks_standard
 crafttweaker:stone_crafting_table_cobble

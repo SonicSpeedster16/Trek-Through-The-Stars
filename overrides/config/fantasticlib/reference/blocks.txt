@@ -257,7 +257,6 @@ ae2stuff:grower
 ae2stuff:inscriber
 ae2stuff:wireless
 chickenchunks:chunk_loader
-ezwastelands:ezwastelandblock
 inventorypets:cloud
 inventorypets:cloud_spawn
 inventorypets:sand
@@ -278,11 +277,6 @@ stonechest:chest_stone
 stonechest:chest_granite
 stonechest:chest_diorite
 stonechest:chest_andesite
-wasteland_meteors:meteor_block
-wasteland_meteors:meteor_slab
-wasteland_meteors:meteor_double_slab
-wasteland_meteors:meteor_stairs
-wasteland_meteors:meteor_chest
 appliedenergistics2:quartz_ore
 appliedenergistics2:charged_quartz_ore
 appliedenergistics2:matrix_frame
