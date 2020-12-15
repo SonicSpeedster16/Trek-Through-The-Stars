@@ -98,37 +98,4 @@ val championsCommon = championsDrops.addPool("Common", 1, 1, 0, 0);
 //placeholder item
 championsCommon.addItemEntryHelper(<overquartz:quartz_brick>* 3, 1, 1,  [], [Conditions.killedByPlayer()]);
 
-/*~~~~~~~~~~~~~~~~~~~~~
-Wasteland Meteor Chests
-~~~~~~~~~~~~~~~~~~~~~*/
-
-LootTweaker.newTable("wasteland:meteor_chests");
-val meteorChest = LootTweaker.getTable("wasteland:meteor_chests");
-
-# Common Loot (Many; always at least 1)
-val meteorCommon = meteorChest.addPool("Common", 3, 6, 0, 0);
-// placeholder items
-meteorCommon.addItemEntryHelper(<deepmoblearning:living_matter_overworldian>, 5, 1, [Functions.setCount(1, 1)], []);
-meteorCommon.addItemEntryHelper(<deepmoblearning:living_matter_hellish>, 5, 1, [Functions.setCount(1, 1)], []);
-meteorCommon.addItemEntryHelper(<deepmoblearning:living_matter_extraterrestrial>, 5, 1, [Functions.setCount(1, 1)], []);
-
-# Rare Loot (Few or none; approximately 1 in 2 chance)
-val meteorRare = meteorChest.addPool("Rare", 0, 1, 0, 0);
-// placeholder items
-meteorRare.addItemEntryHelper(<minecraft:name_tag>, 6, 1, [Functions.setCount(1, 1)], []);
-meteorRare.addItemEntryHelper(<minecraft:bed:11>, 6, 1, [Functions.setCount(1, 1)], []);
-
-
-# Epic Loot (Few or none; approximately 1 in 6 chance)
-val meteorEpic = meteorChest.addPool("Epic", -5, 1, 0, 0);
-// placeholder items
-meteorEpic.addItemEntryHelper(<fluxnetworks:flux>, 5, 1, [Functions.setCount(1, 1)], []);
-meteorEpic.addItemEntryHelper(<minecraft:fire_charge>, 5, 1, [Functions.setCount(1, 1)], []);
-
-# Legendary Loot (Few or none; approximately 1 in 12 chance)
-val meteorLegendary = meteorChest.addPool("Legendary", -10, 1, 0, 0);
-// placeholder items
-meteorLegendary.addItemEntryHelper(<minecraft:name_tag>, 5, 1, [Functions.setCount(1, 1)], []);
-meteorLegendary.addItemEntryHelper(<minecraft:chainmail_boots>, 5, 1, [Functions.setCount(1, 1)], []);
-
 print("==== Initialized LootTables.zs ====");

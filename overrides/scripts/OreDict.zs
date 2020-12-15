@@ -14,7 +14,6 @@ Add missing Ore Dictionary entries
 <ore:workbench>.add(<sct:stone_crafting_table>);
 <ore:chest>.add(<appliedenergistics2:sky_stone_chest>);
 <ore:chest>.add(<appliedenergistics2:smooth_sky_stone_chest>);
-<ore:chest>.add(<wasteland_meteors:meteor_chest>);
 
 # Metals
 <ore:compressedTritanium>.add(<matteroverdrive:tritanium_plate>);

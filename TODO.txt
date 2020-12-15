@@ -7,11 +7,14 @@ Building Gadgets
 Ender Storage
 SoulBottle
 Ultimate Skyblock Resource Generator
+Doomlike Dungeons
 
 
 TODO:
 Rework meteor ores and loot
+Rework Lost Cities loot
 Review chest recipes
+Check Overworld oil generation
 Add Loot for Evolved Ice Blaze
 Add Inventory Pets as planet dungeon loot
 Improve DML loot

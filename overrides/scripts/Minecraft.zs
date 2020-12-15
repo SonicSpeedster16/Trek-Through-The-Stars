@@ -27,10 +27,6 @@ recipes.remove(<minecraft:flint_and_steel>);
 recipes.addShapeless("Flint_and_Real_Steel",
 <minecraft:flint_and_steel>, [<ore:ingotSteel>, <ore:flint>]);
 
-# Cobblestone from Meteor Blocks
-recipes.addShapeless("Cobblestone_from_Meteors",
-<minecraft:cobblestone> * 2, [<wasteland_meteors:meteor_block>, <wasteland_meteors:meteor_block>]);
-
 # Modded to Vanilla Chest
 //recipes.addShapeless("Chest_Conversion", <minecraft:chest> * 2, [<ore:chest>, <ore:chest>]);
 
