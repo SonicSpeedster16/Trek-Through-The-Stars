@@ -1,4 +1,5 @@
 ﻿MODS TO POSSIBLY ADD?
+Actually Additions
 Industrial Foregoing
 More Planets
 Portality
@@ -8,13 +9,15 @@ Ender Storage
 SoulBottle
 Ultimate Skyblock Resource Generator
 Doomlike Dungeons
+Dense Metals
 
 
 TODO:
-Rework meteor ores and loot
 Rework Lost Cities loot
 Review chest recipes
 Check Overworld oil generation
+Increase ore generation on Moon and other planets
+Generate Ardite somewhere besides the Nether
 Add Loot for Evolved Ice Blaze
 Add Inventory Pets as planet dungeon loot
 Improve DML loot
@@ -22,11 +25,9 @@ Tweak Chest Transporter
 Change Metal Chests recipes
 Add ores to Scannable
 Do something about Aroma's Teleporter
-Detirmine planet(s) for AE2 Meteorites
 Add recipes for Matter Overdrive Android parts
 Unify Ender Dust
 Hide extra backpacks
-Add processing methods for Dense Ores
 Figure out Dyes for oxygen tanks
 Add recipe for Miner's Ring
 
@@ -40,7 +41,7 @@ Fix Wither skeletons spawning on planets
 Remove ghast tears from DML
 
 ITEMS NEEDING METHODS OF OBTAINING:
-Feathers - failed animals in dungeon
+Feathers - failed animals in dungeon?
 Netherrack
 Pistons
 Drying Rack
