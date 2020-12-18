@@ -1610,6 +1610,8 @@ galacticraftcore:emergency_kit
 galacticraftcore:oxygen_tank_heavy_full_1
 galacticraftcore:oxygen_tank_med_full_1
 galacticraftcore:oxygen_tank_light_full_1
+galaxyspace:barnarda_c_blocks
+galaxyspace:barnarda_c_blocks_1
 galaxyspace:decoblocks
 galaxyspace:decoblocks_1
 galaxyspace:decoblocks_2
@@ -1689,8 +1691,6 @@ galaxyspace:gs_basic_5
 galaxyspace:gs_basic_6
 galaxyspace:gs_basic_7
 galaxyspace:dungeon_blocks
-galaxyspace:barnarda_c_blocks
-galaxyspace:barnarda_c_blocks_1
 tp:beet_juice2
 tp:compressed_6_cane
 tp:steel_block2
